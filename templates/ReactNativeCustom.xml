@@ -1,0 +1,102 @@
+<templateSet group="ReactNativeCustom">
+  <template name="rloge" value="NativeModules.AndroidLog.loge(&quot;$calss$#$method$&quot;, &quot;$msg$&quot;);" description="react android loge" toReformat="false" toShortenFQNames="true">
+    <variable name="calss" expression="jsClassName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="method" expression="jsMethodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ratoast" value="ToastAndroid.show(&quot;$msg$&quot;, ToastAndroid.SHORT);" description="react native android toast" toReformat="false" toShortenFQNames="true">
+    <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="imr" value="import React, {Component} from 'react';" description="import react" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="imrn" value="import React from 'react';&#10;import ReactNative from 'react-native';&#10;&#10;const {Component} = React;&#10;const {&#10;    $END$&#10;} = ReactNative;" description="import react-native" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="getwindow" value="var {width, height} = Dimensions.get('window');" description="get window width and height" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rtoast" value="Toast.show(&quot;$CONTENT$&quot;);" description="Toast.show(&quot;&quot;);" toReformat="false" toShortenFQNames="true">
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="if" value="if ($END$)" description="if" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="setState" value="setState({$END$});" description="this.setState({});" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="thenre" value="then(($result$) =&gt; {&#10;    $END$&#10;}, (error) =&gt; {&#10;})" description="then" toReformat="false" toShortenFQNames="true">
+    <variable name="result" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="thenr" value="then(($result$) =&gt; {&#10;    $END$&#10;})" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="result" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="clog" value="console.log($END$);" description="console.log(error);" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="fori" value="for (var i = 0; i &lt; $length$; i++) {&#10;    $END$&#10;}" description="for (var i = 0; i &lt; length; i++)" toReformat="false" toShortenFQNames="true">
+    <variable name="length" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="render" value="render() {&#10;    return (&#10;        &lt;View&gt;&#10;            $END$&#10;        &lt;/View&gt;&#10;    );&#10;};" description="render()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="navigationOptions" value="static navigationOptions = (params)=&gt; ({&#10;    headerTitle:'$END$',&#10;    ...NavigationHelper.defaultNavigationOptions(params),&#10;});" description="static navigationOptions = {};" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cbase" value="import React from 'react';&#10;import ReactNative from 'react-native';&#10;&#10;const {View, Text} = ReactNative;&#10;import BaseActivity from '$path$/BaseActivity';&#10;&#10;export default class $Activity$ extends BaseActivity {&#10;&#10;    render() {&#10;        return (&#10;            &lt;View&gt;&#10;                $END$&#10;            &lt;/View&gt;&#10;        );&#10;    }&#10;}" description="class Activity extends BaseActivity" toReformat="true" toShortenFQNames="true">
+    <variable name="path" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Activity" expression="" defaultValue="Activity" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ccbase" value="import React from 'react';&#10;import ReactNative from 'react-native';&#10;&#10;const {View, Text} = ReactNative;&#10;import BaseActivity from '$path$/BaseActivity';&#10;&#10;export default class $Activity$ extends BaseActivity {&#10;    constructor(props) {&#10;        super(props);&#10;        this.state = {}; &#10;    }&#10;&#10;    componentWillMount() {&#10;        super.componentWillMount();&#10;    }&#10;    &#10;    render() {&#10;        return (&#10;            &lt;View&gt;&#10;                $END$&#10;            &lt;/View&gt;&#10;        );&#10;    }&#10;    &#10;    componentDidMount() {&#10;        super.componentDidMount();&#10;    }&#10;&#10;    componentWillUnmount() {&#10;        super.componentWillUnmount();&#10;    }&#10;&#10;}" description="class Activity extends BaseActivity" toReformat="true" toShortenFQNames="true">
+    <variable name="path" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Activity" expression="" defaultValue="Activity" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="loge" value="Log.e(&quot;$calss$#$method$&quot;, &quot;$msg$&quot;);" description="Lge.e(tag , msg);" toReformat="false" toShortenFQNames="true">
+    <variable name="calss" expression="jsClassName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="method" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
