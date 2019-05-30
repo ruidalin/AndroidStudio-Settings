@@ -1,0 +1,237 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="DartCodeInsightSettings">
+    <option name="SHOW_CLOSING_LABELS" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="ANDROID.PANZOOM_X_POS" value="32" />
+    <property name="ANDROID.PANZOOM_Y_POS" value="47" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.LI_PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.LI_PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.LI_PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.LI_VIEW_TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.LI_VIEW_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.LI_VIEW_TREE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TOOL_ORDER" value="VIEW_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.VIEW_TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.VIEW_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.VIEW_TREE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,COMPONENT_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.LEFT.UNSCALED.WIDTH" value="440" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.LI_VIEW_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.PROPERTIES.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.RIGHT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.TOOL_ORDER" value="VIEW_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.VIEW_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,COMPONENT_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.RIGHT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="AndroidEnableDdms" value="true" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V2" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V4" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="AndroidPlatformName" value="Android API 26 Platform (1)" />
+    <property name="AndroidSupport.hidePassedTests" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="ColorChooser.RecentColors" value="51-51-51-255,,,243-244-245-255,,,102-102-102-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6111851" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.savedEditorTheme" value="Default copy" />
+    <property name="DocumentationAutoUpdateEnabled" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FLUTTER_COMPANY_DOMAIN" value="dalin.com" />
+    <property name="FLUTTER_SDK_KNOWN_PATHS" value="G:\software\flutter" />
+    <property name="FileChooser.ShowPath" value="true" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="FileTemplates.SelectedTemplate" value="C File Header" />
+    <property name="INTENTION_FILTER_HISTORY" value="" />
+    <property name="JRebelAndroidPlugin.DesugarNonIncrementalThrottle.215560e.TIMES" value="3" />
+    <property name="JRebelAndroidPlugin.FirstTimestamp" value="2017-12-20T12:40:24.862Z" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.150985ba.GradleBuildFailure" value="1536226046788" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.215560e.ApplyChangesApplicationCrash" value="1514344663367" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.215560e.GradleBuildFailure" value="1514344557220" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.215560e.RunApplicationCrash" value="1514344642586" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.43f96f91.ApplyChangesApplicationCrash" value="1519630655916" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.43f96f91.GradleBuildFailure" value="1519630529511" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.43f96f91.RunApplicationCrash" value="1519630589735" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.5224a867.GradleBuildFailure" value="1536222652752" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.62234ea6.GradleBuildFailure" value="1533722724121" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.826bd95f.GradleBuildFailure" value="1548216526730" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.a2f576a.GradleBuildFailure" value="1540454267393" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.af758d0c.ApplyChangesApplicationCrash" value="1518057082452" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.af758d0c.GradleBuildFailure" value="1518000204563" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.af758d0c.RunApplicationCrash" value="1518054825204" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.b2835294.ApplyChangesApplicationCrash" value="1558925799405" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.b2835294.GradleBuildFailure" value="1558683942855" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.b2835294.RunApplicationCrash" value="1558685726859" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.c2a2455e.ApplyChangesApplicationCrash" value="1539772962343" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.c2a2455e.GradleBuildFailure" value="1539770373264" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.c2a2455e.RunApplicationCrash" value="1539770440422" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.ca336c5.GradleBuildFailure" value="1540000975582" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.cec2bdc3.GradleBuildFailure" value="1552529543189" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.deda9e5c.ApplyChangesApplicationCrash" value="1514534229468" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.deda9e5c.GradleBuildFailure" value="1514369006614" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.deda9e5c.RunApplicationCrash" value="1514534154675" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.e0fa12c5.GradleBuildFailure" value="1539682623889" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.fddce5.ApplyChangesApplicationCrash" value="1540007526585" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.fddce5.GradleBuildFailure" value="1540007475981" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.fddce5.RunApplicationCrash" value="1540007525460" />
+    <property name="JRebelAndroidPlugin.FirstVersion" value="2.5.14" />
+    <property name="JRebelAndroidPlugin.LastReportedExpiredLicenseUid" value="32487b9d-0c38-49ac-9634-9f08b26abf79" />
+    <property name="JRebelAndroidPlugin.NewStartupActivationDialogNeeded" value="false" />
+    <property name="JRebelAndroidPlugin.OnboardingMakeProjectNeeded" value="false" />
+    <property name="JRebelAndroidPlugin.PROJECT_LAST_INVOKED_RUN_TIME" value="2019-05-29T17:19:42.136+08:00" />
+    <property name="JRebelAndroidPlugin.PROJECT_LAST_INVOKED_VERSION" value="2.5.88" />
+    <property name="JRebelAndroidPlugin.PROJECT_LAST_INVOKED_VERSION_TIMESTAMP" value="2019-01-16T08:53:41.726Z" />
+    <property name="JRebelAndroidPlugin.ReloadCounter" value="7107" />
+    <property name="JRebelAndroidPlugin.SHOW_RUN_CONFIRMATION" value="false" />
+    <property name="JRebelAndroidPlugin.Timestamp" value="2019-01-16T08:53:41.726Z" />
+    <property name="JRebelAndroidPlugin.Version" value="2.5.88" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="logcat&#10;clear&#10;apply&#10;run&#10;console" />
+    <property name="KEY_GENYMOTION_PATH" value="D:\Program Files (x86)\Genymobile\Genymotion" />
+    <property name="LOG_FILTER_HISTORY" value="&gt;&gt;&gt;&gt;&#10;onReceive&#10;LockService&#10;onDraw&#10;onViewCreated" />
+    <property name="LOG_FILTER_MESSAGE_HISTORY" value="http body&#10;I/_log" />
+    <property name="LOG_FILTER_TAG_HISTORY" value="System.err&#10;_log:&#10;_log&#10;OkHttp&#10;I/_log" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MobileminApi" value="21" />
+    <property name="NlScreenMode" value="SCREEN_ONLY" />
+    <property name="PLUGIN_FILTER" value="flutter&#10;react native&#10;dart&#10;kotlin&#10;geny" />
+    <property name="PROJECT_LAST_RAN_APPLICATION_ID" value="com.kyleduo.switchbutton.demo" />
+    <property name="SAVED_ANDROID_PACKAGE" value="com.demo" />
+    <property name="SAVED_COMPANY_DOMAIN" value="demo.com" />
+    <property name="SAVED_PROJECT_CPP_SUPPORT" value="true" />
+    <property name="SAVED_RENDER_LANGUAGE" value="Java" />
+    <property name="SearchEveryWhereHistory" value="mainac&#10;logina&#10;loginacti&#10;l&#10;homea" />
+    <property name="SettingsSearchHistory" value="document&#10;heap" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.36476427" />
+    <property name="TrendingPluginsSearchHistory" value="jrebel&#10;findbugs" />
+    <property name="UPSOURCE_REVIEW_FEED_MODE" value="ALL" />
+    <property name="android-component-compatibility-check" value="1558680192306" />
+    <property name="android.apk.viewer" value="0.43640608" />
+    <property name="android.show.prompt.kill.session" value="true" />
+    <property name="annotationStr" value="@com.alibaba.fastjson.annotation.JSONField\s*\(\s*name\s*=\s*&quot;{filed}&quot;\s*\)" />
+    <property name="arrayFromData" value="false" />
+    <property name="arrayFromData1" value="false" />
+    <property name="arrayFromData1Str" value="    public  static java.util.List&lt;$ClassName$&gt; array$ClassName$FromData(String str,String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;            java.lang.reflect.Type listType=new com.google.gson.reflect.TypeToken&lt;java.util.ArrayList&lt;$ClassName$&gt;&gt;(){}.getType();&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),listType);&#10;&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return new java.util.ArrayList();&#10;&#10;&#10;    }" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Build.selection.state" value="consoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="consoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="butterknifezelezny_prefix" value="m" />
+    <property name="butterknifezelezny_viewholder_class_name" value="ViewHolder" />
+    <property name="cn.yiiguxing.plugin.translate.version" value="2.3.2" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="entityPackName" value="com.ddongtech.buyhouse.entities." />
+    <property name="errorCount" value="1" />
+    <property name="export.settings.path" value="F:\dalin\AndroidStudioSettings.jar" />
+    <property name="fieldPrivateMode" value="true" />
+    <property name="file.chooser.recent.files" value="E:/FlutterDemo/flutter_app&#10;E:/FlutterDemo/flutter_shuqi&#10;E:/FlutterDemo&#10;G:/software/flutter&#10;G:/software/flutter/bin&#10;C:/Application/DongDong-Mortgage/android&#10;E:/Library/SwitchButton/SwitchButton&#10;E:/Application/Module&#10;E:/Application/Module/app&#10;D:/Program Files (x86)/Genymobile/Genymotion&#10;C:/Program Files/Git/bin/bash.exe&#10;C:/Program Files/Git&#10;C:/Program Files/Git/bin&#10;C:/Application/DongDong-Buy-House/doc/demo-project&#10;C:/Application/DongDong-Buy-House/doc/demo&#10;C:/Application/DongDong-Buy-House&#10;C:/Application/AnJvFang/doc/Crt310r-004安卓动态库和示例(读卡器)/CTR310r-demo&#10;C:/Application/AnJvFang/doc/MT6-00-G1DA(身份证阅读模块)/MT600G1DA-demo&#10;C:/Application/AnJvFang/doc/Pcsctest(6001安卓DEMO)/Pcsc-demo&#10;E:/Library/一体机/MTSDT&#10;C:/Application/AnJvFang/doc/demo&#10;E:/Library/一体机/MT6-00-G1DA（身份证阅读模块）/GA二代证公安部协议[V1.0.2 andr]/GA二代证公安部协议[V1.0.2 andr]/demo/MTSDT&#10;D:/Program Files (x86)/gradle/bin&#10;E:/cmbc/androidmimakongjian/CMBC_KeyboardJar&#10;E:/cmbc/androidmimakongjian/KeyBoardDemo&#10;E:/lexiang/LeDataApp/platforms/android/build.gradle&#10;E:/tttt/hello/platforms/android/build.gradle&#10;E:/乐享风控与小贷系统交接相关文件/LeDataApp/tttt/hello/platforms/android/build.gradle&#10;E:/乐享风控与小贷系统交接相关文件/LeDataApp/platforms/android&#10;E:/乐享风控与小贷系统交接相关文件/LeDataApp/platforms/android/build.gradle" />
+    <property name="file.gist.reindex.count" value="33816" />
+    <property name="fileTypeChangedCounter" value="7" />
+    <property name="filedNamePreFixStr" value="null" />
+    <property name="generateComments" value="true" />
+    <property name="gradle.runner.text.console" value="true" />
+    <property name="gradle.runner.text.console_str" value="true" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.31-release-Studio3.4-1" />
+    <property name="io.flutter.analytics.clientId" value="695ca57e-743d-4f7f-8849-8faeec0a5b04" />
+    <property name="io.flutter.analytics.toastShown" value="true" />
+    <property name="kotlin.lastUpdateCheck" value="1558924049174" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.31-release-Studio3.4-1:2019-04-25" />
+    <property name="last.used.gradle.home" value="D:/Program Files (x86)/gradle" />
+    <property name="lastTip" value="2" />
+    <property name="newly.installed.api.level" value="27" />
+    <property name="objectFromData" value="false" />
+    <property name="objectFromData1" value="false" />
+    <property name="objectFromDataStr" value="    public  static $ClassName$ objectFromData(String str){&#10;&#10;        return new com.google.gson.Gson().fromJson(str,$ClassName$.class);&#10;    }" />
+    <property name="objectFromDataStr1" value="    public  static $ClassName$ objectFromData(String str, String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),$ClassName$.class);&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return null;&#10;    }" />
+    <property name="palette.category.width" value="100" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Desktop" />
+    <property name="properties.mode" value="TABLE" />
+    <property name="quick.doc.font.size" value="MEDIUM" />
+    <property name="reuseEntity" value="false" />
+    <property name="selected.color.option.type" value="DOCUMENTATION_COLOR" />
+    <property name="settings.code.style.selected.tab.Groovy" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.ObjectiveC" value="Wrapping and Braces" />
+    <property name="splitGenerate" value="false" />
+    <property name="studio.activity.count" value="59" />
+    <property name="suffixStr" value="Entity" />
+    <property name="useFieldNamePrefix" value="false" />
+    <property name="useSerializedName" value="false" />
+    <property name="virgoMode" value="true" />
+  </component>
+</application>

@@ -1,0 +1,38 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <enabledExternalComponentSources>
+      <item value="Android SDK" />
+    </enabledExternalComponentSources>
+    <option name="externalUpdateChannels">
+      <map>
+        <entry key="Android SDK" value="Stable Channel" />
+      </map>
+    </option>
+    <ignoredBuildNumbers>
+      <item value="platforms;android-27#3" />
+      <item value="system-images;android-25;google_apis;x86_64#13" />
+      <item value="system-images;android-26;android-tv;x86#9" />
+      <item value="emulator#27.3.10" />
+      <item value="extras;intel;Hardware_Accelerated_Execution_Manager#7.3.2" />
+      <item value="ndk-bundle#18.1.5063045" />
+      <item value="platform-tools#28.0.1" />
+      <item value="system-images;android-16;default;x86#6" />
+      <item value="system-images;android-17;default;x86#4" />
+      <item value="system-images;android-25;google_apis;x86_64#14" />
+      <item value="system-images;android-26;android-tv;x86#10" />
+      <item value="emulator#28.0.22" />
+      <item value="ndk-bundle#19.0.5232133" />
+      <item value="system-images;android-25;google_apis;x86_64#15" />
+      <item value="system-images;android-26;android-tv;x86#11" />
+    </ignoredBuildNumbers>
+    <knownExternalComponentSources>
+      <item value="Android SDK" />
+    </knownExternalComponentSources>
+    <option name="LAST_BUILD_CHECKED" value="AI-183.5429.30.34.5452501" />
+    <option name="LAST_TIME_CHECKED" value="1559124393786" />
+    <pluginHosts>
+      <item value="http://dl.zeroturnaround.com/jrebel-android/plugins/ide-studio/updatePlugins.xml" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>
