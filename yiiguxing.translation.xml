@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Real" />
+      <item value="Real Call" />
       <item value="satisfied" />
       <item value="Decorated" />
       <item value="layout Decorated" />
@@ -49,13 +51,11 @@
       <item value="Rich Text" />
       <item value="Positioned" />
       <item value="Opacity" />
-      <item value="space Evenly" />
-      <item value="justify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
-        <entry key="ENGLISH" value="183" />
+        <entry key="CHINESE" value="188" />
+        <entry key="ENGLISH" value="185" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
