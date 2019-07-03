@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="promote" />
+      <item value="promote Calls" />
       <item value="Agent" />
       <item value="applied" />
       <item value="handshake" />
@@ -49,13 +51,11 @@
       <item value="implied" />
       <item value="Cupertino" />
       <item value="Scene" />
-      <item value="Decorated Box" />
-      <item value="sublist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="CHINESE" value="194" />
+        <entry key="ENGLISH" value="191" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
