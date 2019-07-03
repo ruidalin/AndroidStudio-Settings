@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Agent" />
       <item value="applied" />
       <item value="handshake" />
       <item value="proceed" />
@@ -50,12 +51,11 @@
       <item value="Scene" />
       <item value="Decorated Box" />
       <item value="sublist" />
-      <item value="Semantics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="189" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
