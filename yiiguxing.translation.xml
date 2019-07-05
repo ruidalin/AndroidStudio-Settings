@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It is * an error to call restore() more times than save() was called." />
+      <item value="balances" />
+      <item value="restore" />
+      <item value="restore To Count" />
       <item value="promote" />
       <item value="promote Calls" />
       <item value="Agent" />
@@ -47,16 +51,12 @@
       <item value="onwards" />
       <item value="invitation" />
       <item value="Construction" />
-      <item value="Scaffold" />
-      <item value="implied" />
-      <item value="Cupertino" />
-      <item value="Scene" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="194" />
-        <entry key="ENGLISH" value="191" />
-        <entry key="FRENCH" value="1" />
+        <entry key="CHINESE" value="198" />
+        <entry key="ENGLISH" value="194" />
+        <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
