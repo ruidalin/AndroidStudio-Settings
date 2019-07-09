@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="union" />
+      <item value="Internal" />
+      <item value="Choreographer" />
+      <item value="// Would not normally trigger another layout, so just let it pass through as usual" />
+      <item value="undergoing" />
       <item value="It is * an error to call restore() more times than save() was called." />
       <item value="balances" />
       <item value="restore" />
@@ -46,16 +51,11 @@
       <item value="creation" />
       <item value="Absent" />
       <item value="split" />
-      <item value="Internal" />
-      <item value="Internal Handler" />
-      <item value="onwards" />
-      <item value="invitation" />
-      <item value="Construction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="198" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="199" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
