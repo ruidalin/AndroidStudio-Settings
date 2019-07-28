@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="imprexion" />
       <item value="get Code" />
       <item value="failed" />
       <item value="accept" />
@@ -50,12 +51,11 @@
       <item value="coordinate" />
       <item value="Transforms" />
       <item value="FIND POTENTIAL LEAKS" />
-      <item value="Replaces all linked nodes in bin at index for given hash unless * table is too small, in which case resizes instead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="CHINESE" value="207" />
+        <entry key="ENGLISH" value="205" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
