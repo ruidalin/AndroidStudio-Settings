@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="centered" />
       <item value="set Has Fixed Size" />
       <item value="get Brand Name" />
       <item value="imprexion" />
@@ -50,7 +51,6 @@
       <item value="get And Verify Preordered Index" />
       <item value="disallow Intercept" />
       <item value="particular" />
-      <item value="coordinate" />
     </histories>
     <option name="languageScores">
       <map>
