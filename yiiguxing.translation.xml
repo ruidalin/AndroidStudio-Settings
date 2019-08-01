@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="excuted" />
       <item value="Coupon" />
       <item value="Parking" />
       <item value="Paking" />
@@ -13,7 +14,6 @@
       <item value="get Code" />
       <item value="failed" />
       <item value="accept" />
-      <item value="excuted" />
       <item value="Instrumentation" />
       <item value="union" />
       <item value="Internal" />
