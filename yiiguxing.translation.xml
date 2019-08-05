@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="base" />
+      <item value="imprexion" />
       <item value="stroke Width" />
       <item value="snap" />
       <item value="Valid Fragment" />
@@ -13,7 +15,6 @@
       <item value="centered" />
       <item value="set Has Fixed Size" />
       <item value="get Brand Name" />
-      <item value="imprexion" />
       <item value="get Code" />
       <item value="failed" />
       <item value="accept" />
@@ -50,12 +51,11 @@
       <item value="granted" />
       <item value="DENIED" />
       <item value="unmodifiable" />
-      <item value="unmodifiable List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="217" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
@@ -65,9 +65,11 @@
     <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
+    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6e2757bde9036761" />
+        <option name="appKeyConfigured" value="true" />
         <option name="primaryLanguage" value="CHINESE" />
       </youdao-translate>
     </option>
