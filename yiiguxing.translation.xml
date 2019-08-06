@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Billing" />
       <item value="base" />
       <item value="imprexion" />
       <item value="stroke Width" />
@@ -50,12 +51,11 @@
       <item value="Rationale" />
       <item value="granted" />
       <item value="DENIED" />
-      <item value="unmodifiable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="218" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
