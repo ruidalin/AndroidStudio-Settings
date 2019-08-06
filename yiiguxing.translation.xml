@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Model" />
+      <item value="Module" />
+      <item value="Module Utils" />
       <item value="Billing" />
       <item value="android" />
       <item value="base" />
@@ -48,14 +51,11 @@
       <item value="COMPLETING" />
       <item value="report" />
       <item value="termination" />
-      <item value="offer" />
-      <item value="Rationale" />
-      <item value="granted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="224" />
+        <entry key="ENGLISH" value="225" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
