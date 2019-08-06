@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="android" />
       <item value="Billing" />
       <item value="base" />
       <item value="imprexion" />
@@ -50,18 +51,18 @@
       <item value="offer" />
       <item value="Rationale" />
       <item value="granted" />
-      <item value="DENIED" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="219" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="ENGLISH" value="220" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="foldOriginal" value="true" />
     <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
