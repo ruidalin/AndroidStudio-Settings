@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="executed" />
+      <item value="open Face ID Plugin" />
       <item value="Unbind" />
       <item value="On Face ID Unbind Listener" />
       <item value="on Sign In Success" />
@@ -49,13 +51,11 @@
       <item value="restore To Count" />
       <item value="promote" />
       <item value="promote Calls" />
-      <item value="Agent" />
-      <item value="applied" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="236" />
+        <entry key="CHINESE" value="237" />
+        <entry key="ENGLISH" value="238" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="SPANISH" value="1" />
