@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="excute" />
+      <item value="private void sendUnBindFaceIDMessage() { Message msgFromClient = new Message(); Bundle bundle = new Bundle(); bundle.putString(&quot;package&quot;, mContext.getPackageName()); msgFromClient.setData(bundle); msgFromClient.what = MSG_FACEID_Unbind; msgFromClient.replyTo = mMessenger; try { mService.send(msgFromClient); } catch (RemoteException e) { e.printStackTrace(); } }" />
       <item value="poll" />
       <item value="reset Car Number" />
       <item value="Silver" />
@@ -49,14 +51,13 @@
       <item value="proceed" />
       <item value="Real" />
       <item value="Real Call" />
-      <item value="satisfied" />
-      <item value="Decorated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
+        <entry key="CHINESE" value="232" />
         <entry key="ENGLISH" value="232" />
         <entry key="FRENCH" value="2" />
+        <entry key="LATIN" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
