@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="elapsed Realtime Nanos" />
       <item value="Returns the current time in milliseconds." />
       <item value="* Returns the current value of the running Java Virtual Machine's * high-resolution time source, in nanoseconds." />
       <item value="executed" />
@@ -50,12 +51,11 @@
       <item value="It is * an error to call restore() more times than save() was called." />
       <item value="balances" />
       <item value="restore" />
-      <item value="restore To Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="239" />
-        <entry key="ENGLISH" value="240" />
+        <entry key="CHINESE" value="240" />
+        <entry key="ENGLISH" value="241" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="SPANISH" value="1" />
