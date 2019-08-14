@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LAUNCHE" />
+      <item value="LAUNCH" />
+      <item value="LAUNCHED" />
       <item value="open Face ID Plugin" />
       <item value="elapsed Realtime Nanos" />
       <item value="Returns the current time in milliseconds." />
@@ -48,16 +51,14 @@
       <item value="Choreographer" />
       <item value="// Would not normally trigger another layout, so just let it pass through as usual" />
       <item value="undergoing" />
-      <item value="It is * an error to call restore() more times than save() was called." />
-      <item value="balances" />
-      <item value="restore" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="241" />
-        <entry key="ENGLISH" value="242" />
+        <entry key="CHINESE" value="244" />
+        <entry key="ENGLISH" value="244" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
+        <entry key="BENGALI" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
