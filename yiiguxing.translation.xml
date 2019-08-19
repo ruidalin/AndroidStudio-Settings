@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="奖品信息" />
       <item value="ellipsize" />
       <item value="On Face ID Sign Out Listener" />
       <item value="LAUNCHE" />
@@ -50,11 +51,10 @@
       <item value="Instrumentation" />
       <item value="union" />
       <item value="Internal" />
-      <item value="Choreographer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="244" />
+        <entry key="CHINESE" value="245" />
         <entry key="ENGLISH" value="245" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
