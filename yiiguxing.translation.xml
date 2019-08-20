@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unparcel" />
       <item value="text Residue Degree View" />
       <item value="奖品信息" />
       <item value="ellipsize" />
@@ -50,14 +51,14 @@
       <item value="failed" />
       <item value="accept" />
       <item value="Instrumentation" />
-      <item value="union" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
+        <entry key="CHINESE" value="246" />
         <entry key="ENGLISH" value="246" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
