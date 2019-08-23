@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Stop the stream specified by the streamID. This * is the value returned by the play() function. If the stream * is playing, it will be stopped. It also releases any native * resources associated with this stream. If the stream is not * playing, it will have no effect." />
+      <item value="previously" />
       <item value="lowest" />
       <item value="compatibility" />
       <item value="* a value of 1 for future compatibility." />
@@ -49,13 +51,11 @@
       <item value="private void sendUnBindFaceIDMessage() { Message msgFromClient = new Message(); Bundle bundle = new Bundle(); bundle.putString(&quot;package&quot;, mContext.getPackageName()); msgFromClient.setData(bundle); msgFromClient.what = MSG_FACEID_Unbind; msgFromClient.replyTo = mMessenger; try { mService.send(msgFromClient); } catch (RemoteException e) { e.printStackTrace(); } }" />
       <item value="poll" />
       <item value="reset Car Number" />
-      <item value="Silver" />
-      <item value="TOKEN FAIL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="268" />
-        <entry key="ENGLISH" value="269" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="271" />
         <entry key="FRENCH" value="2" />
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="1" />
