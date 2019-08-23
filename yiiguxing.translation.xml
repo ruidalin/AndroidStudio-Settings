@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="break" />
+      <item value="image Avatar View" />
       <item value="Cancels" />
       <item value="fire" />
       <item value="Circular" />
@@ -49,13 +51,11 @@
       <item value="根据用户手机或user Id获取停车信息" />
       <item value="locate" />
       <item value="Model" />
-      <item value="Module" />
-      <item value="Module Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="264" />
+        <entry key="ENGLISH" value="265" />
         <entry key="FRENCH" value="2" />
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="1" />
@@ -73,6 +73,7 @@
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6e2757bde9036761" />
+        <option name="appKeyConfigured" value="true" />
         <option name="primaryLanguage" value="CHINESE" />
       </youdao-translate>
     </option>
