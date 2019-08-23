@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lowest" />
+      <item value="compatibility" />
+      <item value="* a value of 1 for future compatibility." />
+      <item value="Currently" />
+      <item value="signal" />
       <item value="break" />
       <item value="image Avatar View" />
       <item value="Cancels" />
@@ -46,16 +51,11 @@
       <item value="reset Car Number" />
       <item value="Silver" />
       <item value="TOKEN FAIL" />
-      <item value="TOKEN EXCEPTION" />
-      <item value="TOKEN FAILED" />
-      <item value="根据用户手机或user Id获取停车信息" />
-      <item value="locate" />
-      <item value="Model" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="264" />
-        <entry key="ENGLISH" value="265" />
+        <entry key="CHINESE" value="268" />
+        <entry key="ENGLISH" value="269" />
         <entry key="FRENCH" value="2" />
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="1" />
