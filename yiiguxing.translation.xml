@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="excuted" />
       <item value="on Failed" />
       <item value="effect" />
       <item value="0" />
@@ -50,12 +51,11 @@
       <item value="executed" />
       <item value="Unbind" />
       <item value="On Face ID Unbind Listener" />
-      <item value="on Sign In Success" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="273" />
-        <entry key="ENGLISH" value="274" />
+        <entry key="CHINESE" value="274" />
+        <entry key="ENGLISH" value="275" />
         <entry key="FRENCH" value="2" />
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="1" />
