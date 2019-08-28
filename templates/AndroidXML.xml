@@ -35,4 +35,34 @@
       <option name="XML" value="true" />
     </context>
   </template>
+  <template name="plpl" value="app:layout_paddingLeftPercent=&quot;$left$&quot;" description="app:layout_paddingLeftPercent=&quot;&quot;" toReformat="false" toShortenFQNames="true">
+    <variable name="left" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="plpt" value="app:layout_paddingTopPercent=&quot;$top$&quot;" description="app:layout_paddingTopPercent=&quot;&quot;" toReformat="false" toShortenFQNames="true">
+    <variable name="top" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="plpr" value="app:layout_paddingRightPercent=&quot;$right$&quot;" description="app:layout_paddingRightPercent=&quot;&quot;" toReformat="false" toShortenFQNames="true">
+    <variable name="right" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="plpb" value="app:layout_paddingBottomPercent=&quot;$bottom$&quot;" description="app:layout_paddingBottomPercent=&quot;&quot;" toReformat="false" toShortenFQNames="true">
+    <variable name="bottom" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="plts" value="app:layout_textSizePercent=&quot;$size$&quot;" description="app:layout_textSizePercent=&quot;&quot;" toReformat="false" toShortenFQNames="true">
+    <variable name="size" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
 </templateSet>
