@@ -7,6 +7,10 @@
       </value>
     </option>
   </AndroidXmlCodeStyleSettings>
+  <JavaCodeStyleSettings>
+    <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
+    <option name="JD_LEADING_ASTERISKS_ARE_ENABLED" value="false" />
+  </JavaCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="-1" />
   </MarkdownNavigatorCodeStyleSettings>
