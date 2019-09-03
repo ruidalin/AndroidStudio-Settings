@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Http Fail" />
       <item value="console" />
       <item value="Rule" />
       <item value="excuted" />
@@ -50,12 +51,11 @@
       <item value="elapsed Realtime Nanos" />
       <item value="Returns the current time in milliseconds." />
       <item value="* Returns the current value of the running Java Virtual Machine's * high-resolution time source, in nanoseconds." />
-      <item value="executed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="275" />
-        <entry key="ENGLISH" value="276" />
+        <entry key="CHINESE" value="276" />
+        <entry key="ENGLISH" value="277" />
         <entry key="FRENCH" value="2" />
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="1" />
