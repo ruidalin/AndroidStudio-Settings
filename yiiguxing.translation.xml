@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MATCH" />
       <item value="on Http Fail" />
       <item value="console" />
       <item value="Rule" />
@@ -50,12 +51,11 @@
       <item value="open Face ID Plugin" />
       <item value="elapsed Realtime Nanos" />
       <item value="Returns the current time in milliseconds." />
-      <item value="* Returns the current value of the running Java Virtual Machine's * high-resolution time source, in nanoseconds." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="277" />
+        <entry key="ENGLISH" value="278" />
         <entry key="FRENCH" value="2" />
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="1" />
