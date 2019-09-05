@@ -9,6 +9,7 @@
   </AndroidXmlCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
+    <option name="JD_ADD_BLANK_AFTER_DESCRIPTION" value="false" />
     <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
     <option name="JD_LEADING_ASTERISKS_ARE_ENABLED" value="false" />
   </JavaCodeStyleSettings>
@@ -27,6 +28,7 @@
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
