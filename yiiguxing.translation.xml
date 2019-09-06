@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="topmost" />
       <item value="switch" />
       <item value="ancestors" />
       <item value="MATCH" />
@@ -50,12 +51,11 @@
       <item value="LAUNCHE" />
       <item value="LAUNCH" />
       <item value="LAUNCHED" />
-      <item value="open Face ID Plugin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="279" />
-        <entry key="ENGLISH" value="280" />
+        <entry key="CHINESE" value="280" />
+        <entry key="ENGLISH" value="281" />
         <entry key="FRENCH" value="2" />
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="1" />
