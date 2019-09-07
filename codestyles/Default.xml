@@ -8,6 +8,8 @@
     </option>
   </AndroidXmlCodeStyleSettings>
   <JavaCodeStyleSettings>
+    <option name="FIELD_NAME_PREFIX" value="m" />
+    <option name="STATIC_FIELD_NAME_PREFIX" value="s" />
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
     <option name="JD_ADD_BLANK_AFTER_DESCRIPTION" value="false" />
     <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
