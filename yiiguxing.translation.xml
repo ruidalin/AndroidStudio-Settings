@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Seconds" />
+      <item value="m Count Seconds" />
       <item value="assume Layout" />
       <item value="synchronization" />
       <item value="topmost" />
@@ -49,13 +51,11 @@
       <item value="text Residue Degree View" />
       <item value="奖品信息" />
       <item value="ellipsize" />
-      <item value="On Face ID Sign Out Listener" />
-      <item value="LAUNCHE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="282" />
-        <entry key="ENGLISH" value="283" />
+        <entry key="CHINESE" value="284" />
+        <entry key="ENGLISH" value="285" />
         <entry key="FRENCH" value="2" />
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="1" />
