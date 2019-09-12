@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stop Animation" />
       <item value="is Foreground" />
       <item value="Seconds" />
       <item value="m Count Seconds" />
@@ -50,7 +51,6 @@
       <item value="image Avatar" />
       <item value="unparcel" />
       <item value="text Residue Degree View" />
-      <item value="奖品信息" />
     </histories>
     <option name="languageScores">
       <map>
