@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Snap" />
+      <item value="Sna" />
+      <item value="m Snap" />
+      <item value="R" />
+      <item value="snap" />
       <item value="Restricted Api" />
       <item value="View Utils" />
       <item value="stop Animation" />
@@ -46,16 +51,12 @@
       <item value="scene" />
       <item value="sicen" />
       <item value="scine" />
-      <item value="dismiss Allowing State Loss" />
-      <item value="oval" />
-      <item value="mutate" />
-      <item value="clamp" />
-      <item value="image Avatar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="291" />
+        <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="1" />
