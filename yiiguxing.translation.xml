@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="low-latency" />
+      <item value="ship" />
       <item value="ffb 969" />
       <item value="rating" />
       <item value="Make Score Dialog Fragment" />
@@ -49,13 +51,11 @@
       <item value="on Show Exchange Score" />
       <item value="layout exchange score" />
       <item value="redeem" />
-      <item value="Score" />
-      <item value="text Credits View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="292" />
-        <entry key="ENGLISH" value="293" />
+        <entry key="CHINESE" value="294" />
+        <entry key="ENGLISH" value="295" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="KANNADA" value="1" />
