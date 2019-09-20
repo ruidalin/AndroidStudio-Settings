@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="变动" />
       <item value="MERCHANT" />
       <item value="low-latency" />
       <item value="ship" />
@@ -50,11 +51,10 @@
       <item value="lottie" />
       <item value="Exchange Rule" />
       <item value="on Show Exchange Score" />
-      <item value="layout exchange score" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
+        <entry key="CHINESE" value="296" />
         <entry key="ENGLISH" value="296" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
