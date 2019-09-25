@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DRM" />
       <item value="color Card Diamond" />
       <item value="Translucent" />
       <item value="diamond" />
@@ -50,14 +51,14 @@
       <item value="fire" />
       <item value="Circular" />
       <item value="create Circular Reveal" />
-      <item value="INFINITE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="298" />
+        <entry key="CHINESE" value="299" />
         <entry key="ENGLISH" value="299" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
+        <entry key="DUTCH" value="1" />
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
