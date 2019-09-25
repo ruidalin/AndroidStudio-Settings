@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="challenge click me" />
+      <item value="Statistics" />
       <item value="DRM" />
       <item value="color Card Diamond" />
       <item value="Translucent" />
@@ -49,13 +51,11 @@
       <item value="image Avatar View" />
       <item value="Cancels" />
       <item value="fire" />
-      <item value="Circular" />
-      <item value="create Circular Reveal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="CHINESE" value="300" />
+        <entry key="ENGLISH" value="301" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
