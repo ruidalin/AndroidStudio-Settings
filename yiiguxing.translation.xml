@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="seconds" />
       <item value="Emblem" />
       <item value="text Emblem Icon View" />
       <item value="set Has Fixed Size" />
@@ -50,12 +51,11 @@
       <item value="previously" />
       <item value="lowest" />
       <item value="compatibility" />
-      <item value="* a value of 1 for future compatibility." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="305" />
-        <entry key="ENGLISH" value="306" />
+        <entry key="CHINESE" value="306" />
+        <entry key="ENGLISH" value="307" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
