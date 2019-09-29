@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Emblem" />
+      <item value="text Emblem Icon View" />
       <item value="set Has Fixed Size" />
       <item value="Linear Snap Helper" />
       <item value="frequently" />
@@ -49,13 +51,11 @@
       <item value="lowest" />
       <item value="compatibility" />
       <item value="* a value of 1 for future compatibility." />
-      <item value="Currently" />
-      <item value="signal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="303" />
-        <entry key="ENGLISH" value="304" />
+        <entry key="CHINESE" value="305" />
+        <entry key="ENGLISH" value="306" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
