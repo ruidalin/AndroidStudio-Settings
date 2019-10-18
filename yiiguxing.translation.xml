@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="omitted" />
       <item value="retrieve" />
       <item value="Intercept" />
       <item value="Compact" />
@@ -50,12 +51,11 @@
       <item value="MATCH" />
       <item value="on Http Fail" />
       <item value="console" />
-      <item value="Rule" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="316" />
-        <entry key="ENGLISH" value="317" />
+        <entry key="CHINESE" value="317" />
+        <entry key="ENGLISH" value="318" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
