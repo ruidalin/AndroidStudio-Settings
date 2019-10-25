@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compare And Set" />
       <item value="Flowable" />
       <item value="Completable" />
       <item value="Pair" />
@@ -50,7 +51,6 @@
       <item value="Make Score Dialog Fragment" />
       <item value="Snap" />
       <item value="Sna" />
-      <item value="m Snap" />
     </histories>
     <option name="languageScores">
       <map>
