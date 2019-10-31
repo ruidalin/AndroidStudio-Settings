@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quad" />
+      <item value="anticipate" />
+      <item value="quint" />
+      <item value="cubic" />
       <item value="Terminate" />
       <item value="offer" />
       <item value="compare And Set" />
@@ -47,15 +51,11 @@
       <item value="变动" />
       <item value="MERCHANT" />
       <item value="low-latency" />
-      <item value="ship" />
-      <item value="ffb 969" />
-      <item value="rating" />
-      <item value="Make Score Dialog Fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="343" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="1" />
