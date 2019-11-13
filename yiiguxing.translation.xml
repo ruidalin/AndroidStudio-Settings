@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Can not PK" />
+      <item value="Can" />
       <item value="descendant" />
       <item value="infinitely" />
       <item value="Wechat" />
@@ -49,13 +51,11 @@
       <item value="Emblem" />
       <item value="text Emblem Icon View" />
       <item value="set Has Fixed Size" />
-      <item value="Linear Snap Helper" />
-      <item value="frequently" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="349" />
-        <entry key="ENGLISH" value="350" />
+        <entry key="CHINESE" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
