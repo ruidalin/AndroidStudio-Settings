@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Register a callback to be invoked when the end of a media source * has been reached during playback." />
       <item value="DESTROYED" />
       <item value="Can not PK" />
       <item value="Can" />
@@ -50,12 +51,11 @@
       <item value="/** * Interface definition for a callback to be invoked when the status bar changes * visibility. This reports &lt;strong&gt;global&lt;/strong&gt; changes to the system UI * state, not what the application is requesting. * * @see View#setOnSystemUiVisibilityChangeListener(android.view.View.OnSystemUiVisibilityChangeListener) */" />
       <item value="seconds" />
       <item value="Emblem" />
-      <item value="text Emblem Icon View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="352" />
-        <entry key="ENGLISH" value="353" />
+        <entry key="CHINESE" value="353" />
+        <entry key="ENGLISH" value="354" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
