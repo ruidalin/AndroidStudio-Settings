@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UI EVENT GET SHOP CATEGORY" />
       <item value="Statistics" />
       <item value="MERCHANT" />
       <item value="active" />
@@ -50,7 +51,6 @@
       <item value="problem" />
       <item value="* Resets the MediaPlayer to its uninitialized state. After calling * this method, you will have to initialize it again by setting the * data source and calling prepare()." />
       <item value="uninitialized" />
-      <item value="exion" />
     </histories>
     <option name="languageScores">
       <map>
