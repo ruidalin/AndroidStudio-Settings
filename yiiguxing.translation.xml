@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Energy Bar" />
+      <item value="value Animator" />
+      <item value="Value Animator" />
+      <item value="context" />
+      <item value="Context" />
       <item value="hasbeen" />
       <item value="overflow-conscious code" />
       <item value="Category" />
@@ -46,16 +51,11 @@
       <item value="Minute" />
       <item value="invilidate" />
       <item value="Intercept" />
-      <item value="open Ding Talk" />
-      <item value="rimet" />
-      <item value="CONTENT_" />
-      <item value="contructed" />
-      <item value="occured" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="363" />
-        <entry key="ENGLISH" value="364" />
+        <entry key="CHINESE" value="368" />
+        <entry key="ENGLISH" value="369" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
@@ -73,6 +73,7 @@
     <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
+    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6e2757bde9036761" />
