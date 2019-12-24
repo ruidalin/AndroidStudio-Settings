@@ -73,11 +73,9 @@
     <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6e2757bde9036761" />
-        <option name="appKeyConfigured" value="true" />
         <option name="primaryLanguage" value="CHINESE" />
       </youdao-translate>
     </option>
