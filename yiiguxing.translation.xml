@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="View" />
       <item value="valid" />
       <item value="filter App List" />
       <item value="Energy Bar" />
@@ -50,7 +51,6 @@
       <item value="Pair" />
       <item value="number Signed" />
       <item value="diff Minute" />
-      <item value="Minute" />
     </histories>
     <option name="languageScores">
       <map>
