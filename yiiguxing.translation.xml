@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Flipping Less Count" />
       <item value="Pager" />
       <item value="AI Smile" />
       <item value="View" />
@@ -50,12 +51,11 @@
       <item value="compare And Set" />
       <item value="Flowable" />
       <item value="Completable" />
-      <item value="Pair" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="370" />
-        <entry key="ENGLISH" value="371" />
+        <entry key="CHINESE" value="371" />
+        <entry key="ENGLISH" value="372" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
