@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mutable" />
+      <item value="Mutable List" />
       <item value="official" />
       <item value="obsolete" />
       <item value="Wechat" />
@@ -49,13 +51,11 @@
       <item value="quint" />
       <item value="cubic" />
       <item value="Terminate" />
-      <item value="offer" />
-      <item value="compare And Set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="373" />
-        <entry key="ENGLISH" value="374" />
+        <entry key="CHINESE" value="375" />
+        <entry key="ENGLISH" value="376" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
