@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="HIDE NOT ALWAYS" />
+      <item value="HIDE IMPLICIT ONLY" />
+      <item value="IMPLICIT" />
+      <item value="SHOW IMPLICIT" />
+      <item value="SHOW FORCED" />
       <item value="Presenter" />
       <item value="精选" />
       <item value="Mutable" />
@@ -46,16 +51,11 @@
       <item value="Dogfall" />
       <item value="Sate" />
       <item value="State" />
-      <item value="image Left Light View" />
-      <item value="_bias" />
-      <item value="quad" />
-      <item value="anticipate" />
-      <item value="quint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="377" />
+        <entry key="CHINESE" value="381" />
+        <entry key="ENGLISH" value="382" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
