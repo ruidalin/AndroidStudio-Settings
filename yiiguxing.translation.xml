@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Nick Name" />
       <item value="valid" />
       <item value="occurred" />
       <item value="IMPLICIT" />
@@ -50,12 +51,11 @@
       <item value="* Register a callback to be invoked when the end of a media source * has been reached during playback." />
       <item value="DESTROYED" />
       <item value="Can not PK" />
-      <item value="Can" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="390" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="CHINESE" value="391" />
+        <entry key="ENGLISH" value="392" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
