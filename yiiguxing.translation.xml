@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Flag for {@link #showSoftInput} to indicate that this is an implicit * request to show the input window, not as the result of a direct request * by the user. The window may not be shown in this case." />
+      <item value="direct" />
+      <item value="implicit" />
+      <item value="indicate" />
       <item value="avatar" />
       <item value="PARALLEL" />
       <item value="SERIAL" />
@@ -22,8 +26,6 @@
       <item value="originally" />
       <item value="normally" />
       <item value="long-pressing" />
-      <item value="implicit" />
-      <item value="indicate" />
       <item value="HIDE NOT ALWAYS" />
       <item value="HIDE IMPLICIT ONLY" />
       <item value="SHOW IMPLICIT" />
@@ -49,13 +51,11 @@
       <item value="overflow-conscious code" />
       <item value="Category" />
       <item value="UI EVENT GET SHOP CATEGORY" />
-      <item value="Statistics" />
-      <item value="MERCHANT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="406" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="CHINESE" value="409" />
+        <entry key="ENGLISH" value="410" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
