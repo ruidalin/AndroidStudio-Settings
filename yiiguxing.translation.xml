@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decorations" />
+      <item value="entire" />
+      <item value="dimmed" />
       <item value="Nick Name" />
       <item value="valid" />
       <item value="occurred" />
@@ -48,14 +51,11 @@
       <item value="stop Count Down" />
       <item value="public" />
       <item value="text Title Logo View" />
-      <item value="* Register a callback to be invoked when the end of a media source * has been reached during playback." />
-      <item value="DESTROYED" />
-      <item value="Can not PK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="391" />
-        <entry key="ENGLISH" value="392" />
+        <entry key="CHINESE" value="394" />
+        <entry key="ENGLISH" value="395" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
