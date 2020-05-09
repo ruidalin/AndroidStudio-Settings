@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="spread" />
+      <item value="Assistant" />
       <item value="text Confirm" />
       <item value="Flag for {@link #showSoftInput} to indicate that this is an implicit * request to show the input window, not as the result of a direct request * by the user. The window may not be shown in this case." />
       <item value="direct" />
@@ -49,13 +51,11 @@
       <item value="context" />
       <item value="Context" />
       <item value="hasbeen" />
-      <item value="overflow-conscious code" />
-      <item value="Category" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="411" />
+        <entry key="CHINESE" value="412" />
+        <entry key="ENGLISH" value="413" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
