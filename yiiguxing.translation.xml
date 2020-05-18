@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="intercept Ad Block" />
       <item value="Verification" />
       <item value="TbsResorce is Reinited" />
       <item value="Reinited" />
@@ -50,12 +51,11 @@
       <item value="Presenter" />
       <item value="精选" />
       <item value="Mutable" />
-      <item value="Mutable List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="425" />
-        <entry key="ENGLISH" value="426" />
+        <entry key="CHINESE" value="426" />
+        <entry key="ENGLISH" value="427" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
