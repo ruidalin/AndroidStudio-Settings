@@ -13,7 +13,14 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="xmlog" value="XMLog.e( &quot;$METHOD_NAME$:&quot;,&quot;$content$&quot;);" description="Log.e(String, String)" toReformat="true" toShortenFQNames="true">
+  <template name="xmloge" value="XMLog.e(&quot;$METHOD_NAME$:&quot;,&quot;$content$&quot;);" description="Log.e(String, String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="xmlogd" value="XMLog.d(TAG, String.format(&quot;#$METHOD_NAME$ %s&quot;, &quot;$content$&quot;));" description="Log.e(String, String)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
