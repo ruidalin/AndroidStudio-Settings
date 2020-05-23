@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AUDIOFOCUS GAIN TRANSIENT EXCLUSIVE" />
+      <item value="TRANSIENT MAY DUCK" />
+      <item value="TRANSIENT" />
+      <item value="GAIN" />
+      <item value="AUDIOFOCUS GAIN" />
       <item value="CREATESCHEDULE" />
       <item value="raw" />
       <item value="intercept Ad Block" />
@@ -46,16 +51,11 @@
       <item value="originally" />
       <item value="normally" />
       <item value="long-pressing" />
-      <item value="HIDE NOT ALWAYS" />
-      <item value="HIDE IMPLICIT ONLY" />
-      <item value="SHOW IMPLICIT" />
-      <item value="SHOW FORCED" />
-      <item value="Presenter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="428" />
-        <entry key="ENGLISH" value="429" />
+        <entry key="CHINESE" value="433" />
+        <entry key="ENGLISH" value="434" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
