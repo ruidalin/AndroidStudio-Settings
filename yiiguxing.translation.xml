@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compressed" />
       <item value="understand Text" />
       <item value="Air Control Scenario" />
       <item value="CANCEL COLLECT" />
@@ -50,12 +51,11 @@
       <item value="Verification" />
       <item value="TbsResorce is Reinited" />
       <item value="Reinited" />
-      <item value="indices" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="471" />
-        <entry key="ENGLISH" value="472" />
+        <entry key="CHINESE" value="472" />
+        <entry key="ENGLISH" value="473" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
