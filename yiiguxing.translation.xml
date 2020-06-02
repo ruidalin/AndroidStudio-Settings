@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bearing" />
       <item value="accuracy" />
       <item value="get District" />
       <item value="get Accuracy" />
@@ -50,12 +51,11 @@
       <item value="GAIN" />
       <item value="AUDIOFOCUS GAIN" />
       <item value="CREATESCHEDULE" />
-      <item value="raw" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="476" />
-        <entry key="ENGLISH" value="477" />
+        <entry key="CHINESE" value="478" />
+        <entry key="ENGLISH" value="479" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
