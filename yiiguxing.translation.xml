@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get External Storage Directory" />
+      <item value="Ex Folder" />
+      <item value="Directory" />
+      <item value="Folder" />
       <item value="bearing" />
       <item value="accuracy" />
       <item value="get District" />
@@ -47,15 +51,11 @@
       <item value="dial" />
       <item value="AUDIOFOCUS GAIN TRANSIENT EXCLUSIVE" />
       <item value="TRANSIENT MAY DUCK" />
-      <item value="TRANSIENT" />
-      <item value="GAIN" />
-      <item value="AUDIOFOCUS GAIN" />
-      <item value="CREATESCHEDULE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="478" />
-        <entry key="ENGLISH" value="479" />
+        <entry key="CHINESE" value="482" />
+        <entry key="ENGLISH" value="483" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
