@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Flag indicating whether this window's Action Bar should overlay application content. Does nothing if the window would not have an Action Bar" />
+      <item value="Dark Action Bar" />
       <item value="row Order Preserved" />
       <item value="denoted" />
       <item value="an estimate of the number of remaining bytes that can be read * (or skipped over) from this input stream without blocking." />
@@ -49,13 +51,11 @@
       <item value="Serial Executor" />
       <item value="dialog protocol" />
       <item value="Protocol Entity" />
-      <item value="GAME PROTOCAL" />
-      <item value="turn off" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="486" />
-        <entry key="ENGLISH" value="487" />
+        <entry key="CHINESE" value="488" />
+        <entry key="ENGLISH" value="489" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
