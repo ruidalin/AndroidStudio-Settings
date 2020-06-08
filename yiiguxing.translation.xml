@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Returns the current value of the running Java Virtual Machine's * high-resolution time source, in nanoseconds." />
       <item value="paid For Game" />
       <item value="Entry" />
       <item value="Flag indicating whether this window's Action Bar should overlay application content. Does nothing if the window would not have an Action Bar" />
@@ -50,12 +51,11 @@
       <item value="BRAND" />
       <item value="MODEL" />
       <item value="ditto" />
-      <item value="Serial Executor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="490" />
-        <entry key="ENGLISH" value="491" />
+        <entry key="CHINESE" value="491" />
+        <entry key="ENGLISH" value="492" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
