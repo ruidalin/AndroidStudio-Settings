@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="paid For Game" />
       <item value="Entry" />
       <item value="Flag indicating whether this window's Action Bar should overlay application content. Does nothing if the window would not have an Action Bar" />
       <item value="Dark Action Bar" />
@@ -50,12 +51,11 @@
       <item value="MODEL" />
       <item value="ditto" />
       <item value="Serial Executor" />
-      <item value="dialog protocol" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="489" />
-        <entry key="ENGLISH" value="490" />
+        <entry key="CHINESE" value="490" />
+        <entry key="ENGLISH" value="491" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
