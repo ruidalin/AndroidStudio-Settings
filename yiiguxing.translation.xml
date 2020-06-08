@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ONLINE" />
       <item value="inc" />
       <item value="push Online Event" />
       <item value="* Returns the current value of the running Java Virtual Machine's * high-resolution time source, in nanoseconds." />
@@ -50,12 +51,11 @@
       <item value="DEVICE" />
       <item value="BOARD" />
       <item value="MANUFACTURER" />
-      <item value="BRAND" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="493" />
-        <entry key="ENGLISH" value="494" />
+        <entry key="CHINESE" value="494" />
+        <entry key="ENGLISH" value="495" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
