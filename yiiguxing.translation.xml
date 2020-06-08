@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="real" />
       <item value="* because of the possibility of numerical overflow" />
       <item value="ONLINE" />
       <item value="inc" />
@@ -50,12 +51,11 @@
       <item value="MMS" />
       <item value="DISPLAY" />
       <item value="DEVICE" />
-      <item value="BOARD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="495" />
-        <entry key="ENGLISH" value="496" />
+        <entry key="CHINESE" value="496" />
+        <entry key="ENGLISH" value="497" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
