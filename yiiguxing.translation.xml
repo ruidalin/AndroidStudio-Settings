@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mock" />
       <item value="用户登录状态异常" />
       <item value="Resources Util" />
       <item value="toast charge error" />
@@ -50,12 +51,11 @@
       <item value="Vendor" />
       <item value="COLLECT" />
       <item value="Scenario" />
-      <item value="Singer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="506" />
-        <entry key="ENGLISH" value="506" />
+        <entry key="ENGLISH" value="507" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
