@@ -1,7 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Least" />
+      <item value="latest" />
+      <item value="当前已是最新版本" />
+      <item value="下载完成，是否安装" />
+      <item value="0" />
+      <item value="0%" />
       <item value="当前版本" />
+      <item value="隐私保护指引" />
+      <item value="游戏用户协议" />
+      <item value="turn off" />
+      <item value="安全驾驶" />
+      <item value="dlg settings cur version label margin left" />
       <item value="include Font Padding" />
       <item value="is the latest" />
       <item value="已是最新" />
@@ -40,22 +51,11 @@
       <item value="Folder" />
       <item value="bearing" />
       <item value="accuracy" />
-      <item value="get District" />
-      <item value="get Accuracy" />
-      <item value="Location Client Option" />
-      <item value="compressed" />
-      <item value="understand Text" />
-      <item value="Air Control Scenario" />
-      <item value="CANCEL COLLECT" />
-      <item value="INSTRUCTION" />
-      <item value="search semantic" />
-      <item value="search Semantic" />
-      <item value="category" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="513" />
-        <entry key="ENGLISH" value="513" />
+        <entry key="CHINESE" value="522" />
+        <entry key="ENGLISH" value="522" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
