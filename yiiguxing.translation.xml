@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scan code to pay cash" />
+      <item value="扫码支付现金" />
       <item value="暂时无法进入此游戏" />
       <item value="Least" />
       <item value="latest" />
@@ -49,13 +51,11 @@
       <item value="get External Storage Directory" />
       <item value="Ex Folder" />
       <item value="Directory" />
-      <item value="Folder" />
-      <item value="bearing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="523" />
-        <entry key="ENGLISH" value="523" />
+        <entry key="CHINESE" value="524" />
+        <entry key="ENGLISH" value="525" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
