@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="toast msg padding vertical" />
+      <item value="everyone is playing" />
+      <item value="大家都在玩" />
+      <item value="horizontal" />
       <item value="divider height_1" />
       <item value="请输入名字" />
       <item value="please enter name" />
@@ -47,15 +51,11 @@
       <item value="* Returns the current value of the running Java Virtual Machine's * high-resolution time source, in nanoseconds." />
       <item value="paid For Game" />
       <item value="Entry" />
-      <item value="Flag indicating whether this window's Action Bar should overlay application content. Does nothing if the window would not have an Action Bar" />
-      <item value="Dark Action Bar" />
-      <item value="row Order Preserved" />
-      <item value="denoted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="528" />
-        <entry key="ENGLISH" value="529" />
+        <entry key="CHINESE" value="532" />
+        <entry key="ENGLISH" value="533" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
