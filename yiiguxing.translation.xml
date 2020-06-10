@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="divider height_1" />
       <item value="请输入名字" />
       <item value="please enter name" />
       <item value="get And Increment" />
@@ -50,12 +51,11 @@
       <item value="Dark Action Bar" />
       <item value="row Order Preserved" />
       <item value="denoted" />
-      <item value="an estimate of the number of remaining bytes that can be read * (or skipped over) from this input stream without blocking." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="528" />
-        <entry key="ENGLISH" value="528" />
+        <entry key="ENGLISH" value="529" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
