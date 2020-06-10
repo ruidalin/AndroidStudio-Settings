@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="请输入名字" />
+      <item value="please enter name" />
       <item value="get And Increment" />
       <item value="更改头像" />
       <item value="scan code to pay cash" />
@@ -49,13 +51,11 @@
       <item value="row Order Preserved" />
       <item value="denoted" />
       <item value="an estimate of the number of remaining bytes that can be read * (or skipped over) from this input stream without blocking." />
-      <item value="blocking" />
-      <item value="get External Storage Directory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="525" />
-        <entry key="ENGLISH" value="526" />
+        <entry key="CHINESE" value="528" />
+        <entry key="ENGLISH" value="528" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
