@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="当前版本" />
+      <item value="扫码支付金额¥" />
+      <item value="扫码支付" />
+      <item value="您的游戏平台账户暂停使用" />
+      <item value="暂时无法进入此游戏" />
+      <item value="暂时" />
+      <item value="无法进入" />
+      <item value="网络出了点问题" />
+      <item value="更改用户名失败" />
+      <item value="获取更新失败" />
+      <item value="当前网络信号差" />
+      <item value="网络出了点问题,请稍后再试" />
+      <item value="网络超时了,请稍后再试" />
+      <item value="请选择头像" />
+      <item value="退出应用" />
+      <item value="申请权限" />
+      <item value="需要申请权限" />
+      <item value="创意" />
+      <item value="火热" />
       <item value="toast msg padding vertical" />
       <item value="everyone is playing" />
       <item value="大家都在玩" />
@@ -12,14 +31,12 @@
       <item value="更改头像" />
       <item value="scan code to pay cash" />
       <item value="扫码支付现金" />
-      <item value="暂时无法进入此游戏" />
       <item value="Least" />
       <item value="latest" />
       <item value="当前已是最新版本" />
       <item value="下载完成，是否安装" />
       <item value="0" />
       <item value="0%" />
-      <item value="当前版本" />
       <item value="隐私保护指引" />
       <item value="游戏用户协议" />
       <item value="turn off" />
@@ -34,28 +51,11 @@
       <item value="联网" />
       <item value="此游戏需要联网,当前无网络!" />
       <item value="mock" />
-      <item value="用户登录状态异常" />
-      <item value="Resources Util" />
-      <item value="toast charge error" />
-      <item value="text User Avatar" />
-      <item value="login Please" />
-      <item value="charge" />
-      <item value="circle radius" />
-      <item value="occurred" />
-      <item value="may Interrupt If Running" />
-      <item value="real" />
-      <item value="* because of the possibility of numerical overflow" />
-      <item value="ONLINE" />
-      <item value="inc" />
-      <item value="push Online Event" />
-      <item value="* Returns the current value of the running Java Virtual Machine's * high-resolution time source, in nanoseconds." />
-      <item value="paid For Game" />
-      <item value="Entry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="532" />
-        <entry key="ENGLISH" value="533" />
+        <entry key="CHINESE" value="552" />
+        <entry key="ENGLISH" value="552" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
