@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="All Caps" />
       <item value="max Ems" />
       <item value="no relevant results" />
       <item value="无相关结果" />
@@ -50,12 +51,11 @@
       <item value="已是最新" />
       <item value="Concurrent Modification Exception" />
       <item value="安全驾驶模式已开启" />
-      <item value="color White" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="555" />
-        <entry key="ENGLISH" value="556" />
+        <entry key="CHINESE" value="556" />
+        <entry key="ENGLISH" value="557" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
