@@ -13,7 +13,8 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="xmlogd" value="XMLog.d(TAG, String.format(&quot;#$METHOD_NAME$ $content$&quot;, $params$));" description="Log.d(String, String)" toReformat="true" toShortenFQNames="true">
+  <template name="xmlogd" value="XMLog.d($TAG$, String.format(&quot;#$METHOD_NAME$ $content$&quot;, $params$));" description="Log.d(String, String)" toReformat="true" toShortenFQNames="true">
+    <variable name="TAG" expression="TAG" defaultValue="&quot;TAG&quot;" alwaysStopAt="true" />
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
