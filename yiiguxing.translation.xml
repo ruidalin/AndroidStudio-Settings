@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SYSTEM UI FLAG HIDE NAVIGATION" />
+      <item value="interactive" />
+      <item value="remain" />
+      <item value="For this to take effect," />
+      <item value="opaque" />
+      <item value="set Navigation Bar Contrast Enforced" />
       <item value="初始化未完成" />
       <item value="decremented." />
       <item value="* Decrements the count of the latch, releasing all waiting threads if * the count reaches zero." />
@@ -45,17 +51,11 @@
       <item value="get And Increment" />
       <item value="更改头像" />
       <item value="scan code to pay cash" />
-      <item value="扫码支付现金" />
-      <item value="Least" />
-      <item value="latest" />
-      <item value="当前已是最新版本" />
-      <item value="下载完成，是否安装" />
-      <item value="0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="568" />
-        <entry key="ENGLISH" value="568" />
+        <entry key="CHINESE" value="574" />
+        <entry key="ENGLISH" value="575" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
