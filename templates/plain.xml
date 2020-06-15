@@ -1,5 +1,5 @@
 <templateSet group="plain">
-  <template name="xmhtag" value="public final String HTAG = $Class$.class.getSimpleName() + &quot;@&quot; + this.hashCode();" description="public final String HTAG" toReformat="false" toShortenFQNames="false">
+  <template name="xmtagh" value="public final String TAG_H = $Class$.class.getSimpleName() + &quot;@&quot; + this.hashCode();" description="public final String TAG_H" toReformat="false" toShortenFQNames="false">
     <variable name="Class" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GROOVY_DECLARATION" value="true" />

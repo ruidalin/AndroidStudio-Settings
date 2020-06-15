@@ -14,7 +14,7 @@
     </context>
   </template>
   <template name="xmlogd" value="XMLog.d($TAG$, String.format(&quot;#$METHOD_NAME$ $content$&quot;, $params$));" description="Log.d(String, String)" toReformat="true" toShortenFQNames="true">
-    <variable name="TAG" expression="TAG" defaultValue="&quot;HTAG&quot;" alwaysStopAt="true" />
+    <variable name="TAG" expression="TAG" defaultValue="&quot;TAG_H&quot;" alwaysStopAt="true" />
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
@@ -22,7 +22,8 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="xmloge" value="XMLog.e(TAG, String.format(&quot;#$METHOD_NAME$ $content$&quot;, $params$));" description="Log.e(String, String)" toReformat="true" toShortenFQNames="true">
+  <template name="xmloge" value="XMLog.e($TAG$, String.format(&quot;#$METHOD_NAME$ $content$&quot;, $params$));" description="Log.e(String, String)" toReformat="true" toShortenFQNames="true">
+    <variable name="TAG" expression="" defaultValue="&quot;TAG_H&quot;" alwaysStopAt="true" />
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
