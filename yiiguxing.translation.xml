@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Accent" />
+      <item value="color Accent" />
+      <item value="color Primary Dark" />
+      <item value="color Primary" />
+      <item value="STABLE" />
       <item value="Policy" />
       <item value="forbid " />
       <item value="IMMERSIVE" />
@@ -46,16 +51,11 @@
       <item value="火热" />
       <item value="toast msg padding vertical" />
       <item value="everyone is playing" />
-      <item value="大家都在玩" />
-      <item value="horizontal" />
-      <item value="divider height_1" />
-      <item value="请输入名字" />
-      <item value="please enter name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="576" />
-        <entry key="ENGLISH" value="576" />
+        <entry key="CHINESE" value="581" />
+        <entry key="ENGLISH" value="582" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
