@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IMMERSIVE" />
       <item value="SYSTEM UI FLAG HIDE NAVIGATION" />
       <item value="interactive" />
       <item value="remain" />
@@ -50,12 +51,11 @@
       <item value="please enter name" />
       <item value="get And Increment" />
       <item value="更改头像" />
-      <item value="scan code to pay cash" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="574" />
-        <entry key="ENGLISH" value="575" />
+        <entry key="CHINESE" value="575" />
+        <entry key="ENGLISH" value="576" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
