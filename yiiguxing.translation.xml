@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Policy" />
       <item value="forbid " />
       <item value="IMMERSIVE" />
       <item value="SYSTEM UI FLAG HIDE NAVIGATION" />
@@ -50,7 +51,6 @@
       <item value="divider height_1" />
       <item value="请输入名字" />
       <item value="please enter name" />
-      <item value="get And Increment" />
     </histories>
     <option name="languageScores">
       <map>
