@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="m Timeout" />
       <item value="Accent" />
       <item value="color Accent" />
       <item value="color Primary Dark" />
@@ -50,12 +51,11 @@
       <item value="创意" />
       <item value="火热" />
       <item value="toast msg padding vertical" />
-      <item value="everyone is playing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="581" />
-        <entry key="ENGLISH" value="582" />
+        <entry key="CHINESE" value="582" />
+        <entry key="ENGLISH" value="583" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
