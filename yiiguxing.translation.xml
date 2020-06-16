@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Meta" />
+      <item value="get Meta Data" />
       <item value="授权成功" />
       <item value="禁止" />
       <item value="禁止授权" />
@@ -49,13 +51,11 @@
       <item value="暂时" />
       <item value="无法进入" />
       <item value="网络出了点问题" />
-      <item value="更改用户名失败" />
-      <item value="获取更新失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="594" />
-        <entry key="ENGLISH" value="594" />
+        <entry key="CHINESE" value="595" />
+        <entry key="ENGLISH" value="596" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
