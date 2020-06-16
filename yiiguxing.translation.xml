@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="授权成功" />
+      <item value="禁止" />
+      <item value="禁止授权" />
+      <item value="不支持授权" />
+      <item value="认证失败" />
+      <item value="发送失败" />
+      <item value="用户取消" />
+      <item value="提交错误" />
+      <item value="授权失败" />
+      <item value="Default theme for activities that don't actually display a UI; that is, they finish themselves before being resumed." />
       <item value="m Timeout" />
       <item value="Accent" />
       <item value="color Accent" />
@@ -41,21 +51,11 @@
       <item value="网络出了点问题" />
       <item value="更改用户名失败" />
       <item value="获取更新失败" />
-      <item value="当前网络信号差" />
-      <item value="网络出了点问题,请稍后再试" />
-      <item value="网络超时了,请稍后再试" />
-      <item value="请选择头像" />
-      <item value="退出应用" />
-      <item value="申请权限" />
-      <item value="需要申请权限" />
-      <item value="创意" />
-      <item value="火热" />
-      <item value="toast msg padding vertical" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="582" />
-        <entry key="ENGLISH" value="583" />
+        <entry key="CHINESE" value="594" />
+        <entry key="ENGLISH" value="594" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
