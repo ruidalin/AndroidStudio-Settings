@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remove Token Change Listener" />
       <item value="is Safe Driving ON" />
       <item value="ON" />
       <item value="verification" />
@@ -50,7 +51,6 @@
       <item value="Vehicle API" />
       <item value="transitive" />
       <item value="用户名前后不能有空格" />
-      <item value="is High Surrogate" />
     </histories>
     <option name="languageScores">
       <map>
