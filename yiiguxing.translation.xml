@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="vehicle" />
+      <item value="device" />
+      <item value="policy" />
+      <item value="oauth 2" />
+      <item value="Hand Brake" />
+      <item value="Fuel" />
+      <item value="get Dashboard" />
+      <item value="VEHICLE" />
+      <item value="FUEL" />
       <item value="game" />
       <item value="remove Token Change Listener" />
       <item value="is Safe Driving ON" />
@@ -42,20 +51,11 @@
       <item value="For this to take effect," />
       <item value="opaque" />
       <item value="set Navigation Bar Contrast Enforced" />
-      <item value="初始化未完成" />
-      <item value="decremented." />
-      <item value="* Decrements the count of the latch, releasing all waiting threads if * the count reaches zero." />
-      <item value="immediately" />
-      <item value="init GeelyDeviceInfoImpl illegal state" />
-      <item value="I New Energy" />
-      <item value="I Dashboard" />
-      <item value="Vehicle API" />
-      <item value="transitive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="606" />
-        <entry key="ENGLISH" value="606" />
+        <entry key="CHINESE" value="614" />
+        <entry key="ENGLISH" value="615" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
