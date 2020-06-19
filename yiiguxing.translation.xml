@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AUDIOFOCUS LOSS TRANSIENT CAN DUCK" />
+      <item value="AUDIOFOCUS LOSS TRANSIENT" />
+      <item value="AUDIOFOCUS LOSS" />
+      <item value="AUDIOFOCUS GAIN" />
       <item value="Policy" />
       <item value="unexpected" />
       <item value="vehicle" />
@@ -47,15 +51,11 @@
       <item value="forbid " />
       <item value="IMMERSIVE" />
       <item value="SYSTEM UI FLAG HIDE NAVIGATION" />
-      <item value="interactive" />
-      <item value="remain" />
-      <item value="For this to take effect," />
-      <item value="opaque" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="616" />
-        <entry key="ENGLISH" value="617" />
+        <entry key="CHINESE" value="620" />
+        <entry key="ENGLISH" value="621" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
