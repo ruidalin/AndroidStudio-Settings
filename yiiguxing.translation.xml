@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Equivalent" />
+      <item value="Fill" />
+      <item value="set On Click Fill In Intent" />
       <item value="milliseconds" />
       <item value="For this to take effect, the window must request" />
       <item value="but not" />
@@ -48,14 +51,11 @@
       <item value="授权成功" />
       <item value="禁止" />
       <item value="禁止授权" />
-      <item value="不支持授权" />
-      <item value="认证失败" />
-      <item value="发送失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="631" />
-        <entry key="ENGLISH" value="632" />
+        <entry key="CHINESE" value="635" />
+        <entry key="ENGLISH" value="636" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
