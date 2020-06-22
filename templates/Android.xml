@@ -1,5 +1,5 @@
 <templateSet group="Android">
-  <template name="createInstance" value="private static final class Instance{&#10;    private static final $Class$ INSTANCE = new $Class$();&#10;}&#10;public static $Class$ getInstance(){&#10;    return Instance.INSTANCE;&#10;}" description="create a new instance" toReformat="true" toShortenFQNames="true">
+  <template name="createInstance" value="private static final class Instance{&#10;    @SuppressLint(&quot;StaticFieldLeak&quot;)&#10;    private static final $Class$ INSTANCE = new $Class$();&#10;}&#10;public static $Class$ getInstance(){&#10;    return Instance.INSTANCE;&#10;}" description="create a new instance" toReformat="true" toShortenFQNames="true">
     <variable name="Class" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />

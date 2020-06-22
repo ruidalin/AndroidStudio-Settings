@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on SDK Initialize" />
       <item value="MEDIA MOUNTED" />
       <item value="privacy" />
       <item value="has Grant" />
@@ -50,12 +51,11 @@
       <item value="indicating" />
       <item value="If this class does not represent an array class this method * returns null." />
       <item value="平台不支持授权登录" />
-      <item value="Meta" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="639" />
-        <entry key="ENGLISH" value="640" />
+        <entry key="CHINESE" value="640" />
+        <entry key="ENGLISH" value="641" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
