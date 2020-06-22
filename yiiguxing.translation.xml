@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="轮播数量" />
+      <item value="Interval" />
+      <item value="m Interval" />
       <item value="typically" />
       <item value="on SDK Initialize" />
       <item value="MEDIA MOUNTED" />
@@ -48,14 +51,11 @@
       <item value="用户登录" />
       <item value="游客登录" />
       <item value="Assignable" />
-      <item value="is Assignable From" />
-      <item value="indicating" />
-      <item value="If this class does not represent an array class this method * returns null." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="641" />
-        <entry key="ENGLISH" value="642" />
+        <entry key="CHINESE" value="644" />
+        <entry key="ENGLISH" value="644" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
