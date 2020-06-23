@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recycler" />
+      <item value="cycler" />
+      <item value="transient" />
+      <item value="explicitly" />
+      <item value="大于零" />
       <item value="轮播数量" />
       <item value="Interval" />
       <item value="m Interval" />
@@ -46,18 +51,13 @@
       <item value="is Safe Driving ON" />
       <item value="ON" />
       <item value="verification" />
-      <item value="及" />
-      <item value="我已详细阅读并同意" />
-      <item value="用户登录" />
-      <item value="游客登录" />
-      <item value="Assignable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="644" />
-        <entry key="ENGLISH" value="644" />
+        <entry key="CHINESE" value="649" />
+        <entry key="ENGLISH" value="649" />
         <entry key="ARABIC" value="1" />
-        <entry key="FRENCH" value="4" />
+        <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="KANNADA" value="1" />
