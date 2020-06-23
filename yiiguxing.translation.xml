@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="finish" />
       <item value="controlboard" />
       <item value="SONIFICATION" />
       <item value="I am a pretty divider" />
@@ -50,11 +51,10 @@
       <item value="AUDIOFOCUS GAIN" />
       <item value="Policy" />
       <item value="unexpected" />
-      <item value="vehicle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="659" />
+        <entry key="CHINESE" value="660" />
         <entry key="ENGLISH" value="660" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
