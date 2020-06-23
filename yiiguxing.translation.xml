@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DTMF" />
+      <item value="from Get Volume Control Stream" />
       <item value="focus Gain" />
       <item value="duration Hint" />
       <item value="TRANSIENT" />
@@ -49,13 +51,11 @@
       <item value="get Dashboard" />
       <item value="VEHICLE" />
       <item value="FUEL" />
-      <item value="game" />
-      <item value="remove Token Change Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="651" />
-        <entry key="ENGLISH" value="652" />
+        <entry key="CHINESE" value="653" />
+        <entry key="ENGLISH" value="654" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
