@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="focus Gain" />
+      <item value="duration Hint" />
       <item value="TRANSIENT" />
       <item value="recycler" />
       <item value="cycler" />
@@ -49,13 +51,11 @@
       <item value="FUEL" />
       <item value="game" />
       <item value="remove Token Change Listener" />
-      <item value="is Safe Driving ON" />
-      <item value="ON" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="649" />
-        <entry key="ENGLISH" value="650" />
+        <entry key="CHINESE" value="651" />
+        <entry key="ENGLISH" value="652" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
