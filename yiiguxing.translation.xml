@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I am a pretty divider" />
+      <item value="I am a pretty line" />
       <item value="美丽" />
       <item value="pretty美丽" />
       <item value="pretty" />
@@ -49,13 +51,11 @@
       <item value="vehicle" />
       <item value="device" />
       <item value="policy" />
-      <item value="oauth 2" />
-      <item value="Hand Brake" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="656" />
-        <entry key="ENGLISH" value="656" />
+        <entry key="CHINESE" value="657" />
+        <entry key="ENGLISH" value="658" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
