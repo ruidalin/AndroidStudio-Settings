@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="directly" />
       <item value="relevant" />
       <item value="previously" />
       <item value="skip" />
@@ -50,12 +51,11 @@
       <item value="force" />
       <item value="focuse" />
       <item value="s Dispatch" />
-      <item value="AUDIOFOCUS LOSS TRANSIENT CAN DUCK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="664" />
-        <entry key="ENGLISH" value="665" />
+        <entry key="CHINESE" value="665" />
+        <entry key="ENGLISH" value="666" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
