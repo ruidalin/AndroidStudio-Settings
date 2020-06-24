@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* The internal value used by the underlying source control to * represent this build. E.g., a perforce changelist number * or a git hash." />
+      <item value="INCREMENTAL" />
       <item value="directly" />
       <item value="relevant" />
       <item value="previously" />
@@ -49,13 +51,11 @@
       <item value="set Navigation Bar Contrast Enforced" />
       <item value="是否确定退出到登录界面" />
       <item value="force" />
-      <item value="focuse" />
-      <item value="s Dispatch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="666" />
-        <entry key="ENGLISH" value="666" />
+        <entry key="CHINESE" value="667" />
+        <entry key="ENGLISH" value="668" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
