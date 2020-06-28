@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pick Env Config" />
       <item value="get App Task Thumbnail Size" />
       <item value="move To Front" />
       <item value="importance" />
@@ -50,12 +51,11 @@
       <item value="affordances" />
       <item value="temporary" />
       <item value="SYSTEM UI RESERVED LEGACY 1" />
-      <item value="SYSTEM UI FLAG IMMERSIVE STICKY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="670" />
-        <entry key="ENGLISH" value="671" />
+        <entry key="CHINESE" value="671" />
+        <entry key="ENGLISH" value="672" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
