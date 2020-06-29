@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get App Directory" />
+      <item value="migrating" />
       <item value="* Encodes {@code data} as a JSON string. This applies quotes and any * necessary character escaping." />
       <item value="quote" />
       <item value="pick Env Config" />
@@ -49,13 +51,11 @@
       <item value="milliseconds" />
       <item value="For this to take effect, the window must request" />
       <item value="but not" />
-      <item value="overlays" />
-      <item value="affordances" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="673" />
-        <entry key="ENGLISH" value="674" />
+        <entry key="CHINESE" value="675" />
+        <entry key="ENGLISH" value="676" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
