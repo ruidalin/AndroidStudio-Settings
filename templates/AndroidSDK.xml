@@ -1,0 +1,10 @@
+<templateSet group="AndroidSDK">
+  <template name="oneventbus" value="@com.google.common.eventbus.Subscribe&#10;public void onEventBus(BusEvent&lt;$T$&gt; event) {&#10;    if (!event.isEvent(EventBusManager.$EVENT$)) {&#10;        return;&#10;    }&#10;    $TODO$&#10;}" description="onEventBus" toReformat="true" toShortenFQNames="true">
+    <variable name="T" expression="" defaultValue="&quot;?&quot;" alwaysStopAt="true" />
+    <variable name="EVENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TODO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
