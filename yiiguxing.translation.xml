@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ATOMIC" />
       <item value="is Present" />
       <item value="Denied" />
       <item value="specified" />
@@ -50,12 +51,11 @@
       <item value="has Grant" />
       <item value="has Grand" />
       <item value="Equivalent" />
-      <item value="Fill" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="679" />
-        <entry key="ENGLISH" value="680" />
+        <entry key="CHINESE" value="680" />
+        <entry key="ENGLISH" value="681" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
