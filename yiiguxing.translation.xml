@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Describes the content of a view so that a autofill service can fill in the appropriate data. Multiple hints can be combined in a comma separated list or an array of strings to mean e.g. emailAddress or postalAddress. --&gt;" />
       <item value="editable" />
       <item value="ATOMIC" />
       <item value="is Present" />
@@ -50,12 +51,11 @@
       <item value="MEDIA MOUNTED" />
       <item value="privacy" />
       <item value="has Grant" />
-      <item value="has Grand" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="681" />
-        <entry key="ENGLISH" value="682" />
+        <entry key="CHINESE" value="682" />
+        <entry key="ENGLISH" value="683" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
