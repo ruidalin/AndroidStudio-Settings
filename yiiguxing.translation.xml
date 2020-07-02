@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Searches the specified array of longs for the specified value using the * binary search algorithm. The array must be sorted (as * by the {@link #sort(long[])} method) prior to making this call. If it * is not sorted, the results are undefined. If the array contains * multiple elements with the specified value, there is no guarantee which * one will be found." />
+      <item value="undefined" />
+      <item value="sorted" />
+      <item value="* @return the fully qualified name of the {@code Class} containing * the execution point represented by this stack trace element." />
+      <item value="Override" />
       <item value="request Child Rectangle On Screen" />
       <item value="remove Charge Listener" />
       <item value="is GONE" />
@@ -46,16 +51,11 @@
       <item value="cycler" />
       <item value="transient" />
       <item value="explicitly" />
-      <item value="大于零" />
-      <item value="轮播数量" />
-      <item value="Interval" />
-      <item value="m Interval" />
-      <item value="typically" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="686" />
-        <entry key="ENGLISH" value="687" />
+        <entry key="CHINESE" value="691" />
+        <entry key="ENGLISH" value="692" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
