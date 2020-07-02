@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="divider" />
+      <item value="点击进入" />
       <item value="trace" />
       <item value="Trace" />
       <item value="get Stack Trace" />
@@ -49,13 +51,11 @@
       <item value="漂亮" />
       <item value="DTMF" />
       <item value="from Get Volume Control Stream" />
-      <item value="focus Gain" />
-      <item value="duration Hint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="696" />
-        <entry key="ENGLISH" value="697" />
+        <entry key="CHINESE" value="698" />
+        <entry key="ENGLISH" value="699" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
