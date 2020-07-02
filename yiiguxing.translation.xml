@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trace" />
+      <item value="Trace" />
+      <item value="get Stack Trace" />
+      <item value="trace Index" />
+      <item value="stack Trace Index" />
       <item value="* Searches the specified array of longs for the specified value using the * binary search algorithm. The array must be sorted (as * by the {@link #sort(long[])} method) prior to making this call. If it * is not sorted, the results are undefined. If the array contains * multiple elements with the specified value, there is no guarantee which * one will be found." />
       <item value="undefined" />
       <item value="sorted" />
@@ -46,16 +51,11 @@
       <item value="from Get Volume Control Stream" />
       <item value="focus Gain" />
       <item value="duration Hint" />
-      <item value="TRANSIENT" />
-      <item value="recycler" />
-      <item value="cycler" />
-      <item value="transient" />
-      <item value="explicitly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="691" />
-        <entry key="ENGLISH" value="692" />
+        <entry key="CHINESE" value="696" />
+        <entry key="ENGLISH" value="697" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
