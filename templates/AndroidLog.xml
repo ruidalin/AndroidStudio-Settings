@@ -7,7 +7,7 @@
     </context>
   </template>
   <template name="xmlogd" value="XMLog.d($TAG$, String.format(&quot;#$METHOD_NAME$ $content$&quot;, $params$));" description="XMLog.d(String, String)" toReformat="true" toShortenFQNames="true">
-    <variable name="TAG" expression="TAG" defaultValue="&quot;TAG&quot;" alwaysStopAt="true" />
+    <variable name="TAG" expression="TAG" defaultValue="&quot;mTAG&quot;" alwaysStopAt="true" />
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
@@ -16,7 +16,7 @@
     </context>
   </template>
   <template name="xmloge" value="XMLog.e($TAG$, String.format(&quot;#$METHOD_NAME$ $content$&quot;, $params$));" description="XMLog.e(String, String)" toReformat="true" toShortenFQNames="true">
-    <variable name="TAG" expression="" defaultValue="&quot;TAG&quot;" alwaysStopAt="true" />
+    <variable name="TAG" expression="" defaultValue="&quot;mTAG&quot;" alwaysStopAt="true" />
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
@@ -25,7 +25,7 @@
     </context>
   </template>
   <template name="xmlogw" value="XMLog.w($TAG$, String.format(&quot;#$METHOD_NAME$ $content$&quot;, $params$));" description="XMLog.w(String, String)" toReformat="true" toShortenFQNames="true">
-    <variable name="TAG" expression="" defaultValue="&quot;TAG&quot;" alwaysStopAt="true" />
+    <variable name="TAG" expression="" defaultValue="&quot;mTAG&quot;" alwaysStopAt="true" />
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
@@ -34,7 +34,7 @@
     </context>
   </template>
   <template name="xmlogi" value="XMLog.i($TAG$, String.format(&quot;#$METHOD_NAME$ $content$&quot;, $params$));" description="XMLog.i(String, String)" toReformat="true" toShortenFQNames="true">
-    <variable name="TAG" expression="" defaultValue="&quot;TAG&quot;" alwaysStopAt="true" />
+    <variable name="TAG" expression="" defaultValue="&quot;mTAG&quot;" alwaysStopAt="true" />
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
@@ -42,14 +42,14 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="xmtag" value="public final String TAG = $Class$.class.getSimpleName() + &quot;@&quot; + this.hashCode();" description="public final String TAG" toReformat="false" toShortenFQNames="false">
+  <template name="xmtag" value="public final String mTAG = $Class$.class.getSimpleName() + &quot;@&quot; + this.hashCode();" description="public final String TAG" toReformat="false" toShortenFQNames="false">
     <variable name="Class" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GROOVY_DECLARATION" value="true" />
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="xmtags" value="public static final String TAG_T = $Class$.class.getSimpleName() + &quot;@TAG&quot;;" description="public static final String TAG_T" toReformat="false" toShortenFQNames="false">
+  <template name="xmtags" value="public static final String TAG = $Class$.class.getSimpleName() + &quot;@TAG&quot;;" description="public static final String TAG_T" toReformat="false" toShortenFQNames="false">
     <variable name="Class" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GROOVY_DECLARATION" value="true" />
