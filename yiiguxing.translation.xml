@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="我没办法" />
+      <item value="I have no idea" />
       <item value="server" />
       <item value="divider" />
       <item value="点击进入" />
@@ -49,13 +51,11 @@
       <item value="美丽" />
       <item value="pretty美丽" />
       <item value="pretty" />
-      <item value="漂亮" />
-      <item value="DTMF" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="699" />
-        <entry key="ENGLISH" value="700" />
+        <entry key="CHINESE" value="701" />
+        <entry key="ENGLISH" value="701" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
