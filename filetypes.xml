@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webp" type="Image" />
+      <mapping pattern="X5Cookies" type="PLAIN_TEXT" />
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
       <mapping pattern="CleanData" type="PLAIN_TEXT" />
       <mapping pattern="granted" type="PLAIN_TEXT" />
