@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="erasing" />
+      <item value="Retrieve" />
       <item value="Geolocation" />
       <item value="a valid database path must also be supplied to" />
       <item value="within" />
@@ -49,13 +51,11 @@
       <item value="relevant" />
       <item value="previously" />
       <item value="skip" />
-      <item value="Waiting because no window has focus but there is a focused application that may eventually add a window when it finishes starting up" />
-      <item value="eventually" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="708" />
-        <entry key="ENGLISH" value="709" />
+        <entry key="CHINESE" value="710" />
+        <entry key="ENGLISH" value="711" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
