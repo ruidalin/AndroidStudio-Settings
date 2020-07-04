@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Geolocation" />
+      <item value="a valid database path must also be supplied to" />
+      <item value="within" />
       <item value="onwards" />
       <item value="LOAD DEFAULT" />
       <item value="HONEYCOMB" />
@@ -48,14 +51,11 @@
       <item value="skip" />
       <item value="Waiting because no window has focus but there is a focused application that may eventually add a window when it finishes starting up" />
       <item value="eventually" />
-      <item value="finish" />
-      <item value="controlboard" />
-      <item value="SONIFICATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="705" />
-        <entry key="ENGLISH" value="706" />
+        <entry key="CHINESE" value="708" />
+        <entry key="ENGLISH" value="709" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
