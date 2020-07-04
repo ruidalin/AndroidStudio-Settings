@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Generic Interfaces" />
       <item value="我没办法" />
       <item value="I have no idea" />
       <item value="server" />
@@ -50,12 +51,11 @@
       <item value="I am a pretty line" />
       <item value="美丽" />
       <item value="pretty美丽" />
-      <item value="pretty" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="701" />
-        <entry key="ENGLISH" value="701" />
+        <entry key="ENGLISH" value="702" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
