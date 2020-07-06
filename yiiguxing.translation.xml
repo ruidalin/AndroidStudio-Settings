@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="start Interval" />
+      <item value="typically" />
+      <item value="may Interrupt If Running" />
       <item value="out of work" />
       <item value="PARAMS" />
       <item value="INTERNAL" />
@@ -48,14 +51,11 @@
       <item value="quote" />
       <item value="pick Env Config" />
       <item value="get App Task Thumbnail Size" />
-      <item value="move To Front" />
-      <item value="importance" />
-      <item value="* The internal value used by the underlying source control to * represent this build. E.g., a perforce changelist number * or a git hash." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="714" />
-        <entry key="ENGLISH" value="715" />
+        <entry key="CHINESE" value="717" />
+        <entry key="ENGLISH" value="718" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
