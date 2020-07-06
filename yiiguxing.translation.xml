@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="et the width. Internal for reuse cases only." />
+      <item value="The text to be laid out, optionally with spans" />
+      <item value="ellipsize" />
+      <item value="Text View ellipsize" />
+      <item value="letter Spacin" />
+      <item value="Text View letter Spacing" />
+      <item value="should Ellipsize" />
+      <item value="ellipsis Width" />
+      <item value="m Spacing Add" />
+      <item value="m Spacing Mult" />
+      <item value="Precomputed Text" />
       <item value="text All Caps" />
       <item value="text Game Introduce" />
       <item value="progress Drawable" />
@@ -40,29 +51,18 @@
       <item value="* @return the fully qualified name of the {@code Class} containing * the execution point represented by this stack trace element." />
       <item value="Override" />
       <item value="request Child Rectangle On Screen" />
-      <item value="remove Charge Listener" />
-      <item value="is GONE" />
-      <item value="is INVISIBLE" />
-      <item value="Describes the content of a view so that a autofill service can fill in the appropriate data. Multiple hints can be combined in a comma separated list or an array of strings to mean e.g. emailAddress or postalAddress. --&gt;" />
-      <item value="editable" />
-      <item value="ATOMIC" />
-      <item value="is Present" />
-      <item value="Denied" />
-      <item value="specified" />
-      <item value="append Env" />
-      <item value="get App Directory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="722" />
-        <entry key="ENGLISH" value="723" />
+        <entry key="CHINESE" value="732" />
+        <entry key="ENGLISH" value="733" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="ROMANIAN" value="2" />
+        <entry key="ROMANIAN" value="3" />
         <entry key="BENGALI" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="1" />
