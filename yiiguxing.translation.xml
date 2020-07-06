@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Canonical Name" />
       <item value="Game Proclamation Fragment" />
       <item value="et the width. Internal for reuse cases only." />
       <item value="The text to be laid out, optionally with spans" />
@@ -50,12 +51,11 @@
       <item value="undefined" />
       <item value="sorted" />
       <item value="* @return the fully qualified name of the {@code Class} containing * the execution point represented by this stack trace element." />
-      <item value="Override" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="733" />
-        <entry key="ENGLISH" value="734" />
+        <entry key="CHINESE" value="734" />
+        <entry key="ENGLISH" value="735" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
