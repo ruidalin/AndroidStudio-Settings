@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gets the unsigned horizontal extent of the specified line, including * leading margin indent, but excluding trailing whitespace." />
+      <item value="Whether to respect the ascent and descent of the fallback fonts that are used in displaying the text. When true, fallback fonts that end up getting used can increase the ascent and descent of the lines that they are used on." />
+      <item value="break Strategy" />
+      <item value="high-quality strategy," />
+      <item value="control over paragraph layou" />
       <item value="set Break Strategy" />
       <item value="ellip" />
       <item value="ellipsize" />
@@ -46,16 +51,11 @@
       <item value="点击进入" />
       <item value="trace" />
       <item value="Trace" />
-      <item value="get Stack Trace" />
-      <item value="trace Index" />
-      <item value="stack Trace Index" />
-      <item value="* Searches the specified array of longs for the specified value using the * binary search algorithm. The array must be sorted (as * by the {@link #sort(long[])} method) prior to making this call. If it * is not sorted, the results are undefined. If the array contains * multiple elements with the specified value, there is no guarantee which * one will be found." />
-      <item value="undefined" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="736" />
-        <entry key="ENGLISH" value="737" />
+        <entry key="CHINESE" value="741" />
+        <entry key="ENGLISH" value="742" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
