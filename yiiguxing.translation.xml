@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Break Strategy" />
       <item value="ellip" />
       <item value="ellipsize" />
       <item value="get Canonical Name" />
@@ -50,12 +51,11 @@
       <item value="stack Trace Index" />
       <item value="* Searches the specified array of longs for the specified value using the * binary search algorithm. The array must be sorted (as * by the {@link #sort(long[])} method) prior to making this call. If it * is not sorted, the results are undefined. If the array contains * multiple elements with the specified value, there is no guarantee which * one will be found." />
       <item value="undefined" />
-      <item value="sorted" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="736" />
-        <entry key="ENGLISH" value="736" />
+        <entry key="ENGLISH" value="737" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
