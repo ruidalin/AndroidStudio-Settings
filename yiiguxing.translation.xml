@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="span Count" />
       <item value="interaction" />
       <item value="Drawable used for the indeterminate mode. One that implements Animatable offers more control over the animation." />
       <item value="indicator" />
@@ -50,12 +51,11 @@
       <item value="LOAD DEFAULT" />
       <item value="HONEYCOMB" />
       <item value="obsolete" />
-      <item value="get Generic Interfaces" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="748" />
-        <entry key="ENGLISH" value="749" />
+        <entry key="CHINESE" value="750" />
+        <entry key="ENGLISH" value="751" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
