@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="indicator" />
       <item value="敬请期待" />
       <item value="游戏正在上架中，敬请期待" />
       <item value="* Returns the original text if it fits in the specified width * given the properties of the specified Paint, * or, if it does not fit, a truncated * copy with ellipsis character added at the specified edge or center." />
@@ -50,12 +51,11 @@
       <item value="get Generic Interfaces" />
       <item value="我没办法" />
       <item value="I have no idea" />
-      <item value="server" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="746" />
-        <entry key="ENGLISH" value="746" />
+        <entry key="ENGLISH" value="747" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
