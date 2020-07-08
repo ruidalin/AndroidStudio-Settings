@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Drawable used for the indeterminate mode. One that implements Animatable offers more control over the animation." />
       <item value="indicator" />
       <item value="敬请期待" />
       <item value="游戏正在上架中，敬请期待" />
@@ -50,12 +51,11 @@
       <item value="obsolete" />
       <item value="get Generic Interfaces" />
       <item value="我没办法" />
-      <item value="I have no idea" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="746" />
-        <entry key="ENGLISH" value="747" />
+        <entry key="CHINESE" value="747" />
+        <entry key="ENGLISH" value="748" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
