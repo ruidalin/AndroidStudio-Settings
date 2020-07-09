@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="valid" />
       <item value="未知" />
       <item value="evicted" />
       <item value="* Called for entries that have been evicted or removed. This method is * invoked when a value is evicted to make space, removed by a call to * {@link #remove}, or replaced by a call to {@link #put}. The default * implementation does nothing. *" />
@@ -50,12 +51,11 @@
       <item value="PARAMS" />
       <item value="INTERNAL" />
       <item value="velocity" />
-      <item value="{ setScrollingCacheEnabled(false); return; }" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="760" />
-        <entry key="ENGLISH" value="760" />
+        <entry key="ENGLISH" value="761" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
