@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IJK LOG ERROR" />
+      <item value="IJK LOG FATAL" />
+      <item value="IJK LOG SILENT" />
       <item value="This API is not generally intended for third party application developers." />
       <item value="generally" />
       <item value="ringtone" />
@@ -48,14 +51,11 @@
       <item value="progress Drawable" />
       <item value="indeterminate Drawable" />
       <item value="polling" />
-      <item value="start Interval" />
-      <item value="typically" />
-      <item value="may Interrupt If Running" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="764" />
-        <entry key="ENGLISH" value="765" />
+        <entry key="CHINESE" value="767" />
+        <entry key="ENGLISH" value="768" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
