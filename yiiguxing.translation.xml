@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called when a view created by this adapter has been recycled." />
       <item value="valid" />
       <item value="未知" />
       <item value="evicted" />
@@ -50,12 +51,11 @@
       <item value="out of work" />
       <item value="PARAMS" />
       <item value="INTERNAL" />
-      <item value="velocity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="760" />
-        <entry key="ENGLISH" value="761" />
+        <entry key="CHINESE" value="761" />
+        <entry key="ENGLISH" value="762" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
