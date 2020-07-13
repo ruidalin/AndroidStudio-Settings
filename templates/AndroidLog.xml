@@ -1,11 +1,4 @@
 <templateSet group="AndroidLog">
-  <template name="tloge" value="Log.e( &quot;$METHOD_NAME$:&quot;,&quot;$content$&quot;);" description="Log.e(String, String)" toReformat="true" toShortenFQNames="true">
-    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
-    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-    </context>
-  </template>
   <template name="xmlogd" value="XMLog.d($TAG$, String.format(&quot;#$METHOD_NAME$ $content$&quot;, $params$));" description="XMLog.d(String, String)" toReformat="true" toShortenFQNames="true">
     <variable name="TAG" expression="TAG" defaultValue="&quot;mTAG&quot;" alwaysStopAt="true" />
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
@@ -54,6 +47,15 @@
     <context>
       <option name="GROOVY_DECLARATION" value="true" />
       <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="tloge" value="Log.e($TAG$, String.format(&quot;#$METHOD_NAME$ $content$&quot;, $params$));" description="Log.e(String, String)" toReformat="true" toShortenFQNames="true">
+    <variable name="TAG" expression="" defaultValue="&quot;TAG&quot;" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
