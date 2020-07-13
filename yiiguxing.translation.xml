@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="at any time position if possible," />
       <item value="set Lock Land" />
       <item value="image Thumb View" />
       <item value="IJK LOG ERROR" />
@@ -50,12 +51,11 @@
       <item value="Precomputed Text" />
       <item value="text All Caps" />
       <item value="text Game Introduce" />
-      <item value="progress Drawable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="769" />
-        <entry key="ENGLISH" value="770" />
+        <entry key="CHINESE" value="770" />
+        <entry key="ENGLISH" value="771" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
