@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="OPTION CLOSEST" />
+      <item value="OPTION CLOSEST SYNC" />
+      <item value="The time position where the frame will be retrieved. * When retrieving the frame at the given time position, there is no * guarentee that the data source has a frame located at the position. * When this happens, a frame nearby will be returned. If timeUs is * negative, time position and option will ignored, and any frame * that the implementation considers as representative may be returned." />
+      <item value="sync" />
       <item value="at any time position if possible," />
       <item value="set Lock Land" />
       <item value="image Thumb View" />
@@ -47,15 +51,11 @@
       <item value="should Ellipsize" />
       <item value="ellipsis Width" />
       <item value="m Spacing Add" />
-      <item value="m Spacing Mult" />
-      <item value="Precomputed Text" />
-      <item value="text All Caps" />
-      <item value="text Game Introduce" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="770" />
-        <entry key="ENGLISH" value="771" />
+        <entry key="CHINESE" value="774" />
+        <entry key="ENGLISH" value="775" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
