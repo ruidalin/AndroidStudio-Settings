@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Loading Changed" />
+      <item value="on Tracks Changed" />
+      <item value="* Called when the timeline has been refreshed." />
       <item value="/** Media source with a single period consisting of silent raw audio of a given duration. */" />
       <item value="Exo Player Controller" />
       <item value="Exo Player Control" />
@@ -48,14 +51,11 @@
       <item value="ellip" />
       <item value="ellipsize" />
       <item value="get Canonical Name" />
-      <item value="Game Proclamation Fragment" />
-      <item value="et the width. Internal for reuse cases only." />
-      <item value="The text to be laid out, optionally with spans" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="780" />
-        <entry key="ENGLISH" value="781" />
+        <entry key="CHINESE" value="783" />
+        <entry key="ENGLISH" value="784" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
