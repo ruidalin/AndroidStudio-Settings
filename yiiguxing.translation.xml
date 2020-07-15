@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exo Player Controller" />
+      <item value="Exo Player Control" />
       <item value="Unlike" />
       <item value="LAND TYPE NORMAL" />
       <item value="LAND TYPE REVERSE" />
@@ -49,13 +51,11 @@
       <item value="et the width. Internal for reuse cases only." />
       <item value="The text to be laid out, optionally with spans" />
       <item value="Text View ellipsize" />
-      <item value="letter Spacin" />
-      <item value="Text View letter Spacing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="777" />
-        <entry key="ENGLISH" value="778" />
+        <entry key="CHINESE" value="779" />
+        <entry key="ENGLISH" value="780" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
