@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exo artwork" />
+      <item value="exo shutter" />
+      <item value="Aspect Ratio Frame Layout" />
+      <item value="shutter View" />
       <item value="on Loading Changed" />
       <item value="on Tracks Changed" />
       <item value="* Called when the timeline has been refreshed." />
@@ -47,15 +51,11 @@
       <item value="break Strategy" />
       <item value="high-quality strategy," />
       <item value="control over paragraph layou" />
-      <item value="set Break Strategy" />
-      <item value="ellip" />
-      <item value="ellipsize" />
-      <item value="get Canonical Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="783" />
-        <entry key="ENGLISH" value="784" />
+        <entry key="CHINESE" value="787" />
+        <entry key="ENGLISH" value="788" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
