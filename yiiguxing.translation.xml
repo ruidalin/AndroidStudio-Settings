@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="use artwork" />
       <item value="exo artwork" />
       <item value="exo shutter" />
       <item value="Aspect Ratio Frame Layout" />
@@ -50,12 +51,11 @@
       <item value="Whether to respect the ascent and descent of the fallback fonts that are used in displaying the text. When true, fallback fonts that end up getting used can increase the ascent and descent of the lines that they are used on." />
       <item value="break Strategy" />
       <item value="high-quality strategy," />
-      <item value="control over paragraph layou" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="787" />
-        <entry key="ENGLISH" value="788" />
+        <entry key="CHINESE" value="788" />
+        <entry key="ENGLISH" value="789" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
