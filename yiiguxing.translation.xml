@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The format associated with the frame." />
+      <item value="The wallclock time at which the frame should be displayed, in nanoseconds. * If the platform API version of the device is less than 21, then this is the best effort." />
+      <item value="microseconds" />
+      <item value="presentation" />
+      <item value="* Called when the video frame about to be rendered. This method is called on the playback thread." />
       <item value="We're within the allowed tolerance." />
       <item value="on Content Aspect Ratio Changed" />
       <item value="set Aspect Ratio" />
@@ -46,16 +51,11 @@
       <item value="span Count" />
       <item value="interaction" />
       <item value="Drawable used for the indeterminate mode. One that implements Animatable offers more control over the animation." />
-      <item value="indicator" />
-      <item value="敬请期待" />
-      <item value="游戏正在上架中，敬请期待" />
-      <item value="* Returns the original text if it fits in the specified width * given the properties of the specified Paint, * or, if it does not fit, a truncated * copy with ellipsis character added at the specified edge or center." />
-      <item value="avail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="792" />
-        <entry key="ENGLISH" value="793" />
+        <entry key="CHINESE" value="797" />
+        <entry key="ENGLISH" value="798" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
