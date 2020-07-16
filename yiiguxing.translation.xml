@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CONTENT TYPE SONIFICATION" />
       <item value="he player is not able to immediately play from its current position. This state typically * occurs when more data needs to be loaded." />
       <item value="Analytics Listener" />
       <item value="The format associated with the frame." />
@@ -50,12 +51,11 @@
       <item value="dualscreen" />
       <item value="image Game Introduction Expand View" />
       <item value="is Hierarchical" />
-      <item value="span Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="799" />
-        <entry key="ENGLISH" value="800" />
+        <entry key="CHINESE" value="800" />
+        <entry key="ENGLISH" value="801" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
