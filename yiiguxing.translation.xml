@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AUDIOFOCUS GAIN TRANSIENT EXCLUSIVE" />
+      <item value="AUDIOFOCUS GAIN TRANSIENT MAY DUCK" />
+      <item value="TRANSIENT" />
+      <item value="apply Audio Focus" />
       <item value="AUDIOFOCUS REQUEST DELAYED" />
       <item value="set Will Pause When Ducked" />
       <item value="CONTENT TYPE SONIFICATION" />
@@ -47,15 +51,11 @@
       <item value="未知" />
       <item value="evicted" />
       <item value="* Called for entries that have been evicted or removed. This method is * invoked when a value is evicted to make space, removed by a call to * {@link #remove}, or replaced by a call to {@link #put}. The default * implementation does nothing. *" />
-      <item value="removed" />
-      <item value="rns true if the SurfaceTexture is single-buffered" />
-      <item value="synchronously" />
-      <item value="dualscreen" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="802" />
-        <entry key="ENGLISH" value="803" />
+        <entry key="CHINESE" value="806" />
+        <entry key="ENGLISH" value="807" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
