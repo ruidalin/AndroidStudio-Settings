@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="he player is not able to immediately play from its current position. This state typically * occurs when more data needs to be loaded." />
+      <item value="Analytics Listener" />
       <item value="The format associated with the frame." />
       <item value="The wallclock time at which the frame should be displayed, in nanoseconds. * If the platform API version of the device is less than 21, then this is the best effort." />
       <item value="microseconds" />
@@ -49,13 +51,11 @@
       <item value="image Game Introduction Expand View" />
       <item value="is Hierarchical" />
       <item value="span Count" />
-      <item value="interaction" />
-      <item value="Drawable used for the indeterminate mode. One that implements Animatable offers more control over the animation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="797" />
-        <entry key="ENGLISH" value="798" />
+        <entry key="CHINESE" value="799" />
+        <entry key="ENGLISH" value="800" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
