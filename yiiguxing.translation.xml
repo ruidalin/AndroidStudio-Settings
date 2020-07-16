@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We're within the allowed tolerance." />
+      <item value="on Content Aspect Ratio Changed" />
       <item value="set Aspect Ratio" />
       <item value="* Calling this method has no effect." />
       <item value="use artwork" />
@@ -49,13 +51,11 @@
       <item value="游戏正在上架中，敬请期待" />
       <item value="* Returns the original text if it fits in the specified width * given the properties of the specified Paint, * or, if it does not fit, a truncated * copy with ellipsis character added at the specified edge or center." />
       <item value="avail" />
-      <item value="Gets the unsigned horizontal extent of the specified line, including * leading margin indent, but excluding trailing whitespace." />
-      <item value="Whether to respect the ascent and descent of the fallback fonts that are used in displaying the text. When true, fallback fonts that end up getting used can increase the ascent and descent of the lines that they are used on." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="790" />
-        <entry key="ENGLISH" value="791" />
+        <entry key="CHINESE" value="792" />
+        <entry key="ENGLISH" value="793" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
