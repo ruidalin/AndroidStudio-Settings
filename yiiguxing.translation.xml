@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Aspect Scale" />
+      <item value="decreased" />
+      <item value="ZOOM" />
+      <item value="FIT" />
+      <item value="SCALE MODE FIT" />
+      <item value="increased" />
+      <item value="SCALE MODE FILL" />
+      <item value="SCALE MODE ZOOM" />
+      <item value="FILL" />
+      <item value="_FIXED" />
       <item value="Aspect" />
       <item value="set Aspect Ratio" />
       <item value="ratio" />
@@ -41,21 +51,11 @@
       <item value="* Called when the timeline has been refreshed." />
       <item value="/** Media source with a single period consisting of silent raw audio of a given duration. */" />
       <item value="Exo Player Controller" />
-      <item value="Exo Player Control" />
-      <item value="Unlike" />
-      <item value="LAND TYPE NORMAL" />
-      <item value="LAND TYPE REVERSE" />
-      <item value="OPTION CLOSEST" />
-      <item value="OPTION CLOSEST SYNC" />
-      <item value="The time position where the frame will be retrieved. * When retrieving the frame at the given time position, there is no * guarentee that the data source has a frame located at the position. * When this happens, a frame nearby will be returned. If timeUs is * negative, time position and option will ignored, and any frame * that the implementation considers as representative may be returned." />
-      <item value="sync" />
-      <item value="at any time position if possible," />
-      <item value="set Lock Land" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="822" />
-        <entry key="ENGLISH" value="823" />
+        <entry key="CHINESE" value="839" />
+        <entry key="ENGLISH" value="840" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
