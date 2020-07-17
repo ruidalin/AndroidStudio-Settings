@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Aspect" />
+      <item value="set Aspect Ratio" />
       <item value="ratio" />
       <item value="aspect" />
       <item value="RESIZE MODE FIT" />
@@ -28,7 +30,6 @@
       <item value="* Called when the video frame about to be rendered. This method is called on the playback thread." />
       <item value="We're within the allowed tolerance." />
       <item value="on Content Aspect Ratio Changed" />
-      <item value="set Aspect Ratio" />
       <item value="* Calling this method has no effect." />
       <item value="use artwork" />
       <item value="exo artwork" />
@@ -50,12 +51,11 @@
       <item value="sync" />
       <item value="at any time position if possible," />
       <item value="set Lock Land" />
-      <item value="image Thumb View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="818" />
-        <entry key="ENGLISH" value="819" />
+        <entry key="CHINESE" value="822" />
+        <entry key="ENGLISH" value="823" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
