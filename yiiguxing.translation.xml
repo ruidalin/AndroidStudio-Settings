@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aspect" />
+      <item value="ratio" />
+      <item value="RESIZE MODE FIT" />
+      <item value="/** Either the width or height is decreased to obtain the desired aspect ratio. */" />
+      <item value="/** The width is fixed and the height is increased or decreased to obtain the desired aspect ratio. */" />
+      <item value="/** The height is fixed and the width is increased or decreased to obtain the desired aspect ratio. */" />
+      <item value="The specified aspect ratio is ignored" />
+      <item value="Either the width or height is increased to obtain the desired aspect ratio" />
       <item value="m Layout Parent View" />
       <item value="set Bandwidth Meter" />
       <item value="FLAG AUDIBILITY ENFORCED" />
@@ -43,19 +51,11 @@
       <item value="at any time position if possible," />
       <item value="set Lock Land" />
       <item value="image Thumb View" />
-      <item value="IJK LOG ERROR" />
-      <item value="IJK LOG FATAL" />
-      <item value="IJK LOG SILENT" />
-      <item value="This API is not generally intended for third party application developers." />
-      <item value="generally" />
-      <item value="ringtone" />
-      <item value="Called when a view created by this adapter has been recycled." />
-      <item value="valid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="809" />
-        <entry key="ENGLISH" value="810" />
+        <entry key="CHINESE" value="817" />
+        <entry key="ENGLISH" value="818" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
