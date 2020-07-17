@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="closest" />
+      <item value="OPTION CLOSEST SYNC" />
+      <item value="OPTION PREVIOUS SYNC" />
       <item value="parallel" />
       <item value="SCALE MODE WARP" />
       <item value="set Aspect Ratio" />
@@ -48,14 +51,11 @@
       <item value="on Content Aspect Ratio Changed" />
       <item value="* Calling this method has no effect." />
       <item value="use artwork" />
-      <item value="exo artwork" />
-      <item value="exo shutter" />
-      <item value="Aspect Ratio Frame Layout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="852" />
-        <entry key="ENGLISH" value="853" />
+        <entry key="CHINESE" value="855" />
+        <entry key="ENGLISH" value="856" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
