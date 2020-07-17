@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="aspect" />
       <item value="ratio" />
+      <item value="aspect" />
       <item value="RESIZE MODE FIT" />
       <item value="/** Either the width or height is decreased to obtain the desired aspect ratio. */" />
       <item value="/** The width is fixed and the height is increased or decreased to obtain the desired aspect ratio. */" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="817" />
-        <entry key="ENGLISH" value="818" />
+        <entry key="CHINESE" value="818" />
+        <entry key="ENGLISH" value="819" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
