@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="release Audition" />
       <item value="remove Sticky Event" />
       <item value="当前礼包已经用完" />
       <item value="closest" />
@@ -50,12 +51,11 @@
       <item value="presentation" />
       <item value="* Called when the video frame about to be rendered. This method is called on the playback thread." />
       <item value="We're within the allowed tolerance." />
-      <item value="on Content Aspect Ratio Changed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="858" />
-        <entry key="ENGLISH" value="859" />
+        <entry key="CHINESE" value="859" />
+        <entry key="ENGLISH" value="860" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
