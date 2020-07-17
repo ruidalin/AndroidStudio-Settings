@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="当前礼包已经用完" />
       <item value="closest" />
       <item value="OPTION CLOSEST SYNC" />
       <item value="OPTION PREVIOUS SYNC" />
@@ -50,12 +51,11 @@
       <item value="We're within the allowed tolerance." />
       <item value="on Content Aspect Ratio Changed" />
       <item value="* Calling this method has no effect." />
-      <item value="use artwork" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="855" />
-        <entry key="ENGLISH" value="856" />
+        <entry key="CHINESE" value="858" />
+        <entry key="ENGLISH" value="858" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
