@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AUDIOFOCUS REQUEST GRANTED" />
+      <item value="AUDIOFOCUS REQUEST FAILED" />
       <item value="release Audition" />
       <item value="remove Sticky Event" />
       <item value="当前礼包已经用完" />
@@ -49,13 +51,11 @@
       <item value="The wallclock time at which the frame should be displayed, in nanoseconds. * If the platform API version of the device is less than 21, then this is the best effort." />
       <item value="microseconds" />
       <item value="presentation" />
-      <item value="* Called when the video frame about to be rendered. This method is called on the playback thread." />
-      <item value="We're within the allowed tolerance." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="859" />
-        <entry key="ENGLISH" value="860" />
+        <entry key="CHINESE" value="861" />
+        <entry key="ENGLISH" value="862" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
