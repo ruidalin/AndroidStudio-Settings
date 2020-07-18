@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EXCLUSIVE" />
+      <item value="AUDIOFOCUS GAIN TRANSIENT EXCLUSIVE" />
+      <item value="AUDIOFOCUS GAIN TRANSIENT" />
       <item value="responsibilities" />
       <item value="* Used to indicate a gain of audio focus, or a request of audio focus, of unknown duration." />
       <item value="继续观看" />
@@ -48,14 +51,11 @@
       <item value="RESIZE MODE ZOOM" />
       <item value="SCALE MODE FILL HEIGHT" />
       <item value="SCALE MODE FILL WIDTH" />
-      <item value="SCALE MODE FILL" />
-      <item value="SCALE MODE FIT" />
-      <item value="increased" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="890" />
-        <entry key="ENGLISH" value="891" />
+        <entry key="CHINESE" value="893" />
+        <entry key="ENGLISH" value="894" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
