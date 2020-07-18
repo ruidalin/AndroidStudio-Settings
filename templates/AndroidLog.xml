@@ -49,7 +49,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="tloge" value="Log.e($TAG$, String.format(&quot;#$METHOD_NAME$ $content$&quot;, $params$));" description="Log.e(String, String)" toReformat="true" toShortenFQNames="true">
+  <template name="tloge" value="android.util.Log.e($TAG$, String.format(&quot;#$METHOD_NAME$ $content$&quot;, $params$));" description="Log.e(String, String)" toReformat="true" toShortenFQNames="true">
     <variable name="TAG" expression="" defaultValue="&quot;TAG&quot;" alwaysStopAt="true" />
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
