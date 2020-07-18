@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="继续观看" />
+      <item value="取消观看" />
+      <item value="安全情况下打开视频观看" />
+      <item value="安全提醒" />
+      <item value="查看礼包" />
+      <item value="礼包码" />
+      <item value="领取礼包" />
+      <item value="扫描畅玩，领取豪礼" />
       <item value="* This key retrieves the original capture framerate, if it's * available. The capture framerate will be a floating point * number." />
       <item value="METADATA KEY CAPTURE FRAMERATE" />
       <item value="METADATA KEY BITRATE" />
@@ -43,19 +51,11 @@
       <item value="increased" />
       <item value="decreased" />
       <item value="ZOOM" />
-      <item value="FIT" />
-      <item value="SCALE MODE ZOOM" />
-      <item value="FILL" />
-      <item value="_FIXED" />
-      <item value="Aspect" />
-      <item value="ratio" />
-      <item value="aspect" />
-      <item value="/** Either the width or height is decreased to obtain the desired aspect ratio. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="880" />
-        <entry key="ENGLISH" value="881" />
+        <entry key="CHINESE" value="889" />
+        <entry key="ENGLISH" value="889" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
