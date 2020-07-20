@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* The player is not able to immediately play from its current position. This state typically * occurs when more data needs to be loaded." />
+      <item value="on Media Period Released" />
+      <item value="on Media Period Created" />
+      <item value="* Called when a media period is first being read from." />
       <item value="transfers" />
       <item value="Transfer Listener" />
       <item value="Called by the player to determine whether it should continue to load the source." />
@@ -47,15 +51,11 @@
       <item value="AUDIOFOCUS REQUEST FAILED" />
       <item value="release Audition" />
       <item value="remove Sticky Event" />
-      <item value="当前礼包已经用完" />
-      <item value="closest" />
-      <item value="OPTION CLOSEST SYNC" />
-      <item value="OPTION PREVIOUS SYNC" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="901" />
-        <entry key="ENGLISH" value="902" />
+        <entry key="CHINESE" value="905" />
+        <entry key="ENGLISH" value="906" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
