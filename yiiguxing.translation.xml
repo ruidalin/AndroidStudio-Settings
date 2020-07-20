@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="background" />
       <item value="indeterminate" />
       <item value="* The player is not able to immediately play from its current position. This state typically * occurs when more data needs to be loaded." />
       <item value="on Media Period Released" />
@@ -50,7 +51,6 @@
       <item value="METADATA KEY CD TRACK NUMBER" />
       <item value="AUDIOFOCUS REQUEST GRANTED" />
       <item value="AUDIOFOCUS REQUEST FAILED" />
-      <item value="release Audition" />
     </histories>
     <option name="languageScores">
       <map>
