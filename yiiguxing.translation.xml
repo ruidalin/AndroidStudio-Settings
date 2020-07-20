@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;!-- Set this if the view will serve as a scrolling container, meaning that it can be resized to shrink its overall window so that there will be space for an input method. If not set, the default value will be true if &quot;scrollbars&quot; has the vertical scrollbar" />
       <item value="Releases the the texture content. This is needed in single buffered mode to allow the image * content producer to take ownership of the image buffer. * For more information see {@link #SurfaceTexture(int, boolean)}." />
       <item value="EXCLUSIVE" />
       <item value="AUDIOFOCUS GAIN TRANSIENT EXCLUSIVE" />
@@ -50,12 +51,11 @@
       <item value="aspect Ratio" />
       <item value="RESIZE MODE FIT" />
       <item value="RESIZE MODE ZOOM" />
-      <item value="SCALE MODE FILL HEIGHT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="894" />
-        <entry key="ENGLISH" value="895" />
+        <entry key="CHINESE" value="895" />
+        <entry key="ENGLISH" value="896" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
