@@ -13,11 +13,4 @@
       <option name="WORKING_DIRECTORY" value="$ModuleFileDir$/src/main" />
     </exec>
   </tool>
-  <tool name="adb" description="adb" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="adb" />
-      <option name="PARAMETERS" value="shell am start -n com.imprexion.fengmap/com.imprexion.findcar.MainActivity" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
 </toolSet>
