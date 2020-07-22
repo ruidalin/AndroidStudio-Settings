@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="disabled Alpha" />
+      <item value="indicator" />
       <item value="text Commendation Title View" />
       <item value="m Recycler Game Shot View" />
       <item value="text Cancel View View" />
@@ -49,13 +51,11 @@
       <item value="METADATA KEY ALBUMARTIST" />
       <item value="METADATA KEY MIMETYPE" />
       <item value="METADATA KEY WRITER" />
-      <item value="METADATA KEY NUM TRACKS" />
-      <item value="METADATA KEY DURATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="917" />
-        <entry key="ENGLISH" value="918" />
+        <entry key="CHINESE" value="919" />
+        <entry key="ENGLISH" value="920" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
