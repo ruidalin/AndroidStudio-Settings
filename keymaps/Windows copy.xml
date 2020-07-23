@@ -14,6 +14,9 @@
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="ScrollFromSource">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
     <keyboard-shortcut first-keystroke="alt 3" />
