@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Direct Byte Buffer" />
+      <item value="Heap" />
+      <item value="Direct" />
+      <item value="allocate" />
+      <item value="allocate Direct" />
+      <item value="* &lt;p&gt; The new buffer's position will be zero, its limit will be its * capacity, its mark will be undefined, and each of its elements will be * initialized to zero. It will have a {@link #array backing array}, * and its {@link #arrayOffset array offset} will be zero." />
+      <item value="* &lt;p&gt; The new buffer's position will be zero, its limit will be its * capacity, its mark will be undefined, and each of its elements will be * initialized to zero. Whether or not it has a * {@link #hasArray backing array} is unspecified." />
+      <item value="* &lt;p&gt; The new buffer's position will be zero, its limit will be its * capacity, its mark will be undefined, and each of its elements will be * initialized to zero. Whether or not it has a" />
+      <item value="The new buffer's position will be zero," />
+      <item value="The new buffer's capacity, in bytes" />
       <item value="* &lt;p&gt; This method does not actually erase the data in the buffer, but it * is named as if it did because it will most often be used in situations * in which that might as well be the case." />
       <item value="erase" />
       <item value="actually" />
@@ -41,21 +51,11 @@
       <item value="prog" />
       <item value="progress" />
       <item value="gress" />
-      <item value="circular" />
-      <item value="&lt;!-- Set this if the view will serve as a scrolling container, meaning that it can be resized to shrink its overall window so that there will be space for an input method. If not set, the default value will be true if &quot;scrollbars&quot; has the vertical scrollbar" />
-      <item value="Releases the the texture content. This is needed in single buffered mode to allow the image * content producer to take ownership of the image buffer. * For more information see {@link #SurfaceTexture(int, boolean)}." />
-      <item value="EXCLUSIVE" />
-      <item value="AUDIOFOCUS GAIN TRANSIENT EXCLUSIVE" />
-      <item value="AUDIOFOCUS GAIN TRANSIENT" />
-      <item value="responsibilities" />
-      <item value="* Used to indicate a gain of audio focus, or a request of audio focus, of unknown duration." />
-      <item value="继续观看" />
-      <item value="取消观看" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="933" />
-        <entry key="ENGLISH" value="934" />
+        <entry key="CHINESE" value="946" />
+        <entry key="ENGLISH" value="947" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
