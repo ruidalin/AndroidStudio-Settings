@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EACCES" />
       <item value="is Present" />
       <item value="Direct Byte Buffer" />
       <item value="Heap" />
@@ -50,12 +51,11 @@
       <item value="Transfer Listener" />
       <item value="Called by the player to determine whether it should continue to load the source." />
       <item value="prog" />
-      <item value="progress" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="947" />
-        <entry key="ENGLISH" value="948" />
+        <entry key="CHINESE" value="948" />
+        <entry key="ENGLISH" value="949" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
