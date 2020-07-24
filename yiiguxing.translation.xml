@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* &lt;p&gt; This method does not actually erase the data in the buffer, but it * is named as if it did because it will most often be used in situations * in which that might as well be the case." />
+      <item value="erase" />
+      <item value="actually" />
+      <item value="* Clears this buffer. The position is set to zero, the limit is set to * the capacity, and the mark is discarded." />
+      <item value="positive" />
+      <item value="zero" />
+      <item value="negative" />
+      <item value="signum" />
       <item value="remaining" />
       <item value="进度" />
       <item value="store File" />
@@ -43,26 +51,18 @@
       <item value="* Used to indicate a gain of audio focus, or a request of audio focus, of unknown duration." />
       <item value="继续观看" />
       <item value="取消观看" />
-      <item value="安全情况下打开视频观看" />
-      <item value="安全提醒" />
-      <item value="查看礼包" />
-      <item value="礼包码" />
-      <item value="领取礼包" />
-      <item value="扫描畅玩，领取豪礼" />
-      <item value="* This key retrieves the original capture framerate, if it's * available. The capture framerate will be a floating point * number." />
-      <item value="METADATA KEY CAPTURE FRAMERATE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="926" />
-        <entry key="ENGLISH" value="927" />
+        <entry key="CHINESE" value="933" />
+        <entry key="ENGLISH" value="934" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="KANNADA" value="1" />
         <entry key="CROATIAN" value="1" />
-        <entry key="LATIN" value="1" />
+        <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="3" />
         <entry key="BENGALI" value="2" />
         <entry key="NORWEGIAN" value="1" />
