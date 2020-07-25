@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assistant service is not bound!!!" />
       <item value="WRITE SYNC SETTINGS" />
       <item value="security" />
       <item value="reduction" />
@@ -50,12 +51,11 @@
       <item value="* The player is not able to immediately play from its current position. This state typically * occurs when more data needs to be loaded." />
       <item value="on Media Period Released" />
       <item value="on Media Period Created" />
-      <item value="* Called when a media period is first being read from." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="953" />
-        <entry key="ENGLISH" value="954" />
+        <entry key="CHINESE" value="954" />
+        <entry key="ENGLISH" value="955" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
