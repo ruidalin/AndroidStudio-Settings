@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="活动礼包" />
       <item value="优惠促销" />
+      <item value="活动礼包" />
       <item value="entity Type" />
       <item value="App Silent Install" />
       <item value="assistant service is not bound!!!" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="958" />
-        <entry key="ENGLISH" value="958" />
+        <entry key="ENGLISH" value="959" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
