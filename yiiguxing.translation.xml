@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Promoiton" />
       <item value="text Promotion Gift View" />
       <item value="{ onTabClick(v); if (null == mPromotions1Fragment) { mPromotions1Fragment = new GamePromotions1Fragment(); } ActivityUtil.switchFragment(getChildFragmentManager(), R.id.layoutContentView, mPromotions1Fragment, null); break; }" />
       <item value="优惠促销" />
@@ -50,15 +51,15 @@
       <item value="category" />
       <item value="text Multi Line" />
       <item value="text Ime Multi Line" />
-      <item value="区服" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="958" />
+        <entry key="CHINESE" value="959" />
         <entry key="ENGLISH" value="959" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
+        <entry key="CATALAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="KANNADA" value="1" />
         <entry key="CROATIAN" value="1" />
