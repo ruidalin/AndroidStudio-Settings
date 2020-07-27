@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="活动礼包" />
+      <item value="优惠促销" />
       <item value="entity Type" />
       <item value="App Silent Install" />
       <item value="assistant service is not bound!!!" />
@@ -49,13 +51,11 @@
       <item value="区服" />
       <item value="必填" />
       <item value="background" />
-      <item value="indeterminate" />
-      <item value="* The player is not able to immediately play from its current position. This state typically * occurs when more data needs to be loaded." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="955" />
-        <entry key="ENGLISH" value="956" />
+        <entry key="CHINESE" value="958" />
+        <entry key="ENGLISH" value="958" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
