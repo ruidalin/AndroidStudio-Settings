@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="chaining" />
+      <item value="amount to add to the default line spacing" />
+      <item value="factor by which to scale the font size to get the * default line spacing" />
+      <item value="spacingadd" />
       <item value="avail" />
       <item value="set Item Prefetch Enabled" />
       <item value="Commendations Adapter" />
@@ -47,15 +51,11 @@
       <item value="generics" />
       <item value="widened" />
       <item value="equivalent" />
-      <item value="contained" />
-      <item value="disabled Alpha" />
-      <item value="indicator" />
-      <item value="text Commendation Title View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="967" />
-        <entry key="ENGLISH" value="968" />
+        <entry key="CHINESE" value="971" />
+        <entry key="ENGLISH" value="972" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
