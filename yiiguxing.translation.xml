@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Item Prefetch Enabled" />
       <item value="Commendations Adapter" />
       <item value="Commendation Adapter" />
       <item value="Game Promotions Buy Record" />
@@ -50,12 +51,11 @@
       <item value="indicator" />
       <item value="text Commendation Title View" />
       <item value="m Recycler Game Shot View" />
-      <item value="text Cancel View View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="965" />
-        <entry key="ENGLISH" value="966" />
+        <entry key="CHINESE" value="966" />
+        <entry key="ENGLISH" value="967" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
