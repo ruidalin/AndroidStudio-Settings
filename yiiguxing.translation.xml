@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="overflow" />
       <item value="purposes" />
       <item value="ellipsized Width" />
       <item value="ellip" />
@@ -50,12 +51,11 @@
       <item value="negative" />
       <item value="signum" />
       <item value="remaining" />
-      <item value="进度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="974" />
-        <entry key="ENGLISH" value="975" />
+        <entry key="CHINESE" value="975" />
+        <entry key="ENGLISH" value="976" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
