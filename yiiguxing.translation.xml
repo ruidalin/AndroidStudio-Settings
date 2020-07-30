@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Holder" />
       <item value="ELLIPSIS NORMAL" />
       <item value="ELLIPSIS TWO DOTS" />
       <item value="scroll By Internal" />
@@ -50,12 +51,11 @@
       <item value="* &lt;p&gt; The new buffer's position will be zero, its limit will be its * capacity, its mark will be undefined, and each of its elements will be * initialized to zero. Whether or not it has a * {@link #hasArray backing array} is unspecified." />
       <item value="* &lt;p&gt; The new buffer's position will be zero, its limit will be its * capacity, its mark will be undefined, and each of its elements will be * initialized to zero. Whether or not it has a" />
       <item value="The new buffer's position will be zero," />
-      <item value="The new buffer's capacity, in bytes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="984" />
-        <entry key="ENGLISH" value="985" />
+        <entry key="CHINESE" value="985" />
+        <entry key="ENGLISH" value="986" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
