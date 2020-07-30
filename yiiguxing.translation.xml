@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scroll By Internal" />
       <item value="SCROLL STATE IDLE" />
       <item value="DRAGGING" />
       <item value="SETTLING" />
@@ -50,12 +51,11 @@
       <item value="The new buffer's capacity, in bytes" />
       <item value="* &lt;p&gt; This method does not actually erase the data in the buffer, but it * is named as if it did because it will most often be used in situations * in which that might as well be the case." />
       <item value="erase" />
-      <item value="actually" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="981" />
-        <entry key="ENGLISH" value="982" />
+        <entry key="CHINESE" value="982" />
+        <entry key="ENGLISH" value="983" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
