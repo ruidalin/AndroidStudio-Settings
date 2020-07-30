@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="show Payment QR Code" />
       <item value="discount" />
       <item value="overflow" />
       <item value="purposes" />
@@ -50,12 +51,11 @@
       <item value="positive" />
       <item value="zero" />
       <item value="negative" />
-      <item value="signum" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="976" />
-        <entry key="ENGLISH" value="977" />
+        <entry key="CHINESE" value="977" />
+        <entry key="ENGLISH" value="978" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
