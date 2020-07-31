@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="领取失败" />
+      <item value="receive fail" />
       <item value="Optional parameter, use null to identify a &quot;full&quot; update" />
       <item value="* Note that if you've called {@link RecyclerView.Adapter#notifyDataSetChanged()}, until the * next layout pass, the return value of this method will be {@link #NO_POSITION}." />
       <item value="* RecyclerView does not handle any adapter updates until the next layout traversal. This * may create temporary inconsistencies between what user sees on the screen and what * adapter contents have. This inconsistency is not important since it will be less than * 16ms but it might be a problem if you want to use ViewHolder position to access the * adapter. Sometimes, you may need to get the exact adapter position to do * some actions in response to user events. In that case, you should use this method which * will calculate the Adapter position of the ViewHolder." />
@@ -49,13 +51,11 @@
       <item value="security" />
       <item value="reduction" />
       <item value="use If Present" />
-      <item value="EACCES" />
-      <item value="is Present" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="994" />
-        <entry key="ENGLISH" value="995" />
+        <entry key="CHINESE" value="996" />
+        <entry key="ENGLISH" value="997" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
