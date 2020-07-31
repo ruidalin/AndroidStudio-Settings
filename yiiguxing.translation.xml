@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="记录登录次数" />
+      <item value="times" />
       <item value="领取失败" />
       <item value="receive fail" />
       <item value="Optional parameter, use null to identify a &quot;full&quot; update" />
@@ -49,13 +51,11 @@
       <item value="assistant service is not bound!!!" />
       <item value="WRITE SYNC SETTINGS" />
       <item value="security" />
-      <item value="reduction" />
-      <item value="use If Present" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="996" />
-        <entry key="ENGLISH" value="997" />
+        <entry key="CHINESE" value="998" />
+        <entry key="ENGLISH" value="998" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
