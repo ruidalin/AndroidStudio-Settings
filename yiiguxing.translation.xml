@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="2" />
       <item value="记录登录次数" />
       <item value="times" />
       <item value="领取失败" />
@@ -50,11 +51,10 @@
       <item value="App Silent Install" />
       <item value="assistant service is not bound!!!" />
       <item value="WRITE SYNC SETTINGS" />
-      <item value="security" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="998" />
+        <entry key="CHINESE" value="999" />
         <entry key="ENGLISH" value="998" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
