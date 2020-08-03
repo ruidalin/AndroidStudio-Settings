@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="qrcode Desc" />
       <item value="get Multi Press Timeout" />
       <item value="the duration in milliseconds we will wait to see if a touch event * is a tap or a scroll. If the user does not move within this interval, it is * considered to be a tap." />
       <item value="quick" />
@@ -50,12 +51,11 @@
       <item value="Promoiton" />
       <item value="text Promotion Gift View" />
       <item value="{ onTabClick(v); if (null == mPromotions1Fragment) { mPromotions1Fragment = new GamePromotions1Fragment(); } ActivityUtil.switchFragment(getChildFragmentManager(), R.id.layoutContentView, mPromotions1Fragment, null); break; }" />
-      <item value="优惠促销" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1002" />
-        <entry key="ENGLISH" value="1003" />
+        <entry key="CHINESE" value="1003" />
+        <entry key="ENGLISH" value="1004" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
