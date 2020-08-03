@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quick" />
       <item value="公告" />
       <item value="游戏公告" />
       <item value="2" />
@@ -50,12 +51,11 @@
       <item value="优惠促销" />
       <item value="活动礼包" />
       <item value="entity Type" />
-      <item value="App Silent Install" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1000" />
-        <entry key="ENGLISH" value="1000" />
+        <entry key="ENGLISH" value="1001" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
