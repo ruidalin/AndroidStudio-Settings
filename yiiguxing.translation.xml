@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="公告" />
+      <item value="游戏公告" />
       <item value="2" />
       <item value="记录登录次数" />
       <item value="times" />
@@ -49,13 +51,11 @@
       <item value="活动礼包" />
       <item value="entity Type" />
       <item value="App Silent Install" />
-      <item value="assistant service is not bound!!!" />
-      <item value="WRITE SYNC SETTINGS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="999" />
-        <entry key="ENGLISH" value="998" />
+        <entry key="CHINESE" value="1000" />
+        <entry key="ENGLISH" value="1000" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
