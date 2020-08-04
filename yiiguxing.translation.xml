@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="common" />
       <item value="m Image Intro Expand" />
       <item value="Bulletin Adapter" />
       <item value="Game Promo Buy Record View Holder" />
@@ -50,11 +51,10 @@
       <item value="SCROLL STATE IDLE" />
       <item value="DRAGGING" />
       <item value="SETTLING" />
-      <item value="SCROLL STATE SETTLING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1025" />
+        <entry key="CHINESE" value="1026" />
         <entry key="ENGLISH" value="1026" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
