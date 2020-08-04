@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="game Bulletin Id" />
+      <item value="m Game Notice Id" />
       <item value="File Uri Exposed Exception" />
       <item value="More complex formatters are provided by" />
       <item value="qrcode Desc" />
@@ -49,13 +51,11 @@
       <item value="Game Promotions Buy Record" />
       <item value="image Receive Expand View" />
       <item value="Specifies that this view should permit nested scrolling within a compatible ancestor view" />
-      <item value="领取礼包" />
-      <item value="Promoiton" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1005" />
-        <entry key="ENGLISH" value="1006" />
+        <entry key="CHINESE" value="1007" />
+        <entry key="ENGLISH" value="1008" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
