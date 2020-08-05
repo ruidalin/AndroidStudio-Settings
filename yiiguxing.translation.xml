@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="product no enough" />
+      <item value="不足" />
+      <item value="当前商品库存不足" />
       <item value="Promo Buy Record Entity" />
       <item value="indeterminate Drawable" />
       <item value="dismiss Timeout" />
@@ -48,14 +51,11 @@
       <item value="external" />
       <item value="* For performance and animation reasons, RecyclerView batches all adapter updates until the * next layout pass. This may cause mismatches between the Adapter position of the item and * the position it had in the latest layout calculations." />
       <item value="Holder" />
-      <item value="ELLIPSIS NORMAL" />
-      <item value="ELLIPSIS TWO DOTS" />
-      <item value="scroll By Internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1029" />
-        <entry key="ENGLISH" value="1030" />
+        <entry key="CHINESE" value="1031" />
+        <entry key="ENGLISH" value="1032" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
