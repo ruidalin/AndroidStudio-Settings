@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Promo Buy Record Entity" />
       <item value="indeterminate Drawable" />
       <item value="dismiss Timeout" />
       <item value="common" />
@@ -50,12 +51,11 @@
       <item value="ELLIPSIS NORMAL" />
       <item value="ELLIPSIS TWO DOTS" />
       <item value="scroll By Internal" />
-      <item value="SCROLL STATE IDLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1028" />
-        <entry key="ENGLISH" value="1029" />
+        <entry key="CHINESE" value="1029" />
+        <entry key="ENGLISH" value="1030" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
