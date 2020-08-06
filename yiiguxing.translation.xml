@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="礼包码" />
       <item value="@string/back to previous" />
       <item value="返回上一级" />
       <item value="游戏公告" />
@@ -50,11 +51,10 @@
       <item value="fragment game bulletin" />
       <item value="fragment game proclamation" />
       <item value="fragment game promotions" />
-      <item value="fragment game introduction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1060" />
+        <entry key="CHINESE" value="1061" />
         <entry key="ENGLISH" value="1061" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
