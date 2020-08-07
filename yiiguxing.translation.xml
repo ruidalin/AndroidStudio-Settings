@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="block" />
+      <item value="descendants" />
+      <item value="blocks Descendants" />
+      <item value="descendant Focusability" />
+      <item value="&lt;!-- The ViewGroup will get focus only if none of its descendants want it. --&gt;" />
+      <item value="&lt;!-- The ViewGroup will block its descendants from receiving focus. --&gt;" />
       <item value="disallow Intercept" />
       <item value="request Disallow Intercept Touch Event" />
       <item value="opaque" />
@@ -45,17 +51,11 @@
       <item value="dismiss Timeout" />
       <item value="common" />
       <item value="m Image Intro Expand" />
-      <item value="Bulletin Adapter" />
-      <item value="Game Promo Buy Record View Holder" />
-      <item value="Game Promo Tab 2 Fragment" />
-      <item value="Game Promo Tab 1 Fragment" />
-      <item value="Game Prop Tab 1 Fragment" />
-      <item value="fragment game promo_" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1067" />
-        <entry key="ENGLISH" value="1068" />
+        <entry key="CHINESE" value="1073" />
+        <entry key="ENGLISH" value="1074" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
