@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="request Disallow Intercept Touch Event" />
+      <item value="unbuffered" />
       <item value="block" />
       <item value="descendants" />
       <item value="blocks Descendants" />
@@ -8,7 +10,6 @@
       <item value="&lt;!-- The ViewGroup will get focus only if none of its descendants want it. --&gt;" />
       <item value="&lt;!-- The ViewGroup will block its descendants from receiving focus. --&gt;" />
       <item value="disallow Intercept" />
-      <item value="request Disallow Intercept Touch Event" />
       <item value="opaque" />
       <item value="immediately" />
       <item value="interaction" />
@@ -50,12 +51,11 @@
       <item value="indeterminate Drawable" />
       <item value="dismiss Timeout" />
       <item value="common" />
-      <item value="m Image Intro Expand" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1073" />
-        <entry key="ENGLISH" value="1074" />
+        <entry key="CHINESE" value="1075" />
+        <entry key="ENGLISH" value="1076" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
