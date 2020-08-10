@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Add a new Intent data scheme to match against. If any schemes are * included in the filter, then an Intent's data must be &lt;em&gt;either&lt;/em&gt; * one of these schemes &lt;em&gt;or&lt;/em&gt; a matching data type. If no schemes * are included, then an Intent will match only if it includes no data." />
       <item value="ACTION PACKAGE REMOVED" />
       <item value="REPLACING" />
       <item value="tooltip Text" />
@@ -50,12 +51,11 @@
       <item value="handle" />
       <item value="real Position" />
       <item value="Game Recommend Adapter" />
-      <item value="Game Bulletin Detail Activity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1085" />
-        <entry key="ENGLISH" value="1086" />
+        <entry key="CHINESE" value="1086" />
+        <entry key="ENGLISH" value="1087" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
