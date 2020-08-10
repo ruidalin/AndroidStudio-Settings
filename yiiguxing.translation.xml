@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ACTION PACKAGE REMOVED" />
+      <item value="REPLACING" />
       <item value="tooltip Text" />
       <item value="authorities" />
       <item value="INSTALL FAILED CONFLICTING PROVIDER" />
@@ -49,13 +51,11 @@
       <item value="real Position" />
       <item value="Game Recommend Adapter" />
       <item value="Game Bulletin Detail Activity" />
-      <item value="product no enough" />
-      <item value="不足" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1083" />
-        <entry key="ENGLISH" value="1084" />
+        <entry key="CHINESE" value="1085" />
+        <entry key="ENGLISH" value="1086" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
