@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Importaince" />
       <item value="done" />
       <item value="促销下载发放礼包" />
       <item value="strict" />
@@ -50,12 +51,11 @@
       <item value="活动专区" />
       <item value="我要评分" />
       <item value="STEP ANIMATIONS" />
-      <item value="STEP LAYOUT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1091" />
-        <entry key="ENGLISH" value="1092" />
+        <entry key="CHINESE" value="1092" />
+        <entry key="ENGLISH" value="1093" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
