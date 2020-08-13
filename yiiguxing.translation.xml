@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Discount" />
+      <item value="is Discount" />
       <item value="quit Safely" />
       <item value="Importaince" />
       <item value="done" />
@@ -49,13 +51,11 @@
       <item value="版本信息" />
       <item value="公告专区" />
       <item value="游戏介绍" />
-      <item value="活动专区" />
-      <item value="我要评分" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1093" />
-        <entry key="ENGLISH" value="1094" />
+        <entry key="CHINESE" value="1095" />
+        <entry key="ENGLISH" value="1096" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
