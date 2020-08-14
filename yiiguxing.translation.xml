@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BOOTLOADER" />
+      <item value="MANUFACTURER" />
+      <item value="BRAND" />
       <item value="vehicle Type" />
       <item value="公告" />
       <item value="detail Game Placard" />
@@ -48,14 +51,11 @@
       <item value="优惠促销" />
       <item value="当前板块未开放" />
       <item value="android:text=&quot;当前板块未开放&quot;" />
-      <item value="未开放" />
-      <item value="大家喜欢" />
-      <item value="同类" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1098" />
-        <entry key="ENGLISH" value="1099" />
+        <entry key="CHINESE" value="1101" />
+        <entry key="ENGLISH" value="1102" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
