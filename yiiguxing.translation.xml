@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="vehicle Type" />
       <item value="公告" />
       <item value="detail Game Placard" />
       <item value="download fail retry later" />
@@ -50,12 +51,11 @@
       <item value="未开放" />
       <item value="大家喜欢" />
       <item value="同类" />
-      <item value="同类推荐" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1098" />
-        <entry key="ENGLISH" value="1098" />
+        <entry key="ENGLISH" value="1099" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
