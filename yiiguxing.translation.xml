@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="大家喜欢" />
+      <item value="we Like" />
+      <item value="on Intro Recommend" />
       <item value="m Apk Url" />
       <item value="Clear the cache, calling {@link #entryRemoved} on each removed entry." />
       <item value="BRAND" />
@@ -48,14 +51,11 @@
       <item value="游戏公告" />
       <item value="进入游戏即可兑换礼包" />
       <item value="购买成功后，进入游戏即可领取" />
-      <item value="购买记录" />
-      <item value="活动礼包" />
-      <item value="优惠促销" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1104" />
-        <entry key="ENGLISH" value="1105" />
+        <entry key="CHINESE" value="1107" />
+        <entry key="ENGLISH" value="1107" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
