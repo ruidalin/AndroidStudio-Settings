@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="安装" />
       <item value="查看" />
       <item value="goods Id" />
       <item value="CJK Unified Ideographs" />
@@ -50,12 +51,11 @@
       <item value="待领取" />
       <item value="礼包码" />
       <item value="@string/back to previous" />
-      <item value="返回上一级" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1110" />
-        <entry key="ENGLISH" value="1110" />
+        <entry key="CHINESE" value="1111" />
+        <entry key="ENGLISH" value="1111" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
