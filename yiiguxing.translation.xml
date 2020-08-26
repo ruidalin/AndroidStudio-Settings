@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unmodifiable Map" />
+      <item value="ignore" />
+      <item value="ingore" />
       <item value="Wraps the given object if necessary." />
       <item value="quote" />
       <item value="get Device Brand Model" />
@@ -48,14 +51,11 @@
       <item value="blocks Descendants" />
       <item value="descendant Focusability" />
       <item value="&lt;!-- The ViewGroup will get focus only if none of its descendants want it. --&gt;" />
-      <item value="&lt;!-- The ViewGroup will block its descendants from receiving focus. --&gt;" />
-      <item value="disallow Intercept" />
-      <item value="opaque" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1116" />
-        <entry key="ENGLISH" value="1117" />
+        <entry key="CHINESE" value="1118" />
+        <entry key="ENGLISH" value="1119" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
@@ -63,7 +63,7 @@
         <entry key="CZECH" value="1" />
         <entry key="KANNADA" value="1" />
         <entry key="CROATIAN" value="1" />
-        <entry key="LATIN" value="2" />
+        <entry key="LATIN" value="3" />
         <entry key="ROMANIAN" value="3" />
         <entry key="BENGALI" value="2" />
         <entry key="NORWEGIAN" value="1" />
