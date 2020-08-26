@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Device Brand Model" />
+      <item value="get OS Model" />
+      <item value="MODEL" />
+      <item value="BRAND" />
       <item value="安装" />
       <item value="查看" />
       <item value="goods Id" />
@@ -11,7 +15,6 @@
       <item value="on Intro Recommend" />
       <item value="m Apk Url" />
       <item value="Clear the cache, calling {@link #entryRemoved} on each removed entry." />
-      <item value="BRAND" />
       <item value="BOOTLOADER" />
       <item value="MANUFACTURER" />
       <item value="vehicle Type" />
@@ -48,14 +51,11 @@
       <item value="opaque" />
       <item value="immediately" />
       <item value="interaction" />
-      <item value="待领取" />
-      <item value="礼包码" />
-      <item value="@string/back to previous" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1111" />
-        <entry key="ENGLISH" value="1111" />
+        <entry key="CHINESE" value="1114" />
+        <entry key="ENGLISH" value="1115" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
