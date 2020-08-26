@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wraps the given object if necessary." />
+      <item value="quote" />
       <item value="get Device Brand Model" />
       <item value="get OS Model" />
       <item value="MODEL" />
@@ -49,13 +51,11 @@
       <item value="&lt;!-- The ViewGroup will block its descendants from receiving focus. --&gt;" />
       <item value="disallow Intercept" />
       <item value="opaque" />
-      <item value="immediately" />
-      <item value="interaction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1114" />
-        <entry key="ENGLISH" value="1115" />
+        <entry key="CHINESE" value="1116" />
+        <entry key="ENGLISH" value="1117" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
