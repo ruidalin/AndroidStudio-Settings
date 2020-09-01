@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="m Data List" />
+      <item value="Pager Tab Strip" />
       <item value="stack From End" />
       <item value="Loader" />
       <item value="Retention Policy" />
@@ -49,13 +51,11 @@
       <item value="Discount" />
       <item value="is Discount" />
       <item value="quit Safely" />
-      <item value="Importaince" />
-      <item value="done" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1137" />
-        <entry key="ENGLISH" value="1138" />
+        <entry key="CHINESE" value="1139" />
+        <entry key="ENGLISH" value="1140" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
