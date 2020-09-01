@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="X5Cookies" type="PLAIN_TEXT" />
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
       <mapping pattern="CleanData" type="PLAIN_TEXT" />
