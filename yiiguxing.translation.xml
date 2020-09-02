@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="present" />
       <item value="recycle" />
       <item value="recycler" />
       <item value="m Data List" />
@@ -50,12 +51,11 @@
       <item value="公告" />
       <item value="detail Game Placard" />
       <item value="download fail retry later" />
-      <item value="Discount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1140" />
-        <entry key="ENGLISH" value="1141" />
+        <entry key="CHINESE" value="1141" />
+        <entry key="ENGLISH" value="1142" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
