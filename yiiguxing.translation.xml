@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Data Count" />
       <item value="restore Page View Holder" />
       <item value="recycle Page View Holder" />
       <item value="present" />
@@ -50,12 +51,11 @@
       <item value="BOOTLOADER" />
       <item value="MANUFACTURER" />
       <item value="vehicle Type" />
-      <item value="公告" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1143" />
-        <entry key="ENGLISH" value="1144" />
+        <entry key="CHINESE" value="1144" />
+        <entry key="ENGLISH" value="1145" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
