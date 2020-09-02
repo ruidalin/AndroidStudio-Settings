@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="restore Page View Holder" />
+      <item value="recycle Page View Holder" />
       <item value="present" />
       <item value="recycle" />
       <item value="recycler" />
@@ -49,13 +51,11 @@
       <item value="MANUFACTURER" />
       <item value="vehicle Type" />
       <item value="公告" />
-      <item value="detail Game Placard" />
-      <item value="download fail retry later" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1141" />
-        <entry key="ENGLISH" value="1142" />
+        <entry key="CHINESE" value="1143" />
+        <entry key="ENGLISH" value="1144" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
