@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DOWNLOAD INTERRUPT" />
       <item value="PROGRESS" />
       <item value="SUCCESS" />
       <item value="OPTION INVALID" />
@@ -11,7 +12,6 @@
       <item value="UPDATE INVALID" />
       <item value="DOWNLOAD FAILED" />
       <item value="DOWNLOAD FILE ERROR" />
-      <item value="DOWNLOAD INTERRUPT" />
       <item value="CONVERT UNIT" />
       <item value="temporary" />
       <item value="Number" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1161" />
-        <entry key="ENGLISH" value="1162" />
+        <entry key="CHINESE" value="1162" />
+        <entry key="ENGLISH" value="1163" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
