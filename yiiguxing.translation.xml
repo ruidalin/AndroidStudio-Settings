@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PROGRESS" />
+      <item value="SUCCESS" />
+      <item value="OPTION INVALID" />
+      <item value="URL INVALID" />
+      <item value="CONNECT INVALID" />
+      <item value="STORAGE NOT ENOUGH" />
+      <item value="GET TOKEN FAILED" />
+      <item value="UPDATE INVALID" />
+      <item value="DOWNLOAD FAILED" />
+      <item value="DOWNLOAD FILE ERROR" />
+      <item value="DOWNLOAD INTERRUPT" />
+      <item value="CONVERT UNIT" />
       <item value="temporary" />
       <item value="Number" />
       <item value="on Message Delivery Complete" />
@@ -39,23 +51,11 @@
       <item value="intern" />
       <item value="assignable" />
       <item value="* @return the value to return from the method invocation on the * proxy instance. If the declared return type of the interface * method is a primitive type, then the value returned by * this method must be an instance of the corresponding primitive * wrapper class; otherwise, it must be a type assignable to the * declared return type. If the value returned by this method is * {@code null} and the interface method's return type is * primitive, then a {@code NullPointerException} will be * thrown by the method invocation on the proxy instance. If the * value returned by this method is otherwise not compatible with * the interface method's declared return type as described above, * a {@code ClassCastException} will be thrown by the method * invocation on the proxy instance." />
-      <item value="unmodifiable Map" />
-      <item value="ignore" />
-      <item value="ingore" />
-      <item value="Wraps the given object if necessary." />
-      <item value="quote" />
-      <item value="get Device Brand Model" />
-      <item value="get OS Model" />
-      <item value="MODEL" />
-      <item value="BRAND" />
-      <item value="安装" />
-      <item value="查看" />
-      <item value="goods Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1153" />
-        <entry key="ENGLISH" value="1154" />
+        <entry key="CHINESE" value="1161" />
+        <entry key="ENGLISH" value="1162" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
