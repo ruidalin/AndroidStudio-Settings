@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IS FROM MINE THEME LIST" />
+      <item value="trial skin" />
       <item value="Attempt to recreate a file for type" />
       <item value="obsolete" />
       <item value="GIT REV" />
@@ -49,13 +51,11 @@
       <item value="time Stamp" />
       <item value="current" />
       <item value="curr" />
-      <item value="curve" />
-      <item value="m Act Stack" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1164" />
-        <entry key="ENGLISH" value="1164" />
+        <entry key="CHINESE" value="1165" />
+        <entry key="ENGLISH" value="1166" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
