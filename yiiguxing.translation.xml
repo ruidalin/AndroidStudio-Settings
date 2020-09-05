@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attempt to recreate a file for type" />
       <item value="obsolete" />
       <item value="GIT REV" />
       <item value="DOWNLOAD INTERRUPT" />
@@ -50,11 +51,10 @@
       <item value="curr" />
       <item value="curve" />
       <item value="m Act Stack" />
-      <item value="intern" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1163" />
+        <entry key="CHINESE" value="1164" />
         <entry key="ENGLISH" value="1164" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="6" />
