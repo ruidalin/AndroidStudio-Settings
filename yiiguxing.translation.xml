@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="obsolete" />
       <item value="GIT REV" />
       <item value="DOWNLOAD INTERRUPT" />
       <item value="PROGRESS" />
@@ -50,12 +51,11 @@
       <item value="curve" />
       <item value="m Act Stack" />
       <item value="intern" />
-      <item value="assignable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1162" />
-        <entry key="ENGLISH" value="1163" />
+        <entry key="CHINESE" value="1163" />
+        <entry key="ENGLISH" value="1164" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
