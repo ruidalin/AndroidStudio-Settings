@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get The Skin Free" />
       <item value="IS FROM MINE THEME LIST" />
       <item value="trial skin" />
       <item value="Attempt to recreate a file for type" />
@@ -50,12 +51,11 @@
       <item value="timestamp" />
       <item value="time Stamp" />
       <item value="current" />
-      <item value="curr" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1165" />
-        <entry key="ENGLISH" value="1166" />
+        <entry key="CHINESE" value="1166" />
+        <entry key="ENGLISH" value="1167" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
