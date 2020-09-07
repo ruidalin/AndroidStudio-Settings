@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Theme Can Trial" />
       <item value="show Trail Dialog" />
       <item value="TRIALUSEING" />
       <item value="NOT BUY" />
@@ -50,12 +51,11 @@
       <item value="already Tracked" />
       <item value="track Backward" />
       <item value="track Forward" />
-      <item value="track" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1168" />
-        <entry key="ENGLISH" value="1169" />
+        <entry key="CHINESE" value="1169" />
+        <entry key="ENGLISH" value="1170" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
