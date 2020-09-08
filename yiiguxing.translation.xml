@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="directly" />
       <item value="* &lt;p&gt;Note that you &lt;em&gt;must not&lt;/em&gt; modify the collection returned * by this method, or alter any of its contents. The consistency of your * stored data is not guaranteed if you do." />
       <item value="put Immediately" />
       <item value="This compatibility class is no longer required. Use {@link SharedPreferences} * directly." />
@@ -50,12 +51,11 @@
       <item value="Loader" />
       <item value="Retention Policy" />
       <item value="Returns milliseconds since boot, including time spent in sleep." />
-      <item value="elapsed Realtime" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1174" />
-        <entry key="ENGLISH" value="1175" />
+        <entry key="CHINESE" value="1175" />
+        <entry key="ENGLISH" value="1176" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
