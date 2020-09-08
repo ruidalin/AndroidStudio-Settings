@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="required" />
+      <item value="compatibility" />
+      <item value="Returns a new instance of the {@link Editor} interface" />
+      <item value="putor" />
+      <item value="puter" />
       <item value="is maintained privately by the * class {@code String}. * &lt;p&gt;" />
       <item value="A pool of strings, initially empty" />
       <item value="Returns a canonical representation for the string object." />
@@ -46,16 +51,11 @@
       <item value="restore Page View Holder" />
       <item value="recycle Page View Holder" />
       <item value="present" />
-      <item value="recycle" />
-      <item value="recycler" />
-      <item value="m Data List" />
-      <item value="Pager Tab Strip" />
-      <item value="stack From End" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1178" />
-        <entry key="ENGLISH" value="1179" />
+        <entry key="CHINESE" value="1183" />
+        <entry key="ENGLISH" value="1184" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
