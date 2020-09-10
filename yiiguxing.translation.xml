@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="call" />
       <item value="open Game Play" />
       <item value="deliver Skin" />
       <item value="instantiated" />
@@ -50,12 +51,11 @@
       <item value="data" />
       <item value="has Updated View" />
       <item value="m Layout Was Defered" />
-      <item value="consume Pending Update Operations" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1188" />
-        <entry key="ENGLISH" value="1189" />
+        <entry key="CHINESE" value="1189" />
+        <entry key="ENGLISH" value="1190" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
