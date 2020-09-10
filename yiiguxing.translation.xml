@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="STEP START" />
       <item value="* This position may not be equal to Item's adapter position if there are pending changes * in the adapter which have not been reflected to the layout yet." />
       <item value="* Return the adapter position of the given child view as of the latest completed layout pass." />
       <item value="* Return the adapter position that the given child view corresponds to." />
@@ -50,12 +51,11 @@
       <item value="Number" />
       <item value="on Message Delivery Complete" />
       <item value="Online Manager" />
-      <item value="m Recycler Game Category" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1193" />
-        <entry key="ENGLISH" value="1194" />
+        <entry key="CHINESE" value="1194" />
+        <entry key="ENGLISH" value="1195" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
