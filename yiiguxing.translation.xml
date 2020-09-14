@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check Hotfix Update Async" />
       <item value="STEP START" />
       <item value="STEP LAYOUT" />
       <item value="STEP ANIMATIONS" />
@@ -50,12 +51,11 @@
       <item value="DOWNLOAD FAILED" />
       <item value="DOWNLOAD FILE ERROR" />
       <item value="CONVERT UNIT" />
-      <item value="temporary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1197" />
-        <entry key="ENGLISH" value="1198" />
+        <entry key="CHINESE" value="1198" />
+        <entry key="ENGLISH" value="1199" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
