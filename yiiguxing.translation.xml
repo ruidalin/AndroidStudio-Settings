@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UNDEFINED" />
+      <item value="APPLIANCE" />
+      <item value="TELEVISION" />
+      <item value="NAVIGATIONHIDDEN YES" />
+      <item value="NONAV" />
+      <item value="NAVIGATION NONAV" />
       <item value="however common state (ClassLoader, other Resources for the * same configuration) may be so the Context itself can be fairly lightweight." />
       <item value="may be so the Context itself can be fairly lightweight." />
       <item value="shared" />
@@ -45,17 +51,11 @@
       <item value="IS FROM MINE THEME LIST" />
       <item value="trial skin" />
       <item value="Attempt to recreate a file for type" />
-      <item value="obsolete" />
-      <item value="GIT REV" />
-      <item value="DOWNLOAD INTERRUPT" />
-      <item value="PROGRESS" />
-      <item value="SUCCESS" />
-      <item value="OPTION INVALID" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1206" />
-        <entry key="ENGLISH" value="1207" />
+        <entry key="CHINESE" value="1211" />
+        <entry key="ENGLISH" value="1212" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
@@ -69,6 +69,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="1" />
+        <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="3" />
         <entry key="VIETNAMESE" value="3" />
       </map>
