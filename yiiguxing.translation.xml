@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Return the current display metrics that are in effect for this resource * object. The returned object should be treated as read-only." />
+      <item value="treated" />
       <item value="get Canonical Name" />
       <item value="check Hotfix Update Async" />
       <item value="STEP START" />
@@ -49,13 +51,11 @@
       <item value="STORAGE NOT ENOUGH" />
       <item value="GET TOKEN FAILED" />
       <item value="UPDATE INVALID" />
-      <item value="DOWNLOAD FAILED" />
-      <item value="DOWNLOAD FILE ERROR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1199" />
-        <entry key="ENGLISH" value="1200" />
+        <entry key="CHINESE" value="1201" />
+        <entry key="ENGLISH" value="1202" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
