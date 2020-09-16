@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Block Network Image" />
       <item value="raw pixels." />
       <item value="ratio" />
       <item value="ration" />
@@ -50,12 +51,11 @@
       <item value="get Shared Preferences" />
       <item value="Sold Out Dialog" />
       <item value="is Theme Can Trial" />
-      <item value="show Trail Dialog" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1217" />
-        <entry key="ENGLISH" value="1218" />
+        <entry key="CHINESE" value="1218" />
+        <entry key="ENGLISH" value="1219" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
