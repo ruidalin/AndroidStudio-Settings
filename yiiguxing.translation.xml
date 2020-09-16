@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Load With Overview Mode" />
+      <item value="set Built In Zoom Controls" />
+      <item value="NORMAL" />
+      <item value="NARROW COLUMNS" />
+      <item value="TEXT AUTOSIZING" />
+      <item value="SINGLE COLUMN" />
+      <item value="set Use Wide View Port" />
       <item value="crosswalk" />
       <item value="set Block Network Image" />
       <item value="raw pixels." />
@@ -44,19 +51,13 @@
       <item value="puter" />
       <item value="is maintained privately by the * class {@code String}. * &lt;p&gt;" />
       <item value="A pool of strings, initially empty" />
-      <item value="Returns a canonical representation for the string object." />
-      <item value="directly" />
-      <item value="* &lt;p&gt;Note that you &lt;em&gt;must not&lt;/em&gt; modify the collection returned * by this method, or alter any of its contents. The consistency of your * stored data is not guaranteed if you do." />
-      <item value="put Immediately" />
-      <item value="This compatibility class is no longer required. Use {@link SharedPreferences} * directly." />
-      <item value="get Shared Preferences" />
-      <item value="Sold Out Dialog" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1219" />
-        <entry key="ENGLISH" value="1220" />
+        <entry key="CHINESE" value="1227" />
+        <entry key="ENGLISH" value="1228" />
         <entry key="ARABIC" value="1" />
+        <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
