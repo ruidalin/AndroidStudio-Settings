@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Spatial" />
+      <item value="set Support Spatial Navigation" />
+      <item value="set Allow File Access From File UR Ls" />
+      <item value="set Block Network Loads" />
       <item value="set Load With Overview Mode" />
       <item value="set Built In Zoom Controls" />
       <item value="NORMAL" />
@@ -47,15 +51,11 @@
       <item value="required" />
       <item value="compatibility" />
       <item value="Returns a new instance of the {@link Editor} interface" />
-      <item value="putor" />
-      <item value="puter" />
-      <item value="is maintained privately by the * class {@code String}. * &lt;p&gt;" />
-      <item value="A pool of strings, initially empty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1227" />
-        <entry key="ENGLISH" value="1228" />
+        <entry key="CHINESE" value="1232" />
+        <entry key="ENGLISH" value="1233" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
