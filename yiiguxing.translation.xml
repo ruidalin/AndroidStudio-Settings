@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ratio" />
+      <item value="ration" />
       <item value="opaque" />
       <item value="Motion Telltales" />
       <item value="get Ratio Resources" />
@@ -49,13 +51,11 @@
       <item value="is Theme Can Trial" />
       <item value="show Trail Dialog" />
       <item value="TRIALUSEING" />
-      <item value="NOT BUY" />
-      <item value="get The Skin Free" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1214" />
-        <entry key="ENGLISH" value="1215" />
+        <entry key="CHINESE" value="1216" />
+        <entry key="ENGLISH" value="1217" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
