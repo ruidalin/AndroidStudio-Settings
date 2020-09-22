@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="m Image Settings" />
       <item value="get Vehicle Type" />
       <item value="Spatial" />
       <item value="set Support Spatial Navigation" />
@@ -50,12 +51,11 @@
       <item value="instantiated" />
       <item value="get Primitive Class" />
       <item value="required" />
-      <item value="compatibility" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1233" />
-        <entry key="ENGLISH" value="1234" />
+        <entry key="CHINESE" value="1234" />
+        <entry key="ENGLISH" value="1235" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
