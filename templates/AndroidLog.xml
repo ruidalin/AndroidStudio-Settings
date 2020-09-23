@@ -35,14 +35,14 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="logmtag" value="public final String mTAG = $Class$.class.getSimpleName() + &quot;@&quot; + this.hashCode();" description="public final String mTAG" toReformat="false" toShortenFQNames="false">
+  <template name="logmtag" value="private final String mTAG = $Class$.class.getSimpleName() + &quot;@&quot; + this.hashCode();" description="public final String mTAG" toReformat="false" toShortenFQNames="false">
     <variable name="Class" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GROOVY_DECLARATION" value="true" />
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="logtag" value="public static final String TAG = $Class$.class.getSimpleName() + &quot;@TAG&quot;;" description="public static final String TAG" toReformat="false" toShortenFQNames="false">
+  <template name="logtag" value="private static final String TAG = $Class$.class.getSimpleName() + &quot;@TAG&quot;;" description="public static final String TAG" toReformat="false" toShortenFQNames="false">
     <variable name="Class" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GROOVY_DECLARATION" value="true" />
