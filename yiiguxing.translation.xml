@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eat-comment" />
+      <item value="transition" />
+      <item value="fraction" />
+      <item value="plurals" />
       <item value="get Reason Phrase" />
       <item value="NEVER" />
       <item value="set Display Zoom Controls" />
@@ -47,20 +51,16 @@
       <item value="STEP START" />
       <item value="STEP LAYOUT" />
       <item value="STEP ANIMATIONS" />
-      <item value="set Has Fixed Size" />
-      <item value="* This position may not be equal to Item's adapter position if there are pending changes * in the adapter which have not been reflected to the layout yet." />
-      <item value="* Return the adapter position of the given child view as of the latest completed layout pass." />
-      <item value="* Return the adapter position that the given child view corresponds to." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1241" />
-        <entry key="ENGLISH" value="1242" />
+        <entry key="CHINESE" value="1244" />
+        <entry key="ENGLISH" value="1245" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="DUTCH" value="1" />
-        <entry key="CATALAN" value="1" />
+        <entry key="CATALAN" value="2" />
         <entry key="CZECH" value="1" />
         <entry key="KANNADA" value="1" />
         <entry key="CROATIAN" value="1" />
