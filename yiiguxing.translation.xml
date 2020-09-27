@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cross Axis Space" />
+      <item value="cross" />
+      <item value="cross axis" />
+      <item value="main axis" />
+      <item value="This attribute controls the alignment along the main axis." />
+      <item value="* This attribute controls the alignment along the cross axis." />
+      <item value="/** This attribute controls the alignment of the flex lines in the flex container." />
+      <item value="Justify Content" />
       <item value="EXACTLY" />
       <item value="UNSPECIFIED" />
       <item value="AT MOST" />
@@ -43,19 +51,11 @@
       <item value="NONAV" />
       <item value="NAVIGATION NONAV" />
       <item value="however common state (ClassLoader, other Resources for the * same configuration) may be so the Context itself can be fairly lightweight." />
-      <item value="may be so the Context itself can be fairly lightweight." />
-      <item value="shared" />
-      <item value="* shared, however common state (ClassLoader, other Resources for the" />
-      <item value="Resources should not be constructed by apps." />
-      <item value="/** * Return the current display metrics that are in effect for this resource * object. The returned object should be treated as read-only." />
-      <item value="treated" />
-      <item value="get Canonical Name" />
-      <item value="check Hotfix Update Async" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1248" />
-        <entry key="ENGLISH" value="1249" />
+        <entry key="CHINESE" value="1256" />
+        <entry key="ENGLISH" value="1257" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
