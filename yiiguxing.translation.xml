@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EXACTLY" />
+      <item value="UNSPECIFIED" />
+      <item value="AT MOST" />
       <item value="eat-comment" />
       <item value="transition" />
       <item value="fraction" />
@@ -48,14 +51,11 @@
       <item value="treated" />
       <item value="get Canonical Name" />
       <item value="check Hotfix Update Async" />
-      <item value="STEP START" />
-      <item value="STEP LAYOUT" />
-      <item value="STEP ANIMATIONS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1244" />
-        <entry key="ENGLISH" value="1245" />
+        <entry key="CHINESE" value="1248" />
+        <entry key="ENGLISH" value="1249" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
