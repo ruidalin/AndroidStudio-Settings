@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="main Axis Margin Space" />
+      <item value="main Axis Gap Space" />
+      <item value="main Axis Space" />
       <item value="cross Axis Space" />
       <item value="cross" />
       <item value="cross axis" />
@@ -48,14 +51,11 @@
       <item value="APPLIANCE" />
       <item value="TELEVISION" />
       <item value="NAVIGATIONHIDDEN YES" />
-      <item value="NONAV" />
-      <item value="NAVIGATION NONAV" />
-      <item value="however common state (ClassLoader, other Resources for the * same configuration) may be so the Context itself can be fairly lightweight." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1256" />
-        <entry key="ENGLISH" value="1257" />
+        <entry key="CHINESE" value="1259" />
+        <entry key="ENGLISH" value="1260" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
