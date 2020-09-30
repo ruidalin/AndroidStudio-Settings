@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="match" />
+      <item value="match Action" />
       <item value="show On First Times" />
       <item value="main Axis Margin Space" />
       <item value="main Axis Gap Space" />
@@ -49,13 +51,11 @@
       <item value="Motion Telltales" />
       <item value="get Ratio Resources" />
       <item value="UNDEFINED" />
-      <item value="APPLIANCE" />
-      <item value="TELEVISION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1260" />
-        <entry key="ENGLISH" value="1261" />
+        <entry key="CHINESE" value="1262" />
+        <entry key="ENGLISH" value="1263" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
