@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CORNER" />
+      <item value="validate Protocol Result" />
       <item value="match" />
       <item value="match Action" />
       <item value="show On First Times" />
@@ -49,13 +51,11 @@
       <item value="ration" />
       <item value="opaque" />
       <item value="Motion Telltales" />
-      <item value="get Ratio Resources" />
-      <item value="UNDEFINED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1262" />
-        <entry key="ENGLISH" value="1263" />
+        <entry key="CHINESE" value="1264" />
+        <entry key="ENGLISH" value="1265" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
