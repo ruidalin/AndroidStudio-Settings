@@ -3,6 +3,7 @@
     <option name="SHOW_EXTERNAL_ANNOTATIONS_INLINE" value="false" />
     <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
@@ -12,7 +13,15 @@
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
+        <entry key="Groovy" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="JAVA" value="false" />
+        <entry key="JSON" value="true" />
+        <entry key="ObjectiveC" value="true" />
+        <entry key="XHTML" value="true" />
         <entry key="XML" value="true" />
+        <entry key="kotlin" value="false" />
+        <entry key="yaml" value="true" />
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="" />
