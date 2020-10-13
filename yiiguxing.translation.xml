@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="policy Version" />
       <item value="SP KEY POLICY VERSION" />
       <item value="issued Time" />
       <item value="unparcel" />
@@ -50,12 +51,11 @@
       <item value="set Use Wide View Port" />
       <item value="crosswalk" />
       <item value="set Block Network Image" />
-      <item value="raw pixels." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1267" />
-        <entry key="ENGLISH" value="1268" />
+        <entry key="CHINESE" value="1268" />
+        <entry key="ENGLISH" value="1269" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
