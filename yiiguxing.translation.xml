@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="has leaked" />
+      <item value="that was originally bound here" />
+      <item value="bound" />
+      <item value="originally" />
       <item value="non-asset" />
       <item value="set Lenient" />
       <item value="policy Version" />
@@ -47,15 +51,11 @@
       <item value="set Load With Overview Mode" />
       <item value="set Built In Zoom Controls" />
       <item value="NORMAL" />
-      <item value="NARROW COLUMNS" />
-      <item value="TEXT AUTOSIZING" />
-      <item value="SINGLE COLUMN" />
-      <item value="set Use Wide View Port" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1270" />
-        <entry key="ENGLISH" value="1270" />
+        <entry key="CHINESE" value="1273" />
+        <entry key="ENGLISH" value="1274" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
