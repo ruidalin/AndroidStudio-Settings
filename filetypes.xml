@@ -7,6 +7,7 @@
       <mapping pattern="X5Cookies" type="PLAIN_TEXT" />
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
       <mapping pattern="CleanData" type="PLAIN_TEXT" />
+      <mapping pattern="TD_AES_IV_LOCK" type="PLAIN_TEXT" />
       <mapping pattern="granted" type="PLAIN_TEXT" />
       <mapping ext="http" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
