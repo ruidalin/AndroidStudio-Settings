@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Vehicle Manufacturer" />
       <item value="update Privacy Policy Status" />
       <item value="has leaked" />
       <item value="that was originally bound here" />
@@ -50,12 +51,11 @@
       <item value="set Allow File Access From File UR Ls" />
       <item value="set Block Network Loads" />
       <item value="set Load With Overview Mode" />
-      <item value="set Built In Zoom Controls" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1274" />
-        <entry key="ENGLISH" value="1275" />
+        <entry key="CHINESE" value="1275" />
+        <entry key="ENGLISH" value="1276" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
