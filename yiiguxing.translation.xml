@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sync" />
       <item value="container" />
       <item value="containe" />
       <item value="container View Id" />
@@ -50,12 +51,11 @@
       <item value="main axis" />
       <item value="This attribute controls the alignment along the main axis." />
       <item value="* This attribute controls the alignment along the cross axis." />
-      <item value="/** This attribute controls the alignment of the flex lines in the flex container." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1297" />
-        <entry key="ENGLISH" value="1298" />
+        <entry key="CHINESE" value="1298" />
+        <entry key="ENGLISH" value="1299" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
