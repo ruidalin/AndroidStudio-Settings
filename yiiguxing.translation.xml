@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="an estimate of the number of bytes that can be read (or skipped * over) from this input stream without blocking." />
+      <item value="length" />
       <item value="User Protocol" />
       <item value="Privacy Policy Protocol" />
       <item value="assistant reply" />
@@ -49,13 +51,11 @@
       <item value="get Reason Phrase" />
       <item value="NEVER" />
       <item value="set Display Zoom Controls" />
-      <item value="get Generic Type" />
-      <item value="vertical" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1284" />
-        <entry key="ENGLISH" value="1285" />
+        <entry key="CHINESE" value="1286" />
+        <entry key="ENGLISH" value="1287" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
