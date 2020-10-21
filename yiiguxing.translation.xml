@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="can Back" />
+      <item value="can Goback" />
+      <item value="validate Protocol Result" />
+      <item value="AGREE PROTOCOL KEY" />
+      <item value="AGREEMENT" />
       <item value="an estimate of the number of bytes that can be read (or skipped * over) from this input stream without blocking." />
       <item value="length" />
       <item value="User Protocol" />
@@ -26,7 +31,6 @@
       <item value="unparcel" />
       <item value="NO MARGIN TOP" />
       <item value="CORNER" />
-      <item value="validate Protocol Result" />
       <item value="match" />
       <item value="match Action" />
       <item value="show On First Times" />
@@ -47,15 +51,11 @@
       <item value="eat-comment" />
       <item value="transition" />
       <item value="fraction" />
-      <item value="plurals" />
-      <item value="get Reason Phrase" />
-      <item value="NEVER" />
-      <item value="set Display Zoom Controls" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1286" />
-        <entry key="ENGLISH" value="1287" />
+        <entry key="CHINESE" value="1291" />
+        <entry key="ENGLISH" value="1292" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
