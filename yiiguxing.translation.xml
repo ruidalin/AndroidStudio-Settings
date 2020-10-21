@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Agree Protocol" />
+      <item value="has Agree Protocol" />
+      <item value="validate" />
+      <item value="validate Protocol Result" />
       <item value="An optional name for this back stack state, or null." />
       <item value="sync" />
       <item value="container" />
@@ -12,7 +16,6 @@
       <item value="On Step Listener" />
       <item value="can Back" />
       <item value="can Goback" />
-      <item value="validate Protocol Result" />
       <item value="AGREE PROTOCOL KEY" />
       <item value="AGREEMENT" />
       <item value="an estimate of the number of bytes that can be read (or skipped * over) from this input stream without blocking." />
@@ -48,14 +51,11 @@
       <item value="main Axis Space" />
       <item value="cross Axis Space" />
       <item value="cross" />
-      <item value="cross axis" />
-      <item value="main axis" />
-      <item value="This attribute controls the alignment along the main axis." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1299" />
-        <entry key="ENGLISH" value="1300" />
+        <entry key="CHINESE" value="1303" />
+        <entry key="ENGLISH" value="1304" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
