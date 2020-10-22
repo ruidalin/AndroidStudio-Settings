@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="info make" />
+      <item value="manufacturer" />
+      <item value="notify" />
+      <item value="on Token Change" />
+      <item value="configuration" />
       <item value="read Protocol Content" />
       <item value="is Agree Protocol" />
       <item value="has Agree Protocol" />
@@ -46,16 +51,11 @@
       <item value="CORNER" />
       <item value="match" />
       <item value="match Action" />
-      <item value="show On First Times" />
-      <item value="main Axis Margin Space" />
-      <item value="main Axis Gap Space" />
-      <item value="main Axis Space" />
-      <item value="cross Axis Space" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1304" />
-        <entry key="ENGLISH" value="1305" />
+        <entry key="CHINESE" value="1311" />
+        <entry key="ENGLISH" value="1312" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
