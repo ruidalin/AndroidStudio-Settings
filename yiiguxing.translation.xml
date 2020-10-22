@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="read Protocol Content" />
       <item value="is Agree Protocol" />
       <item value="has Agree Protocol" />
       <item value="validate" />
@@ -50,12 +51,11 @@
       <item value="main Axis Gap Space" />
       <item value="main Axis Space" />
       <item value="cross Axis Space" />
-      <item value="cross" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1303" />
-        <entry key="ENGLISH" value="1304" />
+        <entry key="CHINESE" value="1304" />
+        <entry key="ENGLISH" value="1305" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
