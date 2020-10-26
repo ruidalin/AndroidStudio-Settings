@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PRESENT" />
       <item value="TD Log" />
       <item value="Conent" />
       <item value="Content Name" />
@@ -50,12 +51,11 @@
       <item value="originally" />
       <item value="non-asset" />
       <item value="set Lenient" />
-      <item value="policy Version" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1398" />
-        <entry key="ENGLISH" value="1399" />
+        <entry key="CHINESE" value="1399" />
+        <entry key="ENGLISH" value="1400" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
