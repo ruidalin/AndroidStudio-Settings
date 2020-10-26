@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LINE CATEGORY" />
+      <item value="BRAND CATEGORY" />
       <item value="SCENIC" />
       <item value="Content Name" />
       <item value="PRESENT" />
@@ -49,13 +51,11 @@
       <item value="has leaked" />
       <item value="that was originally bound here" />
       <item value="bound" />
-      <item value="originally" />
-      <item value="non-asset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1401" />
-        <entry key="ENGLISH" value="1402" />
+        <entry key="CHINESE" value="1403" />
+        <entry key="ENGLISH" value="1404" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
