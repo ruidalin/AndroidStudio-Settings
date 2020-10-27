@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cost Time" />
+      <item value="expenses" />
+      <item value="mileages" />
+      <item value="get Expenses" />
+      <item value="Budget" />
+      <item value="Budget Adapter" />
+      <item value="get Journey Price" />
       <item value="* LinkedList, which pretends to be a map and supports modifications during iterations. * It is NOT thread safe." />
       <item value="iterator With Additions" />
       <item value="DEALER EVENT" />
@@ -44,18 +51,11 @@
       <item value="an estimate of the number of bytes that can be read (or skipped * over) from this input stream without blocking." />
       <item value="length" />
       <item value="User Protocol" />
-      <item value="Privacy Policy Protocol" />
-      <item value="assistant reply" />
-      <item value="cursor" />
-      <item value="Buffer the entire body." />
-      <item value="stamp" />
-      <item value="get Key Timestamp" />
-      <item value="TIME STAMP" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1409" />
-        <entry key="ENGLISH" value="1410" />
+        <entry key="CHINESE" value="1416" />
+        <entry key="ENGLISH" value="1417" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
