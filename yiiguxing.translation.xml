@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Returns the character sequence necessary for grammatically correct pluralization * of the given resource ID for the given quantity. * Note that the character sequence is selected based solely on grammatical necessity, * and that such rules differ between languages. Do not assume you know which string * will be returned for a given quantity. See * &lt;a href=&quot;{@docRoot}guide/topics/resources/string-resource.html#Plurals&quot;&gt;String Resources&lt;/a&gt; * for more detail." />
+      <item value="get Quantity String" />
+      <item value="above" />
+      <item value="get Locales" />
       <item value="This can only be used in conjunction with {@link #FLAG_ACTIVITY_NEW_TASK}." />
       <item value="Platet" />
       <item value="Plate" />
@@ -47,15 +51,11 @@
       <item value="Fragment Manager" />
       <item value="frag Manager" />
       <item value="step" />
-      <item value="On Step Listener" />
-      <item value="can Back" />
-      <item value="can Goback" />
-      <item value="AGREE PROTOCOL KEY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1418" />
-        <entry key="ENGLISH" value="1419" />
+        <entry key="CHINESE" value="1422" />
+        <entry key="ENGLISH" value="1423" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
