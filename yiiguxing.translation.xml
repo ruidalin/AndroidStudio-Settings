@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="agree" />
+      <item value="PRIVACY POLICY" />
+      <item value="PRIVACY" />
+      <item value="SP KEY AGREE PRIVACY" />
+      <item value="SP KEY AGREEMENT VERSION" />
+      <item value="SP KEY POLICY VERSION" />
       <item value="* Since Locales are often used in hashtables, caches the value * for speed." />
       <item value="TRADITIONAL CHINESE" />
       <item value="* Returns the character sequence necessary for grammatically correct pluralization * of the given resource ID for the given quantity. * Note that the character sequence is selected based solely on grammatical necessity, * and that such rules differ between languages. Do not assume you know which string * will be returned for a given quantity. See * &lt;a href=&quot;{@docRoot}guide/topics/resources/string-resource.html#Plurals&quot;&gt;String Resources&lt;/a&gt; * for more detail." />
@@ -45,17 +51,11 @@
       <item value="has Agree Protocol" />
       <item value="validate" />
       <item value="validate Protocol Result" />
-      <item value="An optional name for this back stack state, or null." />
-      <item value="sync" />
-      <item value="container" />
-      <item value="containe" />
-      <item value="container View Id" />
-      <item value="Fragment Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1424" />
-        <entry key="ENGLISH" value="1425" />
+        <entry key="CHINESE" value="1430" />
+        <entry key="ENGLISH" value="1431" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
