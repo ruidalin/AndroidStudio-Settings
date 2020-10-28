@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="read Protocol Locale" />
+      <item value="read Protocol Local" />
+      <item value="read Protocol Locol" />
       <item value="check" />
       <item value="check对比" />
       <item value="对比" />
@@ -48,14 +51,11 @@
       <item value="get Content Resolver" />
       <item value="info make" />
       <item value="manufacturer" />
-      <item value="notify" />
-      <item value="on Token Change" />
-      <item value="configuration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1432" />
-        <entry key="ENGLISH" value="1432" />
+        <entry key="CHINESE" value="1435" />
+        <entry key="ENGLISH" value="1436" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
