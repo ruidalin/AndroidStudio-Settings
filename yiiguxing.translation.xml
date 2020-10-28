@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RND DUMMY" />
       <item value="Constant" />
       <item value="Constants" />
       <item value="annot" />
@@ -50,12 +51,11 @@
       <item value="BRAND EVENT" />
       <item value="Journey" />
       <item value="Journey Fragment" />
-      <item value="LINE CATEGORY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1449" />
-        <entry key="ENGLISH" value="1450" />
+        <entry key="CHINESE" value="1450" />
+        <entry key="ENGLISH" value="1451" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
