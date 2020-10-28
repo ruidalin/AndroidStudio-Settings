@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check" />
+      <item value="check对比" />
+      <item value="对比" />
+      <item value="比较对比" />
+      <item value="比较" />
       <item value="agree" />
       <item value="PRIVACY POLICY" />
       <item value="PRIVACY" />
@@ -46,16 +51,11 @@
       <item value="notify" />
       <item value="on Token Change" />
       <item value="configuration" />
-      <item value="read Protocol Content" />
-      <item value="is Agree Protocol" />
-      <item value="has Agree Protocol" />
-      <item value="validate" />
-      <item value="validate Protocol Result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1430" />
-        <entry key="ENGLISH" value="1431" />
+        <entry key="CHINESE" value="1432" />
+        <entry key="ENGLISH" value="1432" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
