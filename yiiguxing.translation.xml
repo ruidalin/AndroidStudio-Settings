@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Partner" />
+      <item value="mPartnerId" />
       <item value="get Token Entity" />
       <item value="RND DUMMY" />
       <item value="Constant" />
@@ -49,12 +51,10 @@
       <item value="* LinkedList, which pretends to be a map and supports modifications during iterations. * It is NOT thread safe." />
       <item value="iterator With Additions" />
       <item value="DEALER EVENT" />
-      <item value="BRAND EVENT" />
-      <item value="Journey" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1451" />
+        <entry key="CHINESE" value="1452" />
         <entry key="ENGLISH" value="1452" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
