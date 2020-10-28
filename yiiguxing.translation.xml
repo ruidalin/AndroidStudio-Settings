@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Constant" />
+      <item value="Constants" />
+      <item value="annot" />
+      <item value="anno" />
+      <item value="注解" />
+      <item value="注释" />
       <item value="SP KEY ACCEPT" />
       <item value="Accept" />
       <item value="is Accept" />
@@ -45,17 +51,11 @@
       <item value="Journey" />
       <item value="Journey Fragment" />
       <item value="LINE CATEGORY" />
-      <item value="BRAND CATEGORY" />
-      <item value="SCENIC" />
-      <item value="Content Name" />
-      <item value="PRESENT" />
-      <item value="TD Log" />
-      <item value="Conent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1442" />
-        <entry key="ENGLISH" value="1443" />
+        <entry key="CHINESE" value="1449" />
+        <entry key="ENGLISH" value="1450" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
@@ -70,6 +70,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
+        <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="3" />
         <entry key="VIETNAMESE" value="3" />
@@ -81,6 +82,7 @@
     <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
+    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6e2757bde9036761" />
