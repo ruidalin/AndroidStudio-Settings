@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resolver" />
       <item value="proceed" />
       <item value="Partner" />
       <item value="mPartnerId" />
@@ -50,11 +51,10 @@
       <item value="Budget Adapter" />
       <item value="get Journey Price" />
       <item value="* LinkedList, which pretends to be a map and supports modifications during iterations. * It is NOT thread safe." />
-      <item value="iterator With Additions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1452" />
+        <entry key="CHINESE" value="1453" />
         <entry key="ENGLISH" value="1453" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -69,7 +69,7 @@
         <entry key="BENGALI" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
-        <entry key="SPANISH" value="2" />
+        <entry key="SPANISH" value="3" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="3" />
