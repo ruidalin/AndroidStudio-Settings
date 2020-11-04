@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BRAND" />
+      <item value="BOARD" />
       <item value="Wrapper" />
       <item value="Interface" />
       <item value="Holder" />
@@ -49,13 +51,11 @@
       <item value="Plate Num" />
       <item value="cost Time" />
       <item value="expenses" />
-      <item value="mileages" />
-      <item value="get Expenses" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1456" />
-        <entry key="ENGLISH" value="1457" />
+        <entry key="CHINESE" value="1459" />
+        <entry key="ENGLISH" value="1460" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
