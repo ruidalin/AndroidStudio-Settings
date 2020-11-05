@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Decline" />
       <item value="设备类别" />
       <item value="device Type" />
       <item value="BRAND" />
@@ -50,12 +51,11 @@
       <item value="This can only be used in conjunction with {@link #FLAG_ACTIVITY_NEW_TASK}." />
       <item value="Platet" />
       <item value="Plate" />
-      <item value="Plate Num" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1462" />
-        <entry key="ENGLISH" value="1462" />
+        <entry key="ENGLISH" value="1463" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
