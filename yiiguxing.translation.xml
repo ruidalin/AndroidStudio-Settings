@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=". This is wall clock time." />
       <item value="size Multiplier Of" />
       <item value="priority Of" />
       <item value="set Default Transition Options" />
@@ -50,12 +51,11 @@
       <item value="SP KEY POLICY VERSION" />
       <item value="* Since Locales are often used in hashtables, caches the value * for speed." />
       <item value="TRADITIONAL CHINESE" />
-      <item value="* Returns the character sequence necessary for grammatically correct pluralization * of the given resource ID for the given quantity. * Note that the character sequence is selected based solely on grammatical necessity, * and that such rules differ between languages. Do not assume you know which string * will be returned for a given quantity. See * &lt;a href=&quot;{@docRoot}guide/topics/resources/string-resource.html#Plurals&quot;&gt;String Resources&lt;/a&gt; * for more detail." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1468" />
-        <entry key="ENGLISH" value="1469" />
+        <entry key="CHINESE" value="1469" />
+        <entry key="ENGLISH" value="1470" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
