@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="加载失败，请点击重试" />
+      <item value="加载完成" />
       <item value="暂无参考价" />
       <item value="start Decouple Core If Needed" />
       <item value="Image View" />
@@ -49,13 +51,11 @@
       <item value="对比" />
       <item value="比较对比" />
       <item value="比较" />
-      <item value="agree" />
-      <item value="PRIVACY POLICY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1472" />
-        <entry key="ENGLISH" value="1472" />
+        <entry key="CHINESE" value="1474" />
+        <entry key="ENGLISH" value="1474" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
