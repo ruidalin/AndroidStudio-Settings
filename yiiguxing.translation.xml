@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Image View" />
+      <item value="HEAD" />
       <item value="BRVAH" />
       <item value="START ON FIRST FRAME" />
       <item value=". This is wall clock time." />
@@ -49,8 +51,6 @@
       <item value="PRIVACY POLICY" />
       <item value="PRIVACY" />
       <item value="SP KEY AGREE PRIVACY" />
-      <item value="SP KEY AGREEMENT VERSION" />
-      <item value="SP KEY POLICY VERSION" />
     </histories>
     <option name="languageScores">
       <map>
