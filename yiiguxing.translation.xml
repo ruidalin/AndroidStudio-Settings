@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DEXLOADER SERVICE" />
+      <item value="SPEEDY" />
+      <item value="TBS SETTINGS USE SPEEDY CLASSLOADER" />
       <item value="Web Chrome Client" />
       <item value="距离" />
       <item value="Summary Fragment" />
@@ -48,14 +51,11 @@
       <item value="is Acept" />
       <item value="accept" />
       <item value="Agree" />
-      <item value="read Protocol Locale" />
-      <item value="read Protocol Local" />
-      <item value="read Protocol Locol" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1477" />
-        <entry key="ENGLISH" value="1478" />
+        <entry key="CHINESE" value="1480" />
+        <entry key="ENGLISH" value="1481" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
