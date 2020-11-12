@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Summary Fragment" />
+      <item value="Budget" />
       <item value="An ImageView that draws the bitmap with the provided Shape." />
       <item value="加载失败，请点击重试" />
       <item value="加载完成" />
@@ -49,13 +51,11 @@
       <item value="read Protocol Locol" />
       <item value="check" />
       <item value="check对比" />
-      <item value="对比" />
-      <item value="比较对比" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1474" />
-        <entry key="ENGLISH" value="1475" />
+        <entry key="CHINESE" value="1476" />
+        <entry key="ENGLISH" value="1477" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
