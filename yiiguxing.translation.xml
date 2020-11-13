@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="init Lazy" />
       <item value="参加" />
       <item value="参与" />
       <item value="参与人数已满" />
@@ -50,12 +51,11 @@
       <item value="anno" />
       <item value="注解" />
       <item value="注释" />
-      <item value="SP KEY ACCEPT" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1485" />
-        <entry key="ENGLISH" value="1485" />
+        <entry key="ENGLISH" value="1486" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
