@@ -1,7 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Used to indicate a transient loss of audio focus where the loser of the audio focus can * lower its output volume if it wants to continue playing (also referred to as &quot;ducking&quot;), as * the new focus owner doesn't require others to be silent." />
+      <item value="EXCLUSIVE" />
+      <item value="Used to indicate a temporary request of audio focus, anticipated to last a short * amount of time, during which no other applications, or system components, should play * anything." />
       <item value="AUDIOFOCUS GAIN TRANSIENT EXCLUSIVE" />
+      <item value="* Used to indicate a temporary request of audio focus, anticipated to last a short * amount of time, and where it is acceptable for other audio applications to keep playing * after having lowered their output level (also referred to as &quot;ducking&quot;)." />
+      <item value="MAY DUCK" />
+      <item value="TRANSIENT" />
+      <item value="Used to indicate no audio focus has been gained or lost, or requested." />
+      <item value="m Audio Focus Gain" />
       <item value="init Lazy" />
       <item value="参加" />
       <item value="参与" />
@@ -43,19 +51,11 @@
       <item value="resolver" />
       <item value="proceed" />
       <item value="Partner" />
-      <item value="mPartnerId" />
-      <item value="get Token Entity" />
-      <item value="RND DUMMY" />
-      <item value="Constant" />
-      <item value="Constants" />
-      <item value="annot" />
-      <item value="anno" />
-      <item value="注解" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1486" />
-        <entry key="ENGLISH" value="1487" />
+        <entry key="CHINESE" value="1495" />
+        <entry key="ENGLISH" value="1496" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
