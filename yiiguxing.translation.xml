@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="GRANTED" />
       <item value="force To Load X 5 For Third App" />
       <item value="init Forinit And Not Load So" />
       <item value="load TBSSDK Extension" />
@@ -50,12 +51,11 @@
       <item value="Wrapper" />
       <item value="Interface" />
       <item value="Holder" />
-      <item value="stay time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1498" />
-        <entry key="ENGLISH" value="1499" />
+        <entry key="CHINESE" value="1499" />
+        <entry key="ENGLISH" value="1500" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
