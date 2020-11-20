@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="disabled" />
+      <item value="core disabled" />
       <item value="Decouple" />
       <item value="Defined" />
       <item value="set Host Core Path App Defined" />
@@ -49,13 +51,11 @@
       <item value="on Vehicle Manufacturer Received" />
       <item value="on Drive Select Configuration Received" />
       <item value="on Ambient Light Received" />
-      <item value="Decline" />
-      <item value="设备类别" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1507" />
-        <entry key="ENGLISH" value="1508" />
+        <entry key="CHINESE" value="1509" />
+        <entry key="ENGLISH" value="1510" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
