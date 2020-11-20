@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
     <option name="HOTSWAP_IN_BACKGROUND" value="false" />
     <option name="COMPILE_BEFORE_HOTSWAP" value="false" />
     <option name="WATCH_RETURN_VALUES" value="true" />
