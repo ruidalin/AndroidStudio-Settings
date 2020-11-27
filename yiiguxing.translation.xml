@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="filter" />
       <item value="mileage_" />
       <item value="Privacy Service Impl" />
       <item value="Disclaimer" />
@@ -50,12 +51,11 @@
       <item value="HEAD" />
       <item value="BRVAH" />
       <item value="START ON FIRST FRAME" />
-      <item value=". This is wall clock time." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1514" />
-        <entry key="ENGLISH" value="1515" />
+        <entry key="CHINESE" value="1515" />
+        <entry key="ENGLISH" value="1516" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
