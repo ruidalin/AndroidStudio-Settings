@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="plate" />
       <item value="RECEIVER" />
       <item value="reply" />
       <item value="filter" />
@@ -50,12 +51,11 @@
       <item value="加载完成" />
       <item value="暂无参考价" />
       <item value="Image View" />
-      <item value="HEAD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1517" />
-        <entry key="ENGLISH" value="1518" />
+        <entry key="CHINESE" value="1518" />
+        <entry key="ENGLISH" value="1519" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
