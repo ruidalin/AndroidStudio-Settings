@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="head Portrait" />
       <item value="Letter Bar View" />
       <item value="rela" />
       <item value="rela App Prop" />
@@ -50,12 +51,11 @@
       <item value="Summary Fragment" />
       <item value="Budget" />
       <item value="An ImageView that draws the bitmap with the provided Shape." />
-      <item value="加载失败，请点击重试" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1520" />
-        <entry key="ENGLISH" value="1520" />
+        <entry key="CHINESE" value="1521" />
+        <entry key="ENGLISH" value="1522" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
