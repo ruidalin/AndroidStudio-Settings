@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expenses" />
       <item value="include" />
       <item value="keystore" />
       <item value="launcher" />
@@ -50,12 +51,11 @@
       <item value="roadbook removed" />
       <item value="post At Front Of Queue" />
       <item value="DEXLOADER SERVICE" />
-      <item value="SPEEDY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1527" />
-        <entry key="ENGLISH" value="1528" />
+        <entry key="CHINESE" value="1528" />
+        <entry key="ENGLISH" value="1529" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
