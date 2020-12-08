@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Disclaimer" />
+      <item value="Disclaimer Activity" />
       <item value="expenses" />
       <item value="include" />
       <item value="keystore" />
@@ -18,8 +20,6 @@
       <item value="filter" />
       <item value="mileage_" />
       <item value="Privacy Service Impl" />
-      <item value="Disclaimer" />
-      <item value="Disclaimer Activity" />
       <item value="add Charge Listener" />
       <item value="m Web View Client" />
       <item value="disabled" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1528" />
-        <entry key="ENGLISH" value="1529" />
+        <entry key="CHINESE" value="1530" />
+        <entry key="ENGLISH" value="1531" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
