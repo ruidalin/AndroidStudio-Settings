@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resolve Package Name" />
       <item value="Invocation" />
       <item value="on Invocation Url Received" />
       <item value="request Invocation Url" />
@@ -50,12 +51,11 @@
       <item value="init Lazy" />
       <item value="参加" />
       <item value="参与" />
-      <item value="参与人数已满" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1533" />
-        <entry key="ENGLISH" value="1534" />
+        <entry key="CHINESE" value="1534" />
+        <entry key="ENGLISH" value="1535" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
