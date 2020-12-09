@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="request Invocation Url" />
       <item value="Disclaimer" />
       <item value="Disclaimer Activity" />
       <item value="expenses" />
@@ -50,12 +51,11 @@
       <item value="参与人数已满" />
       <item value="roadbook removed" />
       <item value="post At Front Of Queue" />
-      <item value="DEXLOADER SERVICE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1530" />
-        <entry key="ENGLISH" value="1531" />
+        <entry key="CHINESE" value="1531" />
+        <entry key="ENGLISH" value="1532" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
