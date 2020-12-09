@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invocation" />
+      <item value="on Invocation Url Received" />
       <item value="request Invocation Url" />
       <item value="Disclaimer" />
       <item value="Disclaimer Activity" />
@@ -49,13 +51,11 @@
       <item value="参加" />
       <item value="参与" />
       <item value="参与人数已满" />
-      <item value="roadbook removed" />
-      <item value="post At Front Of Queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1531" />
-        <entry key="ENGLISH" value="1532" />
+        <entry key="CHINESE" value="1533" />
+        <entry key="ENGLISH" value="1534" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="6" />
