@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="binder Died" />
+      <item value="link To Death" />
       <item value="latitude" />
       <item value="longitude" />
       <item value="Lon" />
@@ -49,13 +51,11 @@
       <item value="force To Load X 5 For Third App" />
       <item value="init Forinit And Not Load So" />
       <item value="load TBSSDK Extension" />
-      <item value="Used to indicate a transient loss of audio focus where the loser of the audio focus can * lower its output volume if it wants to continue playing (also referred to as &quot;ducking&quot;), as * the new focus owner doesn't require others to be silent." />
-      <item value="EXCLUSIVE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1540" />
-        <entry key="ENGLISH" value="1541" />
+        <entry key="CHINESE" value="1542" />
+        <entry key="ENGLISH" value="1543" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
