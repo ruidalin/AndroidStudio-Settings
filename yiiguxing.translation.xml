@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="UX RESTRICTIONS BASELINE" />
+      <item value="UX RESTRICTIONS NO VOICE TRANSCRIPTION" />
+      <item value="UX RESTRICTIONS NO TEXT MESSAGE" />
+      <item value="UX RESTRICTIONS NO SETUP" />
+      <item value="UX RESTRICTIONS LIMIT CONTENT" />
+      <item value="UX RESTRICTIONS NO VIDEO" />
+      <item value="UX RESTRICTIONS NO KEYBOARD" />
+      <item value="UX RESTRICTIONS LIMIT STRING LENGTH" />
+      <item value="UX RESTRICTIONS NO FILTERING" />
+      <item value="UX RESTRICTIONS NO DIALPAD" />
       <item value="on Ride Route Searched" />
       <item value="on Bus Route Searched" />
       <item value="on Drive Route Searched" />
@@ -41,21 +52,11 @@
       <item value="Letter Bar View" />
       <item value="rela" />
       <item value="rela App Prop" />
-      <item value="plate" />
-      <item value="RECEIVER" />
-      <item value="reply" />
-      <item value="filter" />
-      <item value="mileage_" />
-      <item value="Privacy Service Impl" />
-      <item value="add Charge Listener" />
-      <item value="m Web View Client" />
-      <item value="disabled" />
-      <item value="core disabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1553" />
-        <entry key="ENGLISH" value="1554" />
+        <entry key="CHINESE" value="1564" />
+        <entry key="ENGLISH" value="1565" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
@@ -86,6 +87,7 @@
     <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
+    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6e2757bde9036761" />
