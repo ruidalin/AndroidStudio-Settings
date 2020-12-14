@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Data And Normalize" />
       <item value="UX RESTRICTIONS BASELINE" />
       <item value="UX RESTRICTIONS NO VOICE TRANSCRIPTION" />
       <item value="UX RESTRICTIONS NO TEXT MESSAGE" />
@@ -51,12 +52,11 @@
       <item value="head Portrait" />
       <item value="Letter Bar View" />
       <item value="rela" />
-      <item value="rela App Prop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1564" />
-        <entry key="ENGLISH" value="1565" />
+        <entry key="CHINESE" value="1565" />
+        <entry key="ENGLISH" value="1566" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
