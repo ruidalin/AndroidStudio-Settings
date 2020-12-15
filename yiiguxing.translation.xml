@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Optimization" />
       <item value="No dialpad for the purpose of initiating a phone call." />
       <item value="dialpad" />
       <item value="is Optimization Required" />
@@ -51,12 +52,11 @@
       <item value="If the service is being started or is already running" />
       <item value="导航" />
       <item value="导航信息异常" />
-      <item value="resolve Package Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1585" />
-        <entry key="ENGLISH" value="1586" />
+        <entry key="CHINESE" value="1586" />
+        <entry key="ENGLISH" value="1587" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
