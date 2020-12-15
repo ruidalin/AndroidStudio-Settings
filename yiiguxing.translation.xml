@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="imposed" />
+      <item value="Destination" />
+      <item value="cluster" />
       <item value="UX RESTRICTIONS BASELINE" />
       <item value="is Relative" />
       <item value="set Data And Normalize" />
@@ -49,14 +52,11 @@
       <item value="launcher" />
       <item value="applauncher" />
       <item value="pkg Mag" />
-      <item value="Nearby Poi" />
-      <item value="head Portrait" />
-      <item value="Letter Bar View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1567" />
-        <entry key="ENGLISH" value="1568" />
+        <entry key="CHINESE" value="1570" />
+        <entry key="ENGLISH" value="1571" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
