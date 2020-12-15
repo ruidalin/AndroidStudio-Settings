@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Safe Mode Changed" />
+      <item value="is Safe Mode On" />
       <item value="is Optimization" />
       <item value="No dialpad for the purpose of initiating a phone call." />
       <item value="dialpad" />
@@ -50,13 +52,11 @@
       <item value="else if the service does not exist null is returned." />
       <item value="actual" />
       <item value="If the service is being started or is already running" />
-      <item value="导航" />
-      <item value="导航信息异常" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1586" />
-        <entry key="ENGLISH" value="1587" />
+        <entry key="CHINESE" value="1588" />
+        <entry key="ENGLISH" value="1589" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
