@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="m Is Binded" />
+      <item value="bringing up" />
       <item value="gather Address Lon" />
       <item value="If the task was moved (or it was already at the back) true is returned, else false." />
       <item value="If false then this only works if the activity is the root of a task; if true it will work for any activity in a task." />
@@ -50,13 +52,11 @@
       <item value="latitude" />
       <item value="longitude" />
       <item value="Lon" />
-      <item value="lat" />
-      <item value="lat Lon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1591" />
-        <entry key="ENGLISH" value="1592" />
+        <entry key="CHINESE" value="1593" />
+        <entry key="ENGLISH" value="1594" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
