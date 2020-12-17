@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="previously" />
       <item value="showed" />
       <item value="m Is Binded" />
       <item value="bringing up" />
@@ -51,12 +52,11 @@
       <item value="binder Died" />
       <item value="link To Death" />
       <item value="latitude" />
-      <item value="longitude" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1594" />
-        <entry key="ENGLISH" value="1595" />
+        <entry key="CHINESE" value="1595" />
+        <entry key="ENGLISH" value="1596" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
