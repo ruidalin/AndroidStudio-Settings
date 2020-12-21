@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Persistable Bundle" />
       <item value="previously" />
       <item value="showed" />
       <item value="m Is Binded" />
@@ -51,12 +52,11 @@
       <item value="illegal" />
       <item value="binder Died" />
       <item value="link To Death" />
-      <item value="latitude" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1595" />
-        <entry key="ENGLISH" value="1596" />
+        <entry key="CHINESE" value="1596" />
+        <entry key="ENGLISH" value="1597" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1607914725450" />
+    <option name="lastTrimTime" value="1608517693781" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
