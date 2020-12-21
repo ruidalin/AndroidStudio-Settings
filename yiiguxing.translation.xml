@@ -1,7 +1,16 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="826" />
+    <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Outside Jump" />
+      <item value="The identifier of this intent or null if none is specified." />
+      <item value="@return" />
+      <item value="Retrieve the identifier for this Intent. If non-null, this is an arbitrary identity of the Intent to distinguish it from other Intents." />
+      <item value="Retrieve the application package name this Intent is limited to. When resolving an Intent, if non-null this limits the resolution to only components in the given application package." />
+      <item value="If false then this only works if the activity is the root of a task; if true it will work for any activity in a task." />
       <item value="Indicates whether the current attempt to connect to the network resulted from the ConnectivityManager trying to fail over to this network following a disconnect from another network. @return {@code true} if this is a failover attempt, {@code false}" />
       <item value="is Failover" />
       <item value="Always call this before attempting to perform data transactions." />
@@ -25,7 +34,6 @@
       <item value="bringing up" />
       <item value="gather Address Lon" />
       <item value="If the task was moved (or it was already at the back) true is returned, else false." />
-      <item value="If false then this only works if the activity is the root of a task; if true it will work for any activity in a task." />
       <item value="on Safe Mode Changed" />
       <item value="is Safe Mode On" />
       <item value="is Optimization" />
@@ -47,16 +55,11 @@
       <item value="Destination" />
       <item value="cluster" />
       <item value="UX RESTRICTIONS BASELINE" />
-      <item value="is Relative" />
-      <item value="set Data And Normalize" />
-      <item value="UX RESTRICTIONS NO VOICE TRANSCRIPTION" />
-      <item value="UX RESTRICTIONS NO TEXT MESSAGE" />
-      <item value="UX RESTRICTIONS NO SETUP" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1612" />
-        <entry key="ENGLISH" value="1613" />
+        <entry key="CHINESE" value="1618" />
+        <entry key="ENGLISH" value="1619" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
