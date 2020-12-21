@@ -2,6 +2,18 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Indicates whether the current attempt to connect to the network resulted from the ConnectivityManager trying to fail over to this network following a disconnect from another network. @return {@code true} if this is a failover attempt, {@code false}" />
+      <item value="is Failover" />
+      <item value="Always call this before attempting to perform data transactions." />
+      <item value="Indicates whether network connectivity exists and it is possible to establish connections and pass data." />
+      <item value="Since Android L, this always returns {@code true}, because the system only returns info for available networks." />
+      <item value="because the system only returns info for available networks." />
+      <item value="Since Android L, this always returns {@code true}," />
+      <item value="The device's radio is turned off, e.g., because airplane mode is enabled.&lt;li&gt;" />
+      <item value="he device is on a network other than the home network (i.e., roaming), and data roaming has been disabled.&lt;li&gt;" />
+      <item value="he device is out of the coverage area for any network of this type.&lt;li&gt;" />
+      <item value="Indicates whether network connectivity is possible. A network is unavailable when a persistent or semi-persistent condition prevents the possibility of connecting to that network. Examples include" />
+      <item value="underlying" />
       <item value="TYPE MOBILE SUPL" />
       <item value="An MMS-specific Mobile data connection." />
       <item value="The absence of a connection type." />
@@ -40,23 +52,11 @@
       <item value="UX RESTRICTIONS NO VOICE TRANSCRIPTION" />
       <item value="UX RESTRICTIONS NO TEXT MESSAGE" />
       <item value="UX RESTRICTIONS NO SETUP" />
-      <item value="UX RESTRICTIONS LIMIT CONTENT" />
-      <item value="UX RESTRICTIONS NO VIDEO" />
-      <item value="UX RESTRICTIONS LIMIT STRING LENGTH" />
-      <item value="on Ride Route Searched" />
-      <item value="on Bus Route Searched" />
-      <item value="on Drive Route Searched" />
-      <item value="on Walk Route Searched" />
-      <item value="Route Plan" />
-      <item value="Truck Route" />
-      <item value="On Truck Route Search Listener" />
-      <item value="plan day one route" />
-      <item value="个人信息获取失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1600" />
-        <entry key="ENGLISH" value="1601" />
+        <entry key="CHINESE" value="1612" />
+        <entry key="ENGLISH" value="1613" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
