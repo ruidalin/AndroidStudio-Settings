@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
-    <option name="newTranslationDialogX" value="826" />
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This can only be used in conjunction with {@link FLAG_ACTIVITY_NEW_TASK}." />
+      <item value="otherwise" />
+      <item value="If set in an Intent passed to {@link ContextstartActivity Context.startActivity()}, this flag will cause any existing task that would be associated with the activity to be cleared before the activity is started. That is, the activity becomes the new root of an otherwise empty task, and any old activities are finished. This can only be used in conjunction with {@link FLAG_ACTIVITY_NEW_TASK}." />
+      <item value="&lt;p&gt;&lt;strong&gt;Because the default system does not include graphical task management, you should not use this flag unless you provide some way for a user to return back to the tasks you have launched.&lt;strong&gt;" />
+      <item value="&lt;strong&gt;When used with {@link FLAG_ACTIVITY_NEW_TASK} do not use this flag unless you are implementing your own top-level application launcher.&lt;strong&gt; Used in conjunction with {@link FLAG_ACTIVITY_NEW_TASK} to disable the behavior of bringing an existing task to the foreground. When set, a new task is &lt;em&gt;always&lt;em&gt; started to host the Activity for the Intent, regardless of whether there is already an existing task running the same thing." />
+      <item value="This flag is used to create a new task and launch an activity into it. This flag is always paired with either {@link FLAG_ACTIVITY_NEW_DOCUMENT} or {@link FLAG_ACTIVITY_NEW_TASK}. In both cases these flags alone would search through existing tasks for ones matching this Intent. Only if no such task is found would a new task be created. When paired with FLAG_ACTIVITY_MULTIPLE_TASK both of these behaviors are modified to skip the search for a matching task and unconditionally start a new task." />
+      <item value="&lt;p&gt;The currently running instance of activity B in the above example will either receive the new intent you are starting here in its onNewIntent() method, or be itself finished and restarted with the new intent. If it has declared its launch mode to be &quot;multiple&quot; (the default) and you have not set {@link FLAG_ACTIVITY_SINGLE_TOP} in the same intent, then it will be finished and re-created; for all other launch modes or if {@link FLAG_ACTIVITY_SINGLE_TOP} is set then this Intent will be delivered to the current instance's onNewIntent()." />
+      <item value="&lt;p&gt;For example, consider a task consisting of the activities: A, B, C, D. If D calls startActivity() with an Intent that resolves to the component of activity B, then C and D will be finished and B receive the given Intent, resulting in the stack now being: A, B." />
+      <item value="If set, and the activity being launched is already running in the current task, then instead of launching a new instance of that activity, all of the other activities on top of it will be closed and this Intent will be delivered to the (now on top) old activity as a new Intent." />
+      <item value="If set, and the activity being launched is already running in the current task," />
       <item value="reply TTS" />
       <item value="domain" />
       <item value="get Ambient Light" />
@@ -45,21 +55,11 @@
       <item value="dialpad" />
       <item value="is Optimization Required" />
       <item value="distraction Optimization Required" />
-      <item value="All the above restrictions are in effect." />
-      <item value="Limit the number of items displayed on the screen. Refer to {@link getMaxCumulativeContentItems()} and {@link getMaxContentDepth()} for the upper bounds on content serving." />
-      <item value="No video - no animated frames &gt; 1fps." />
-      <item value="No text entry for the purpose of searching etc." />
-      <item value="General purpose strings length cannot exceed the character limit provided by {@link getMaxRestrictedStringLength()}" />
-      <item value="No filtering a list." />
-      <item value="UX RESTRICTIONS NO KEYBOARD" />
-      <item value="UX RESTRICTIONS NO FILTERING" />
-      <item value="UX RESTRICTIONS NO DIALPAD" />
-      <item value="DIALPAD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1622" />
-        <entry key="ENGLISH" value="1623" />
+        <entry key="CHINESE" value="1633" />
+        <entry key="ENGLISH" value="1634" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
