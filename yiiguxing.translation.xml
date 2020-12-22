@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Ambient Light" />
       <item value="key outside launcher" />
       <item value="is Outside Jump" />
       <item value="The identifier of this intent or null if none is specified." />
@@ -54,12 +55,11 @@
       <item value="DIALPAD" />
       <item value="imposed" />
       <item value="Destination" />
-      <item value="cluster" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1619" />
-        <entry key="ENGLISH" value="1620" />
+        <entry key="CHINESE" value="1620" />
+        <entry key="ENGLISH" value="1621" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
