@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="the number of times the source ObservableSource items are repeated, a count of 0 will yield an empty sequence" />
+      <item value="times" />
+      <item value="start Polling" />
       <item value="Hight Accuracy" />
       <item value="Transport" />
       <item value="个人信息获取失败" />
@@ -52,14 +55,11 @@
       <item value="available" />
       <item value="Persistable Bundle" />
       <item value="previously" />
-      <item value="showed" />
-      <item value="m Is Binded" />
-      <item value="bringing up" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1642" />
-        <entry key="ENGLISH" value="1643" />
+        <entry key="CHINESE" value="1645" />
+        <entry key="ENGLISH" value="1646" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
