@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Vehicle Manufacturer Received" />
+      <item value="on Drive Select Configuration Received" />
+      <item value="on Ambient Light Received" />
       <item value="trampoline" />
       <item value="shut Activity Share Location" />
       <item value="shunt" />
@@ -52,14 +55,11 @@
       <item value="he device is on a network other than the home network (i.e., roaming), and data roaming has been disabled.&lt;li&gt;" />
       <item value="he device is out of the coverage area for any network of this type.&lt;li&gt;" />
       <item value="Indicates whether network connectivity is possible. A network is unavailable when a persistent or semi-persistent condition prevents the possibility of connecting to that network. Examples include" />
-      <item value="underlying" />
-      <item value="TYPE MOBILE SUPL" />
-      <item value="An MMS-specific Mobile data connection." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1650" />
-        <entry key="ENGLISH" value="1651" />
+        <entry key="CHINESE" value="1653" />
+        <entry key="ENGLISH" value="1654" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
