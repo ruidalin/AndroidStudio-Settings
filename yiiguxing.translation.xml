@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A BoringLayout is a very simple Layout implementation for text that fits on a single line and is all left-to-right characters. You will probably never want to make one of these yourself; if you do, be sure to call {@link isBoring} first to make sure the text meets the criteria. &lt;p&gt;This class is used by widgets to control text layout. You should not need to use this class directly unless you are implementing your own widget or custom display object, in which case you are encouraged to use a Layout instead of calling {@link android.graphics.CanvasdrawText(java.lang.CharSequence, int, int, float, float, android.graphics.Paint) Canvas.drawText()} directly.&lt;p&gt;" />
+      <item value="Boring Layout" />
+      <item value="Ellipsize Callback" />
+      <item value="Text Utils" />
+      <item value="Layout" />
       <item value="Actual" />
       <item value="subscribe Actual" />
       <item value="on Assembly" />
@@ -50,11 +55,6 @@
       <item value="If false then this only works if the activity is the root of a task; if true it will work for any activity in a task." />
       <item value="Indicates whether the current attempt to connect to the network resulted from the ConnectivityManager trying to fail over to this network following a disconnect from another network. @return {@code true} if this is a failover attempt, {@code false}" />
       <item value="is Failover" />
-      <item value="Always call this before attempting to perform data transactions." />
-      <item value="Indicates whether network connectivity exists and it is possible to establish connections and pass data." />
-      <item value="Since Android L, this always returns {@code true}, because the system only returns info for available networks." />
-      <item value="because the system only returns info for available networks." />
-      <item value="Since Android L, this always returns {@code true}," />
     </histories>
     <option name="languageScores">
       <map>
