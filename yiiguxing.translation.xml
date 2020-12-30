@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="subscribe" />
       <item value="DEFAULT CAPACITY" />
       <item value="letter" />
       <item value="lorem" />
@@ -54,7 +55,6 @@
       <item value="key outside launcher" />
       <item value="is Outside Jump" />
       <item value="The identifier of this intent or null if none is specified." />
-      <item value="@return" />
     </histories>
     <option name="languageScores">
       <map>
