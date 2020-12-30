@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="DEFAULT CAPACITY" />
       <item value="letter" />
       <item value="lorem" />
       <item value="Transforms the String into a series of bits that can be compared bitwise to other CollationKeys. CollationKeys provide better performance than Collator.compare when Strings are involved in multiple comparisons. See the Collator class description for an example using CollationKeys. @param source the string to be transformed into a collation key. @return the CollationKey for the given String based on this Collator's collation rules. If the source String is null, a null CollationKey is returned. @see java.text.CollationKey" />
@@ -54,12 +55,11 @@
       <item value="is Outside Jump" />
       <item value="The identifier of this intent or null if none is specified." />
       <item value="@return" />
-      <item value="Retrieve the identifier for this Intent. If non-null, this is an arbitrary identity of the Intent to distinguish it from other Intents." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1659" />
-        <entry key="ENGLISH" value="1660" />
+        <entry key="CHINESE" value="1660" />
+        <entry key="ENGLISH" value="1661" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
