@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="apply Full Content View" />
       <item value="subscribe" />
       <item value="DEFAULT CAPACITY" />
       <item value="letter" />
@@ -54,12 +55,11 @@
       <item value="get Ambient Light" />
       <item value="key outside launcher" />
       <item value="is Outside Jump" />
-      <item value="The identifier of this intent or null if none is specified." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1660" />
-        <entry key="ENGLISH" value="1661" />
+        <entry key="CHINESE" value="1661" />
+        <entry key="ENGLISH" value="1662" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
