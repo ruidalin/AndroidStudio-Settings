@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="aka" />
       <item value="capped" />
       <item value="BEHAVIOR RESUME ONLY CURRENT FRAGMENT" />
       <item value="deprecated" />
@@ -54,12 +55,11 @@
       <item value="This can only be used in conjunction with {@link FLAG_ACTIVITY_NEW_TASK}." />
       <item value="otherwise" />
       <item value="If set in an Intent passed to {@link ContextstartActivity Context.startActivity()}, this flag will cause any existing task that would be associated with the activity to be cleared before the activity is started. That is, the activity becomes the new root of an otherwise empty task, and any old activities are finished. This can only be used in conjunction with {@link FLAG_ACTIVITY_NEW_TASK}." />
-      <item value="&lt;p&gt;&lt;strong&gt;Because the default system does not include graphical task management, you should not use this flag unless you provide some way for a user to return back to the tasks you have launched.&lt;strong&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1672" />
-        <entry key="ENGLISH" value="1673" />
+        <entry key="CHINESE" value="1673" />
+        <entry key="ENGLISH" value="1674" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
