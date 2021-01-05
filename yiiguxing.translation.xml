@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="accept Event" />
+      <item value="unchanged" />
       <item value="Consumer" />
       <item value="Buffers &lt;em&gt;all&lt;em&gt; onNext values until the downstream consumes it." />
       <item value="relies" />
@@ -53,13 +55,11 @@
       <item value="shut Activity Share Location" />
       <item value="shunt" />
       <item value="shunt Activity Share Location" />
-      <item value="the number of times the source ObservableSource items are repeated, a count of 0 will yield an empty sequence" />
-      <item value="times" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1689" />
-        <entry key="ENGLISH" value="1690" />
+        <entry key="CHINESE" value="1691" />
+        <entry key="ENGLISH" value="1692" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
