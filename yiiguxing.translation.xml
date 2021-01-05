@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Buffers &lt;em&gt;all&lt;em&gt; onNext values until the downstream consumes it." />
+      <item value="relies" />
       <item value="get Active Tab Index" />
       <item value="show Red Prompt Point" />
       <item value="init Title Capacity" />
@@ -21,7 +23,6 @@
       <item value="capped" />
       <item value="BEHAVIOR RESUME ONLY CURRENT FRAGMENT" />
       <item value="deprecated" />
-      <item value="relies" />
       <item value="Indicates that {@link FragmentsetUserVisibleHint(boolean)} will be called when the current fragment changes." />
       <item value="Indicates that only the current fragment will be in the {@link Lifecycle.StateRESUMED} state. All other Fragments are capped at {@link Lifecycle.StateSTARTED}." />
       <item value="dynamic Create Fragment" />
@@ -54,12 +55,11 @@
       <item value="the number of times the source ObservableSource items are repeated, a count of 0 will yield an empty sequence" />
       <item value="times" />
       <item value="start Polling" />
-      <item value="Hight Accuracy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1686" />
-        <entry key="ENGLISH" value="1687" />
+        <entry key="CHINESE" value="1688" />
+        <entry key="ENGLISH" value="1689" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
