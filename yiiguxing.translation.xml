@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="indicator view" />
       <item value="Denotes that the annotated element should only be accessed from within a specific scope" />
       <item value="under special circumstances" />
       <item value="collect" />
@@ -54,12 +55,11 @@
       <item value="reply" />
       <item value="paired" />
       <item value="If set, the new activity is not kept in the history stack. As soon as the user navigates away from it, the activity is finished. This may also be set with the {@link android.R.styleableAndroidManifestActivity_noHistory noHistory} attribute." />
-      <item value="get Type Class From Paradigm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1744" />
-        <entry key="ENGLISH" value="1745" />
+        <entry key="CHINESE" value="1745" />
+        <entry key="ENGLISH" value="1746" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
