@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We could use the variable's bounds, but that won't work if there are multiple. Having a raw type that's more general than necessary is okay." />
+      <item value="resolve" />
+      <item value="get Generic Declaration" />
+      <item value="Type Variable" />
       <item value="Wildcard Type" />
       <item value="indicator view" />
       <item value="Denotes that the annotated element should only be accessed from within a specific scope" />
@@ -51,15 +55,11 @@
       <item value="FLAG ACTIVITY EXCLUDE FROM RECENTS" />
       <item value="immediately" />
       <item value="be counted as" />
-      <item value="counted" />
-      <item value="transferred" />
-      <item value="reply" />
-      <item value="paired" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1746" />
-        <entry key="ENGLISH" value="1747" />
+        <entry key="CHINESE" value="1752" />
+        <entry key="ENGLISH" value="1753" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
@@ -89,7 +89,6 @@
     <option name="foldOriginal" value="true" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
-    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6e2757bde9036761" />
