@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="the {@code Field} object of this class specified by {@code name}" />
+      <item value="@return the {@code Field} object of this class specified by {@code name}" />
+      <item value="the {@code Field} object for the specified field in this class" />
+      <item value="specified" />
+      <item value="behavior" />
       <item value="show Badge" />
       <item value="BTN" />
       <item value="get Multi Press Timeout" />
@@ -48,18 +53,13 @@
       <item value="kept" />
       <item value="conjunction" />
       <item value="transition" />
-      <item value="specified" />
       <item value="brought" />
       <item value="cause" />
-      <item value="FLAG ACTIVITY REORDER TO FRONT" />
-      <item value="blinking LED." />
-      <item value="explicit" />
-      <item value="indicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1773" />
-        <entry key="ENGLISH" value="1774" />
+        <entry key="CHINESE" value="1778" />
+        <entry key="ENGLISH" value="1779" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
