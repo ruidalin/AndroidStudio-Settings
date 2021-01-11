@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="BTN" />
+      <item value="get Multi Press Timeout" />
+      <item value="the duration in milliseconds between the first tap's up event and the second tap's down event for an interaction to be considered part of the same multi-press. @hide" />
+      <item value="get Double Tap Timeout" />
       <item value="JUMP TAP TIMEOUT" />
       <item value="Hover" />
       <item value="get Hover Tap Slop" />
@@ -51,15 +55,11 @@
       <item value="explicit" />
       <item value="indicate" />
       <item value="rely" />
-      <item value="Typically" />
-      <item value="the" />
-      <item value="prevent" />
-      <item value="frontmost" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1769" />
-        <entry key="ENGLISH" value="1770" />
+        <entry key="CHINESE" value="1773" />
+        <entry key="ENGLISH" value="1773" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
@@ -73,6 +73,7 @@
         <entry key="ROMANIAN" value="6" />
         <entry key="BENGALI" value="2" />
         <entry key="NORWEGIAN" value="1" />
+        <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="ITALIAN" value="1" />
@@ -89,7 +90,6 @@
     <option name="foldOriginal" value="true" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
-    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6e2757bde9036761" />
