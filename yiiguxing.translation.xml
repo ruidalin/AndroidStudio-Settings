@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Quickly Click" />
       <item value="CLICK INTERVAL TIME" />
       <item value="the {@code Field} object of this class specified by {@code name}" />
       <item value="@return the {@code Field} object of this class specified by {@code name}" />
@@ -54,12 +55,11 @@
       <item value="kept" />
       <item value="conjunction" />
       <item value="transition" />
-      <item value="brought" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1779" />
-        <entry key="ENGLISH" value="1780" />
+        <entry key="CHINESE" value="1780" />
+        <entry key="ENGLISH" value="1781" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
