@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="OPERATION" />
       <item value="Action Bar Click Aspect" />
       <item value="is Quick Click" />
       <item value="Proceeding" />
@@ -54,12 +55,11 @@
       <item value="indicator view" />
       <item value="Denotes that the annotated element should only be accessed from within a specific scope" />
       <item value="under special circumstances" />
-      <item value="collect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1795" />
-        <entry key="ENGLISH" value="1796" />
+        <entry key="CHINESE" value="1796" />
+        <entry key="ENGLISH" value="1797" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
