@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Proceeding" />
+      <item value="proceed" />
       <item value="tap Gap" />
       <item value="On Event Tap" />
       <item value="aspect Method" />
@@ -14,7 +16,6 @@
       <item value="&lt;p&gt; Returns the currently executing object. This will always be the same object as that matched by the &lt;code&gt;this&lt;code&gt; pointcut designator. Unless you specifically need this reflective access, you should use the &lt;code&gt;this&lt;code&gt; pointcut designator to get at this object for better static typing and performance.&lt;p&gt; &lt;p&gt; Returns null when there is no currently executing object available. This includes all join points that occur in a static context.&lt;p&gt;" />
       <item value="&lt;p&gt; Returns the target object. This will always be the same object as that matched by the &lt;code&gt;target&lt;code&gt; pointcut designator. Unless you specifically need this reflective access, you should use the &lt;code&gt;target&lt;code&gt; pointcut designator to get at this object for better static typing and performance.&lt;p&gt;" />
       <item value="reflective" />
-      <item value="proceed" />
       <item value="behavior" />
       <item value="is Quickly Click" />
       <item value="CLICK INTERVAL TIME" />
@@ -54,12 +55,11 @@
       <item value="collect" />
       <item value="LinkedList, which pretends to be a map and supports modifications during iterations. It is NOT thread safe." />
       <item value="Dispose" />
-      <item value="delivered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1791" />
-        <entry key="ENGLISH" value="1792" />
+        <entry key="CHINESE" value="1793" />
+        <entry key="ENGLISH" value="1794" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
