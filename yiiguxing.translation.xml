@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="tap Gap" />
+      <item value="On Event Tap" />
       <item value="aspect Method" />
       <item value="tap Stamp" />
       <item value="stamp" />
@@ -31,7 +33,6 @@
       <item value="the duration in milliseconds between the first tap's up event and the second tap's down event for an interaction to be considered a double-tap." />
       <item value="get Tap Timeout" />
       <item value="the time before the first key repeat in milliseconds." />
-      <item value="tap Gap" />
       <item value="m Tap Timestamp" />
       <item value="apply Debouncing" />
       <item value="material" />
@@ -54,12 +55,11 @@
       <item value="LinkedList, which pretends to be a map and supports modifications during iterations. It is NOT thread safe." />
       <item value="Dispose" />
       <item value="delivered" />
-      <item value="count on" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1789" />
-        <entry key="ENGLISH" value="1790" />
+        <entry key="CHINESE" value="1791" />
+        <entry key="ENGLISH" value="1792" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
