@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="tap Stamp" />
+      <item value="stamp" />
+      <item value="tapstamp" />
       <item value="&lt;p&gt; Returns the currently executing object. This will always be the same object as that matched by the &lt;code&gt;this&lt;code&gt; pointcut designator. Unless you specifically need this reflective access, you should use the &lt;code&gt;this&lt;code&gt; pointcut designator to get at this object for better static typing and performance.&lt;p&gt; &lt;p&gt; Returns null when there is no currently executing object available. This includes all join points that occur in a static context.&lt;p&gt;" />
       <item value="&lt;p&gt; Returns the target object. This will always be the same object as that matched by the &lt;code&gt;target&lt;code&gt; pointcut designator. Unless you specifically need this reflective access, you should use the &lt;code&gt;target&lt;code&gt; pointcut designator to get at this object for better static typing and performance.&lt;p&gt;" />
       <item value="reflective" />
@@ -52,14 +55,11 @@
       <item value="delivered" />
       <item value="count on" />
       <item value="can count on" />
-      <item value="count" />
-      <item value="recommend" />
-      <item value="instant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1786" />
-        <entry key="ENGLISH" value="1787" />
+        <entry key="CHINESE" value="1788" />
+        <entry key="ENGLISH" value="1789" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
@@ -72,7 +72,7 @@
         <entry key="LATIN" value="6" />
         <entry key="ROMANIAN" value="6" />
         <entry key="BENGALI" value="2" />
-        <entry key="NORWEGIAN" value="1" />
+        <entry key="NORWEGIAN" value="2" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="3" />
