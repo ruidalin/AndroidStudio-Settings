@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="SP KEY ACCEPT PROCESS" />
       <item value="Progress" />
       <item value="peek" />
       <item value="set Editable" />
@@ -54,12 +55,11 @@
       <item value="CLICK INTERVAL TIME" />
       <item value="the {@code Field} object of this class specified by {@code name}" />
       <item value="@return the {@code Field} object of this class specified by {@code name}" />
-      <item value="the {@code Field} object for the specified field in this class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1822" />
-        <entry key="ENGLISH" value="1823" />
+        <entry key="CHINESE" value="1823" />
+        <entry key="ENGLISH" value="1824" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
