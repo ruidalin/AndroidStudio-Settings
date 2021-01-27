@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="守护进程" />
+      <item value="守护 " />
+      <item value="守护经常" />
+      <item value="守护" />
+      <item value="shou" />
       <item value="total" />
       <item value="总total" />
       <item value="总 " />
@@ -50,11 +55,6 @@
       <item value="OPERATION" />
       <item value="Action Bar Click Aspect" />
       <item value="is Quick Click" />
-      <item value="Proceeding" />
-      <item value="proceed" />
-      <item value="tap Gap" />
-      <item value="On Event Tap" />
-      <item value="aspect Method" />
     </histories>
     <option name="languageScores">
       <map>
