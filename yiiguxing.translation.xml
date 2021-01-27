@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="times" />
+      <item value="times On Success" />
+      <item value="消费" />
+      <item value="xiao" />
+      <item value="on Take Times" />
+      <item value="减去" />
+      <item value="减去&#10;" />
+      <item value="计算&#10;" />
+      <item value="计算" />
+      <item value="jisuan" />
       <item value="守护进程" />
       <item value="守护 " />
       <item value="守护经常" />
@@ -45,21 +55,11 @@
       <item value="flat Map" />
       <item value="inflate" />
       <item value="key Word" />
-      <item value="set Negative Button" />
-      <item value="set Neutral Button" />
-      <item value="prior" />
-      <item value="set Badge View" />
-      <item value="checked" />
-      <item value="on Tab Selected" />
-      <item value="is Arrow Up" />
-      <item value="OPERATION" />
-      <item value="Action Bar Click Aspect" />
-      <item value="is Quick Click" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1826" />
-        <entry key="ENGLISH" value="1827" />
+        <entry key="CHINESE" value="1829" />
+        <entry key="ENGLISH" value="1830" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
