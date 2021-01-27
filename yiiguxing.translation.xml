@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Denotes that any overriding methods should invoke this method as well." />
       <item value="times" />
       <item value="times On Success" />
       <item value="消费" />
@@ -54,12 +55,11 @@
       <item value="优化&#10;" />
       <item value="flat Map" />
       <item value="inflate" />
-      <item value="key Word" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1829" />
-        <entry key="ENGLISH" value="1830" />
+        <entry key="CHINESE" value="1830" />
+        <entry key="ENGLISH" value="1831" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
