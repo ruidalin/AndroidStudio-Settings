@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Approved" />
       <item value="react" />
       <item value="is Privacy Mode On" />
       <item value="is In Location" />
@@ -54,12 +55,11 @@
       <item value="flat Nest" />
       <item value="lat Nest" />
       <item value="flat Nest View" />
-      <item value="优化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1833" />
-        <entry key="ENGLISH" value="1834" />
+        <entry key="CHINESE" value="1834" />
+        <entry key="ENGLISH" value="1835" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
