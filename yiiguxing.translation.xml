@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="SPECIAL" />
+      <item value="PECIAL" />
+      <item value="VIRTUAL" />
+      <item value="INVOKESTATIC" />
       <item value="get Run Variant" />
       <item value="Approved" />
       <item value="react" />
@@ -51,21 +55,17 @@
       <item value="set Edit Layout Visible" />
       <item value="View Stub" />
       <item value="flat Nest View Idle" />
-      <item value="Nest" />
-      <item value="flat" />
-      <item value="flat Nest" />
-      <item value="lat Nest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1835" />
-        <entry key="ENGLISH" value="1836" />
+        <entry key="CHINESE" value="1838" />
+        <entry key="ENGLISH" value="1839" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="7" />
         <entry key="DUTCH" value="1" />
-        <entry key="CATALAN" value="4" />
+        <entry key="CATALAN" value="5" />
         <entry key="CZECH" value="1" />
         <entry key="KANNADA" value="1" />
         <entry key="CROATIAN" value="1" />
