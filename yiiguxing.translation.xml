@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Weavable Class" />
       <item value="Visits" />
       <item value="visit Method Insn" />
       <item value="Visits an invokedynamic instruction." />
@@ -54,12 +55,11 @@
       <item value="postfix" />
       <item value="capitalize" />
       <item value="distraction" />
-      <item value="variant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1841" />
-        <entry key="ENGLISH" value="1842" />
+        <entry key="CHINESE" value="1842" />
+        <entry key="ENGLISH" value="1843" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
@@ -90,7 +90,6 @@
     <option name="foldOriginal" value="true" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
-    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6e2757bde9036761" />
