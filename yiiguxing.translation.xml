@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Visits" />
+      <item value="visit Method Insn" />
+      <item value="Visits an invokedynamic instruction." />
+      <item value="Insn" />
       <item value="SPECIAL" />
       <item value="PECIAL" />
       <item value="VIRTUAL" />
@@ -51,15 +55,11 @@
       <item value="capitalize" />
       <item value="distraction" />
       <item value="variant" />
-      <item value="Trans Activity" />
-      <item value="set Edit Layout Visible" />
-      <item value="View Stub" />
-      <item value="flat Nest View Idle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1838" />
-        <entry key="ENGLISH" value="1839" />
+        <entry key="CHINESE" value="1841" />
+        <entry key="ENGLISH" value="1842" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
