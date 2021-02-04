@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="compiled code" />
       <item value="accept" />
       <item value="Absent" />
       <item value="Visits a method of the class. This method &lt;i&gt;must&lt;i&gt; return a new {@link MethodVisitor} instance (or {@literal null}) each time it is called, i.e., it should not return a previously returned visitor." />
@@ -54,12 +55,11 @@
       <item value="totl" />
       <item value="totle" />
       <item value="set Interval" />
-      <item value="assist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1852" />
-        <entry key="ENGLISH" value="1853" />
+        <entry key="CHINESE" value="1853" />
+        <entry key="ENGLISH" value="1854" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
