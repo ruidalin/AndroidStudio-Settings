@@ -1,0 +1,16 @@
+<templateSet group="Java">
+  <template name="cname" value="$className$" description="className" toReformat="true" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+    </context>
+  </template>
+  <template name="mname" value="$methodName$" description="methodName" toReformat="true" toShortenFQNames="true">
+    <variable name="methodName" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+    </context>
+  </template>
+</templateSet>
