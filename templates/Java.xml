@@ -13,4 +13,14 @@
       <option name="JAVA_STRING" value="true" />
     </context>
   </template>
+  <template name="soutfm" value="System.out.println(String.format(&quot;$className$@TAG #$methodName$ $content$&quot;, $params$));" description="System.out.println(String.format(&quot;&quot;));" toReformat="true" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="methodName" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+    </context>
+  </template>
 </templateSet>
