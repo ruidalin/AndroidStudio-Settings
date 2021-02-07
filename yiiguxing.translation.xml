@@ -5,9 +5,16 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="insert Method" />
+      <item value="运行时间" />
+      <item value="执行时间" />
+      <item value="执行" />
+      <item value="z" />
+      <item value="花费时间" />
+      <item value="花费时间&#10;" />
       <item value="花费" />
       <item value="huafe" />
+      <item value="spend" />
+      <item value="insert Method" />
       <item value="A compressed frame with exactly the same locals as the previous frame and with an empty stack." />
       <item value="respectively" />
       <item value="generic types." />
@@ -48,18 +55,11 @@
       <item value="on Take Times" />
       <item value="减去" />
       <item value="减去&#10;" />
-      <item value="计算&#10;" />
-      <item value="计算" />
-      <item value="jisuan" />
-      <item value="守护进程" />
-      <item value="守护 " />
-      <item value="守护经常" />
-      <item value="守护" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1861" />
-        <entry key="ENGLISH" value="1862" />
+        <entry key="CHINESE" value="1862" />
+        <entry key="ENGLISH" value="1863" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
