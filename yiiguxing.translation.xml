@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A compressed frame with exactly the same locals as the previous frame and with an empty stack." />
       <item value="respectively" />
       <item value="generic types." />
       <item value="the field's signature. May be {@literal null} if the field's type does not use generic types." />
@@ -54,12 +55,11 @@
       <item value="shou" />
       <item value="total" />
       <item value="总total" />
-      <item value="总 " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1859" />
-        <entry key="ENGLISH" value="1860" />
+        <entry key="CHINESE" value="1860" />
+        <entry key="ENGLISH" value="1861" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612146710308" />
+    <option name="lastTrimTime" value="1612663988565" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
