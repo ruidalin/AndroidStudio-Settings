@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&lt;p&gt;An {@link OnDrawListener} listener &lt;strong&gt;cannot be added or removed&lt;strong&gt; from this method.&lt;p&gt;" />
+      <item value="&lt;p&gt;Unlike with {@link OnPreDrawListener}, this method cannot be used to cancel the current drawing pass.&lt;p&gt; &lt;p&gt;An {@link OnDrawListener} listener &lt;strong&gt;cannot be added or removed&lt;strong&gt; from this method.&lt;p&gt;" />
+      <item value="Callback method to be invoked when the view tree is about to be drawn. At this point, views cannot be modified in any way.&lt;p&gt;" />
+      <item value="Interface definition for a callback to be invoked when the view tree is about to be drawn." />
+      <item value="Callback method to be invoked when the view tree is about to be drawn. At this point, all views in the tree have been measured and given a frame. Clients can use this to adjust their scroll bounds or even to request a new layout before drawing occurs." />
+      <item value="recreating" />
+      <item value="mechanism" />
+      <item value="decide" />
+      <item value="followed" />
       <item value="Listener for applying window insets on a view in a custom way." />
       <item value="Interface definition for a callback to be invoked when a hover event is dispatched to this view. The callback will be invoked before the hover event is given to the view." />
       <item value="On Hover Listener" />
@@ -46,20 +55,11 @@
       <item value="VIRTUAL" />
       <item value="INVOKESTATIC" />
       <item value="get Run Variant" />
-      <item value="Approved" />
-      <item value="react" />
-      <item value="is Privacy Mode On" />
-      <item value="is In Location" />
-      <item value="Denotes that any overriding methods should invoke this method as well." />
-      <item value="times" />
-      <item value="times On Success" />
-      <item value="消费" />
-      <item value="xiao" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1865" />
-        <entry key="ENGLISH" value="1866" />
+        <entry key="CHINESE" value="1874" />
+        <entry key="ENGLISH" value="1875" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
