@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Quiet Reflector" />
       <item value="track Method Enter Stamp" />
       <item value="记录开始时间" />
       <item value="记录开始 " />
@@ -54,12 +55,11 @@
       <item value="On Hover Listener" />
       <item value="运行时间" />
       <item value="执行时间" />
-      <item value="执行" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1891" />
-        <entry key="ENGLISH" value="1892" />
+        <entry key="CHINESE" value="1892" />
+        <entry key="ENGLISH" value="1893" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
