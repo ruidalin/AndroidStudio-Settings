@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="f your application does its rendering in a different thread, possibly using GL, or does not use the animation framework or view hierarchy at all and you want to ensure that it is appropriately synchronized with the display, then use {@link ChoreographerpostFrameCallback}.&lt;li&gt; &lt;li&gt;... and that's about it.&lt;li&gt;" />
+      <item value="such as vertical synchronization" />
+      <item value="timing pulses" />
+      <item value="pulses" />
+      <item value="timing" />
+      <item value="choreographer" />
+      <item value="Coordinates the timing of animations, input and drawing." />
       <item value="Advice Adapter" />
       <item value="second On Draw" />
       <item value="匹配" />
@@ -48,18 +55,11 @@
       <item value="insert Method" />
       <item value="A compressed frame with exactly the same locals as the previous frame and with an empty stack." />
       <item value="respectively" />
-      <item value="generic types." />
-      <item value="the field's signature. May be {@literal null} if the field's type does not use generic types." />
-      <item value="groovy" />
-      <item value="full Qualified Class Name" />
-      <item value="SET ACTIVITIES" />
-      <item value="compiled code" />
-      <item value="accept" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1882" />
-        <entry key="ENGLISH" value="1883" />
+        <entry key="CHINESE" value="1888" />
+        <entry key="ENGLISH" value="1889" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612663988565" />
+    <option name="lastTrimTime" value="1613632140489" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
