@@ -58,6 +58,9 @@
   <XML>
     <option name="XML_ALIGN_ATTRIBUTES" value="true" />
   </XML>
+  <codeStyleSettings language="Groovy">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
@@ -189,6 +192,7 @@
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
   </codeStyleSettings>
