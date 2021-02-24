@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="no Op Delegate" />
       <item value="passed" />
       <item value="Utility" />
       <item value="move To Retained" />
@@ -54,17 +55,16 @@
       <item value="spend Mills" />
       <item value="track Method Ent Stamp" />
       <item value="track Start Stamp" />
-      <item value="收录" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1908" />
+        <entry key="CHINESE" value="1909" />
         <entry key="ENGLISH" value="1909" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="7" />
-        <entry key="DUTCH" value="1" />
+        <entry key="DUTCH" value="2" />
         <entry key="CATALAN" value="5" />
         <entry key="CZECH" value="1" />
         <entry key="KANNADA" value="1" />
@@ -90,6 +90,7 @@
     <option name="foldOriginal" value="true" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
+    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6e2757bde9036761" />
