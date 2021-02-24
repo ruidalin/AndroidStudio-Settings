@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="uptime Millis" />
       <item value="no Op Delegate" />
       <item value="passed" />
       <item value="Utility" />
@@ -54,12 +55,11 @@
       <item value="spend" />
       <item value="spend Mills" />
       <item value="track Method Ent Stamp" />
-      <item value="track Start Stamp" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1909" />
-        <entry key="ENGLISH" value="1909" />
+        <entry key="ENGLISH" value="1910" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
