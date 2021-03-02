@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="check Retained Count" />
       <item value="offer" />
       <item value="Return the entry name for a given resource identifier." />
       <item value="Return the type name for a given resource identifier. @param resid The resource identifier whose type name is to be retrieved. @return A string holding the type name of the resource. @throws NotFoundException Throws NotFoundException if the given ID does not exist. @see getResourceName" />
@@ -54,12 +55,11 @@
       <item value="choreographer" />
       <item value="Coordinates the timing of animations, input and drawing." />
       <item value="Advice Adapter" />
-      <item value="second On Draw" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1924" />
-        <entry key="ENGLISH" value="1925" />
+        <entry key="CHINESE" value="1925" />
+        <entry key="ENGLISH" value="1926" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
