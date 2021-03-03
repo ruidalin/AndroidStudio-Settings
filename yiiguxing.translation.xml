@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="On Object Retained Listener" />
       <item value="Trigger" />
       <item value="Threshold Trigger" />
       <item value="coldboot" />
@@ -54,7 +55,6 @@
       <item value="timing pulses" />
       <item value="pulses" />
       <item value="timing" />
-      <item value="choreographer" />
     </histories>
     <option name="languageScores">
       <map>
