@@ -63,6 +63,8 @@
     <option name="XML_ALIGN_ATTRIBUTES" value="true" />
   </XML>
   <codeStyleSettings language="Groovy">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
