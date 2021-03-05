@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Jvm Overloads" />
       <item value="upshold" />
       <item value="On Object Retained Listener" />
       <item value="Trigger" />
@@ -54,12 +55,11 @@
       <item value="f your application does its rendering in a different thread, possibly using GL, or does not use the animation framework or view hierarchy at all and you want to ensure that it is appropriately synchronized with the display, then use {@link ChoreographerpostFrameCallback}.&lt;li&gt; &lt;li&gt;... and that's about it.&lt;li&gt;" />
       <item value="such as vertical synchronization" />
       <item value="timing pulses" />
-      <item value="pulses" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1929" />
-        <entry key="ENGLISH" value="1930" />
+        <entry key="CHINESE" value="1930" />
+        <entry key="ENGLISH" value="1931" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
