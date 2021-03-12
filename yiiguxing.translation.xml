@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Dashboard" />
+      <item value="get New Energy" />
       <item value="Consume" />
       <item value="Consum" />
       <item value="navigation bar height" />
@@ -53,13 +55,11 @@
       <item value="get Canonical Name" />
       <item value="mutate" />
       <item value="Notifies registered listeners that a global layout happened." />
-      <item value="Return the parent activity if this view is an embedded child" />
-      <item value="Instrumentation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1943" />
-        <entry key="ENGLISH" value="1944" />
+        <entry key="CHINESE" value="1945" />
+        <entry key="ENGLISH" value="1946" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
