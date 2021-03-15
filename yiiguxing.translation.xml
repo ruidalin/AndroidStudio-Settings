@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="color Every Playing Text" />
       <item value="KEYCODE PAGE UP" />
       <item value="Mute" />
       <item value="Rewind" />
@@ -54,12 +55,11 @@
       <item value="move To Retained" />
       <item value="poll" />
       <item value="Mutable" />
-      <item value="expected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1950" />
-        <entry key="ENGLISH" value="1951" />
+        <entry key="CHINESE" value="1951" />
+        <entry key="ENGLISH" value="1952" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
