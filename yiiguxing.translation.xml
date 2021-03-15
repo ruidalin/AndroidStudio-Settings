@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="layout Constom" />
       <item value="color Every Playing Text" />
       <item value="KEYCODE PAGE UP" />
       <item value="Mute" />
@@ -54,7 +55,6 @@
       <item value="Utility" />
       <item value="move To Retained" />
       <item value="poll" />
-      <item value="Mutable" />
     </histories>
     <option name="languageScores">
       <map>
