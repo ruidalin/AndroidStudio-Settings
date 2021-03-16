@@ -75,6 +75,8 @@
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="ALIGN_MULTILINE_ASSIGNMENT" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="THROWS_KEYWORD_WRAP" value="1" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
