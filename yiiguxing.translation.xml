@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="agreement confirmation" />
+      <item value="协议确认" />
+      <item value="is Agreed" />
+      <item value="hasbeen Agree" />
       <item value="layout Constom" />
       <item value="color Every Playing Text" />
       <item value="KEYCODE PAGE UP" />
@@ -51,15 +55,11 @@
       <item value="remove Weakly Reachable Objects" />
       <item value="uptime Millis" />
       <item value="no Op Delegate" />
-      <item value="passed" />
-      <item value="Utility" />
-      <item value="move To Retained" />
-      <item value="poll" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1951" />
-        <entry key="ENGLISH" value="1952" />
+        <entry key="CHINESE" value="1954" />
+        <entry key="ENGLISH" value="1955" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
