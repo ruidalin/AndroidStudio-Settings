@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="quit" />
+      <item value="退出" />
+      <item value="enter" />
+      <item value="进入" />
       <item value="I Multi Screen" />
       <item value="agreement confirmation" />
       <item value="协议确认" />
@@ -51,15 +55,11 @@
       <item value="Gets whether this application is an instant app." />
       <item value="is Instant App" />
       <item value="Using a string builder to prevent Jetifier from changing this string to Android X Fragment" />
-      <item value="Logcat Shark Log" />
-      <item value="Reach" />
-      <item value="remove Weakly Reachable Objects" />
-      <item value="uptime Millis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1955" />
-        <entry key="ENGLISH" value="1956" />
+        <entry key="CHINESE" value="1958" />
+        <entry key="ENGLISH" value="1959" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
