@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Activity Adjust Status Bar" />
       <item value="quit" />
       <item value="退出" />
       <item value="enter" />
@@ -54,12 +55,11 @@
       <item value="schedule Retained Object Check" />
       <item value="Gets whether this application is an instant app." />
       <item value="is Instant App" />
-      <item value="Using a string builder to prevent Jetifier from changing this string to Android X Fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1958" />
-        <entry key="ENGLISH" value="1959" />
+        <entry key="CHINESE" value="1959" />
+        <entry key="ENGLISH" value="1960" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615790850392" />
+    <option name="lastTrimTime" value="1616395899856" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
