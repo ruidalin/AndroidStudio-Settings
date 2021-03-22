@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="刹车" />
+      <item value="方向盘" />
+      <item value="AXIS VSCROLL" />
+      <item value="AXIS" />
+      <item value="ACTION HOVER MOVE" />
+      <item value="HOVER" />
       <item value="142 density" />
       <item value="Activity Adjust Status Bar" />
       <item value="quit" />
@@ -49,17 +55,11 @@
       <item value="offer" />
       <item value="Return the entry name for a given resource identifier." />
       <item value="Return the type name for a given resource identifier. @param resid The resource identifier whose type name is to be retrieved. @return A string holding the type name of the resource. @throws NotFoundException Throws NotFoundException if the given ID does not exist. @see getResourceName" />
-      <item value="When the app becomes invisible, we don't dump the heap immediately. Instead we wait in case the app came back to the foreground, but also to wait for new leaks that typically occur on back press (activity destroy)." />
-      <item value="nope Reason" />
-      <item value="would Dump" />
-      <item value="Returns milliseconds since boot, not counting time spent in deep sleep." />
-      <item value="schedule Retained Object Check" />
-      <item value="Gets whether this application is an instant app." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1960" />
-        <entry key="ENGLISH" value="1961" />
+        <entry key="CHINESE" value="1967" />
+        <entry key="ENGLISH" value="1967" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
