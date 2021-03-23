@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Car Key API" />
       <item value="on Steering Wheel Corner Changed" />
       <item value="Brake" />
       <item value="on Brake Changed" />
@@ -54,7 +55,6 @@
       <item value="individual" />
       <item value="retain All" />
       <item value="Jvm Overloads" />
-      <item value="upshold" />
     </histories>
     <option name="languageScores">
       <map>
