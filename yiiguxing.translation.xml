@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Bound" />
       <item value="is Service Bound" />
       <item value="Hardkey Manager" />
       <item value="recursive" />
@@ -54,12 +55,11 @@
       <item value="On Object Retained Listener" />
       <item value="Trigger" />
       <item value="Threshold Trigger" />
-      <item value="coldboot" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1970" />
-        <entry key="ENGLISH" value="1971" />
+        <entry key="CHINESE" value="1971" />
+        <entry key="ENGLISH" value="1972" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
