@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Steer" />
+      <item value="Game Steer Service" />
       <item value="Gear" />
       <item value="drive Gear" />
       <item value="steaer" />
@@ -53,13 +55,11 @@
       <item value="get Bonded Devices" />
       <item value="Profile" />
       <item value="discover Services" />
-      <item value="accessing" />
-      <item value="rejected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1980" />
-        <entry key="ENGLISH" value="1981" />
+        <entry key="CHINESE" value="1982" />
+        <entry key="ENGLISH" value="1983" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616395899856" />
+    <option name="lastTrimTime" value="1616828397961" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
