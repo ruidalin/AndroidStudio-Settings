@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="EXACTLY" />
+      <item value="AT MOST" />
+      <item value="Measure specification mode: The child can be as large as it wants up to the specified size." />
+      <item value="The child is going to be given those bounds regardless of how big it wants to be." />
+      <item value="The parent has determined an exact size for the child" />
+      <item value="The parent has determined an exact size" />
+      <item value="exact" />
+      <item value="determined" />
+      <item value="those" />
       <item value="create layout state" />
       <item value="scroll to fulfill requirements like stack from bottom." />
       <item value="fill towards start, stacking from bottom" />
@@ -46,20 +55,11 @@
       <item value="is Agreed" />
       <item value="hasbeen Agree" />
       <item value="layout Constom" />
-      <item value="color Every Playing Text" />
-      <item value="KEYCODE PAGE UP" />
-      <item value="Mute" />
-      <item value="Rewind" />
-      <item value="dispatch Generic Motion Event" />
-      <item value="Motion Event" />
-      <item value="get Dashboard" />
-      <item value="get New Energy" />
-      <item value="Consume" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1987" />
-        <entry key="ENGLISH" value="1988" />
+        <entry key="CHINESE" value="1995" />
+        <entry key="ENGLISH" value="1996" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="3" />
