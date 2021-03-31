@@ -4,6 +4,7 @@
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="game" type="Native" />
       <mapping pattern="dfasdf" type="PLAIN_TEXT" />
       <mapping pattern="TD_AES_IV_LOCK" type="PLAIN_TEXT" />
       <mapping pattern="init" type="PLAIN_TEXT" />
