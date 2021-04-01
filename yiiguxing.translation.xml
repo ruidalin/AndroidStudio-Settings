@@ -5,9 +5,20 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Radio Info" />
+      <item value="get Music Info" />
+      <item value="get Day Night Mode" />
+      <item value="get Astern Status" />
+      <item value="get Person Number" />
+      <item value="get Speed" />
+      <item value="get Power Consumption" />
+      <item value="get Autopilot Mileage" />
+      <item value="on Speed Changed" />
+      <item value="on Vehicle Speed Changed" />
+      <item value="Steering" />
+      <item value="Gear" />
       <item value="on Game Handle Status Changed" />
       <item value="on Gear Mode Changed" />
-      <item value="on Vehicle Speed Changed" />
       <item value="on Button Mode Changed" />
       <item value="on Brake Changed" />
       <item value="on Steering Wheel Corner Changed" />
@@ -16,7 +27,6 @@
       <item value="on Music Info Change" />
       <item value="on Person Number Change" />
       <item value="on Astern Status Changed" />
-      <item value="on Speed Changed" />
       <item value="on Power Consumption Changed" />
       <item value="on Single Mileage Changed" />
       <item value="on Autopilot Status Changed" />
@@ -45,21 +55,11 @@
       <item value="ey code constant: Directional Pad Down key." />
       <item value="Steer" />
       <item value="Game Steer Service" />
-      <item value="Gear" />
-      <item value="drive Gear" />
-      <item value="steaer" />
-      <item value="bind Service Interval" />
-      <item value="global" />
-      <item value="KEYCODE STEER WHEEL" />
-      <item value="Car Key API" />
-      <item value="Brake" />
-      <item value="is Bound" />
-      <item value="is Service Bound" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2021" />
-        <entry key="ENGLISH" value="2022" />
+        <entry key="CHINESE" value="2033" />
+        <entry key="ENGLISH" value="2034" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="4" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616828397961" />
+    <option name="lastTrimTime" value="1617266324976" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
