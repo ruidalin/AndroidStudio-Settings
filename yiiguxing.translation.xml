@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="steer" />
       <item value="previously" />
       <item value="format" />
       <item value="positional" />
@@ -54,7 +55,6 @@
       <item value="daemon" />
       <item value="configureondemand" />
       <item value="OFFICE" />
-      <item value="TEST" />
     </histories>
     <option name="languageScores">
       <map>
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617266324976" />
+    <option name="lastTrimTime" value="1617698884376" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
