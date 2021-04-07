@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="gamepad" />
+      <item value="ad" />
       <item value="Immersive" />
       <item value="inject" />
       <item value="register Ble Receiver" />
@@ -53,13 +55,11 @@
       <item value="on Person Number Change" />
       <item value="on Astern Status Changed" />
       <item value="on Power Consumption Changed" />
-      <item value="on Single Mileage Changed" />
-      <item value="on Autopilot Status Changed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2057" />
-        <entry key="ENGLISH" value="2058" />
+        <entry key="CHINESE" value="2058" />
+        <entry key="ENGLISH" value="2059" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="4" />
@@ -76,7 +76,7 @@
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="3" />
-        <entry key="ITALIAN" value="2" />
+        <entry key="ITALIAN" value="3" />
         <entry key="HINDI" value="4" />
         <entry key="INDONESIAN" value="3" />
         <entry key="VIETNAMESE" value="4" />
