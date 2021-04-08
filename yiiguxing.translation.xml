@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="layout constraint Dimension Ratio" />
       <item value="text None Record View" />
       <item value="datum" />
       <item value="gamepad" />
@@ -54,7 +55,6 @@
       <item value="on Button Mode Changed" />
       <item value="on Day Night Mode Changed" />
       <item value="on Radio Staus Change" />
-      <item value="on Music Info Change" />
     </histories>
     <option name="languageScores">
       <map>
