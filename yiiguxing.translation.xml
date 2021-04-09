@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="你确定要卸载此应用吗" />
+      <item value="Key code constant: Directional Pad Up key. May also be synthesized from trackball motions." />
       <item value="Allows the loaded resource to skip the memory cache." />
       <item value="layout constraint Dimension Ratio" />
       <item value="text None Record View" />
@@ -53,13 +55,11 @@
       <item value="Steering" />
       <item value="on Game Handle Status Changed" />
       <item value="on Gear Mode Changed" />
-      <item value="on Button Mode Changed" />
-      <item value="on Day Night Mode Changed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2061" />
-        <entry key="ENGLISH" value="2062" />
+        <entry key="CHINESE" value="2063" />
+        <entry key="ENGLISH" value="2063" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
