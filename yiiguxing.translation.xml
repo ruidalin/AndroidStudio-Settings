@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the same Intent object, for chaining multiple calls into a single statement." />
+      <item value="The name of a class inside of the application package that will be used as the component for this Intent." />
       <item value="START STICKY COMPATIBILITY" />
       <item value="steerwheel" />
       <item value="wheel" />
@@ -53,13 +55,11 @@
       <item value="get Music Info" />
       <item value="get Day Night Mode" />
       <item value="get Astern Status" />
-      <item value="get Person Number" />
-      <item value="get Speed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2070" />
-        <entry key="ENGLISH" value="2071" />
+        <entry key="CHINESE" value="2072" />
+        <entry key="ENGLISH" value="2073" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
