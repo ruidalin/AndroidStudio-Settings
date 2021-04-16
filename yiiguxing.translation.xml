@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Roadbook Setmeal Activity" />
+      <item value="套餐" />
+      <item value="taoca" />
       <item value="freed" />
       <item value="on Load Cleared" />
       <item value="get Intrinsic Height" />
@@ -52,14 +55,11 @@
       <item value="text None Record View" />
       <item value="datum" />
       <item value="gamepad" />
-      <item value="Game Pad" />
-      <item value="ad" />
-      <item value="Immersive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2101" />
-        <entry key="ENGLISH" value="2102" />
+        <entry key="CHINESE" value="2102" />
+        <entry key="ENGLISH" value="2103" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
