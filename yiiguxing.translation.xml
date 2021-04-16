@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Intrinsic Height" />
+      <item value="get Minimum Width" />
       <item value="uninstall Silent" />
       <item value="STATUS FAILURE" />
       <item value="Priority" />
@@ -53,13 +55,11 @@
       <item value="Immersive" />
       <item value="inject" />
       <item value="register Ble Receiver" />
-      <item value="previously" />
-      <item value="format" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2097" />
-        <entry key="ENGLISH" value="2098" />
+        <entry key="CHINESE" value="2099" />
+        <entry key="ENGLISH" value="2100" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
