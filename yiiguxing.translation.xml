@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Dim Amount" />
+      <item value="amount" />
       <item value="loc province" />
       <item value="INSTALL PARSE FAILED INCONSISTENT CERTIFICATES" />
       <item value="on Brake Changed" />
@@ -53,13 +55,11 @@
       <item value="add journey" />
       <item value="Register for a single location update using the named provider and a callback." />
       <item value="request Single Update" />
-      <item value="undo" />
-      <item value="dimension" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2140" />
-        <entry key="ENGLISH" value="2140" />
+        <entry key="CHINESE" value="2141" />
+        <entry key="ENGLISH" value="2142" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
