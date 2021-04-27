@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Called when a connection to the Service has been lost. This typically happens when the process hosting the service has crashed or been killed. This does &lt;em&gt;not&lt;em&gt; remove the ServiceConnection itself -- this binding to the service will remain active, and you will receive a call to {@link onServiceConnected} when the Service is next running." />
       <item value="Disconnect from an application service. You will no longer receive calls as the service is restarted, and the service is now allowed to stop at any time." />
       <item value="This parameter must not be null." />
       <item value="&lt;p class=&quot;note&quot;&gt;The app which requested the binding must still call {@link ContextunbindService(ServiceConnection)} to release the tracking resources associated with this ServiceConnection even if this callback was invoked following {@link ContextbindService Context.bindService() bindService()}." />
@@ -54,12 +55,11 @@
       <item value="START CONTINUATION MASK" />
       <item value="START STICKY COMPATIBILITY" />
       <item value="Roadbook Setmeal Activity" />
-      <item value="taoca" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2154" />
-        <entry key="ENGLISH" value="2155" />
+        <entry key="CHINESE" value="2155" />
+        <entry key="ENGLISH" value="2156" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
