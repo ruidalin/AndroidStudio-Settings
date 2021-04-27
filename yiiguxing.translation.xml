@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="INSTALL PARSE FAILED INCONSISTENT CERTIFICATES" />
       <item value="on Brake Changed" />
       <item value="on Gear Mode Changed" />
       <item value="on Astern Status Changed" />
@@ -54,12 +55,11 @@
       <item value="undo" />
       <item value="dimension" />
       <item value="resolve Size And State" />
-      <item value="combine Measured States" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2138" />
-        <entry key="ENGLISH" value="2139" />
+        <entry key="CHINESE" value="2139" />
+        <entry key="ENGLISH" value="2140" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
