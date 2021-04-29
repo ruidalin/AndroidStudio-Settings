@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="holo" />
+      <item value="holo&#10;" />
       <item value="indeterminate" />
       <item value="Restricts to ONLY indeterminate mode (state-keeping progress mode will not work). --&gt;" />
       <item value="Chronometer" />
@@ -53,8 +55,6 @@
       <item value="productivity" />
       <item value="Setmeal" />
       <item value="text Count Inc View" />
-      <item value="出行日期" />
-      <item value="Constant to return from {@link onStartCommand}: if this service's process is killed while it is started (after returning from {@link onStartCommand}), then leave it in the started state but don't retain this delivered intent. Later the system will try to re-create the service. Because it is in the started state, it will guarantee to call {@link onStartCommand} after creating the new service instance; if there are not any pending start commands to be delivered to the service, it will be called with a null intent object, so you must take care to check for this. &lt;p&gt;This mode makes sense for things that will be explicitly started and stopped to run for arbitrary periods of time, such as a service performing background music playback." />
     </histories>
     <option name="languageScores">
       <map>
