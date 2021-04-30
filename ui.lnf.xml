@@ -5,6 +5,7 @@
     <option name="EDITOR_TAB_LIMIT" value="100" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="8" />
     <option name="MAX_LOOKUP_WIDTH2" value="572" />
+    <option name="MERGE_EQUAL_STACKTRACES" value="false" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="14" />
     <option name="RECENT_FILES_LIMIT" value="100" />
