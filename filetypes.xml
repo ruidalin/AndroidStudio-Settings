@@ -13,6 +13,7 @@
       <mapping pattern="granted" type="PLAIN_TEXT" />
       <mapping pattern="X5Cookies" type="PLAIN_TEXT" />
       <mapping pattern="CleanData" type="PLAIN_TEXT" />
+      <mapping pattern="anr_2021-04-30-12-11-59-380" type="PLAIN_TEXT" />
       <mapping ext="http" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
