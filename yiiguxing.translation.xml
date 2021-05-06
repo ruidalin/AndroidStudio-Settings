@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Alive Process" />
       <item value="uninstall Apk" />
       <item value="PROCESS GAMEPAD" />
       <item value="Process Manager" />
@@ -54,7 +55,6 @@
       <item value="represented" />
       <item value="attempting" />
       <item value="indicates" />
-      <item value="The application will need to unbind and rebind the connection to activate it again." />
     </histories>
     <option name="languageScores">
       <map>
