@@ -2,8 +2,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/progress_horizontal_holo.xml" value="0.23603603603603604" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/shape_img_fail.xml" value="0.2791666666666667" />
-        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/activity_game_detail.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/activity_game_detail.xml" value="0.2552083333333333" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/fragment_game_introduction.xml" value="0.2552083333333333" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/item_commendation_item.xml" value="0.2552083333333333" />
       </map>
