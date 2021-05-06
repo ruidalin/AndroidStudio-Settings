@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="PROCESS GAMEPAD" />
       <item value="Process Manager" />
       <item value="restore Download Status" />
       <item value="Translucent" />
@@ -54,7 +55,6 @@
       <item value="indicates" />
       <item value="The application will need to unbind and rebind the connection to activate it again." />
       <item value="activate" />
-      <item value="Called when a connection to the Service has been lost. This typically happens when the process hosting the service has crashed or been killed. This does &lt;em&gt;not&lt;em&gt; remove the ServiceConnection itself -- this binding to the service will remain active, and you will receive a call to {@link onServiceConnected} when the Service is next running. @param name The concrete component name of the service whose connection has been lost." />
     </histories>
     <option name="languageScores">
       <map>
