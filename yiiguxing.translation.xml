@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Abandon audio focus. Causes the previous focus owner, if any, to receive focus." />
       <item value="temporary" />
       <item value="focus Gain" />
       <item value="is Alive Process" />
@@ -54,7 +55,6 @@
       <item value="&lt;p class=&quot;note&quot;&gt;The app which requested the binding must still call {@link ContextunbindService(ServiceConnection)} to release the tracking resources associated with this ServiceConnection even if this callback was invoked following {@link ContextbindService Context.bindService() bindService()}." />
       <item value="Called when the service being bound has returned {@code null} from its {@link android.app.ServiceonBind(Intent) onBind()} method. This indicates that the attempting service binding represented by this ServiceConnection will never become usable." />
       <item value="ll never become usable." />
-      <item value="represented" />
     </histories>
     <option name="languageScores">
       <map>
