@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="temporary" />
+      <item value="focus Gain" />
       <item value="is Alive Process" />
       <item value="uninstall Apk" />
       <item value="PROCESS GAMEPAD" />
@@ -53,8 +55,6 @@
       <item value="Called when the service being bound has returned {@code null} from its {@link android.app.ServiceonBind(Intent) onBind()} method. This indicates that the attempting service binding represented by this ServiceConnection will never become usable." />
       <item value="ll never become usable." />
       <item value="represented" />
-      <item value="attempting" />
-      <item value="indicates" />
     </histories>
     <option name="languageScores">
       <map>
