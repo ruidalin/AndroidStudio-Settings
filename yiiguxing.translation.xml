@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Gear Mode" />
       <item value="Sets the system-wide night mode." />
       <item value="privileged" />
       <item value="potentially" />
@@ -54,7 +55,6 @@
       <item value="ACTION CONFIRM INSTALL" />
       <item value="ACTION PREFIX" />
       <item value="EXTRA SUSPENDED PACKAGE EXTRAS" />
-      <item value="split" />
     </histories>
     <option name="languageScores">
       <map>
