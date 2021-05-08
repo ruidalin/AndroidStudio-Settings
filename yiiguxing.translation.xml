@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="PROTOCOL" />
+      <item value="DOMAIN NAME" />
+      <item value="HOST NAME" />
+      <item value="IRI LABEL" />
+      <item value="Valid UCS characters defined in RFC 3987. Excludes space characters." />
       <item value="Compares if this State is greater or equal to the given {@code state}." />
       <item value="Abandon audio focus. Causes the previous focus owner, if any, to receive focus." />
       <item value="temporary" />
@@ -50,11 +55,6 @@
       <item value="edges" />
       <item value="View Flipper" />
       <item value="transition" />
-      <item value="Called when a connection to the Service has been lost. This typically happens when the process hosting the service has crashed or been killed. This does &lt;em&gt;not&lt;em&gt; remove the ServiceConnection itself -- this binding to the service will remain active, and you will receive a call to {@link onServiceConnected} when the Service is next running." />
-      <item value="Disconnect from an application service. You will no longer receive calls as the service is restarted, and the service is now allowed to stop at any time." />
-      <item value="This parameter must not be null." />
-      <item value="&lt;p class=&quot;note&quot;&gt;The app which requested the binding must still call {@link ContextunbindService(ServiceConnection)} to release the tracking resources associated with this ServiceConnection even if this callback was invoked following {@link ContextbindService Context.bindService() bindService()}." />
-      <item value="Called when the service being bound has returned {@code null} from its {@link android.app.ServiceonBind(Intent) onBind()} method. This indicates that the attempting service binding represented by this ServiceConnection will never become usable." />
     </histories>
     <option name="languageScores">
       <map>
