@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sets the system-wide night mode." />
       <item value="privileged" />
       <item value="potentially" />
       <item value="and potentially an Activity lifecycle event)" />
@@ -54,7 +55,6 @@
       <item value="ACTION PREFIX" />
       <item value="EXTRA SUSPENDED PACKAGE EXTRAS" />
       <item value="split" />
-      <item value="book quotes" />
     </histories>
     <option name="languageScores">
       <map>
