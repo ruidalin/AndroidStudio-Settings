@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="privileged" />
+      <item value="potentially" />
+      <item value="and potentially an Activity lifecycle event)" />
+      <item value="persisted" />
+      <item value="previously" />
+      <item value=", changes to night mode are always effective." />
+      <item value="desk" />
+      <item value="only" />
+      <item value="effective" />
+      <item value="Constant" />
       <item value="PROTOCOL" />
       <item value="DOMAIN NAME" />
       <item value="HOST NAME" />
@@ -45,16 +55,6 @@
       <item value="EXTRA SUSPENDED PACKAGE EXTRAS" />
       <item value="split" />
       <item value="book quotes" />
-      <item value="book quote" />
-      <item value="holo" />
-      <item value="holo&#10;" />
-      <item value="indeterminate" />
-      <item value="Restricts to ONLY indeterminate mode (state-keeping progress mode will not work). --&gt;" />
-      <item value="Chronometer" />
-      <item value="This class performs the graphical effect used at the edges of scrollable widgets when the user scrolls beyond the content bounds in 2D space." />
-      <item value="edges" />
-      <item value="View Flipper" />
-      <item value="transition" />
     </histories>
     <option name="languageScores">
       <map>
