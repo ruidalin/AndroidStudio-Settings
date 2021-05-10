@@ -2,6 +2,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Data/XM-Projects/Project-GameCenter/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Data/XM-Projects/Project-GameCenter/app/src/main/res/layout/activity_main_fragment.xml" value="0.1" />
+        <entry key="..\:/Data/XM-Projects/Project-GameCenter/app/src/main/res/layout/item_avatar_edit.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/drawable/list_cover_frame.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_brand_roadbook.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_base.xml" value="0.1" />
