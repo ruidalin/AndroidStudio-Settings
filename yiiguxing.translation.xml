@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ill satisfies the stated need." />
+      <item value="capabilities" />
+      <item value="on Capabilities Changed" />
+      <item value="on Unavailable" />
       <item value="behaves" />
       <item value="identically" />
       <item value="satisfy" />
@@ -51,10 +55,6 @@
       <item value="PROCESS GAMEPAD" />
       <item value="Process Manager" />
       <item value="restore Download Status" />
-      <item value="Translucent" />
-      <item value="Where to deliver the result." />
-      <item value="the affiliated profile owner" />
-      <item value="the device owner" />
     </histories>
     <option name="languageScores">
       <map>
