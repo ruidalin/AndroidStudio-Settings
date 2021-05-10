@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Since Android L, this always returns {@code true}, because the system only returns info for available networks." />
+      <item value="airplane" />
+      <item value="radio" />
+      <item value="roaming" />
+      <item value="disabled" />
+      <item value="The device is on a network other than the home network" />
+      <item value="coverage" />
+      <item value="Always call this before attempting to perform data transactions." />
+      <item value="attempting" />
+      <item value="Indicates" />
       <item value="set Enable Switch" />
       <item value="safe drive" />
       <item value="key config safe drive" />
@@ -45,16 +55,6 @@
       <item value="on Badging Changed" />
       <item value="intervention" />
       <item value="installer" />
-      <item value="you may commit the session again." />
-      <item value="reboots" />
-      <item value="mutations" />
-      <item value="additional" />
-      <item value="sealed" />
-      <item value="Attempt to commit everything staged in this session. This may require user intervention, and so it may not happen immediately. The final result of the commit will be reported through the given callback." />
-      <item value="immediately" />
-      <item value="valid" />
-      <item value="abandon" />
-      <item value="Native" />
     </histories>
     <option name="languageScores">
       <map>
