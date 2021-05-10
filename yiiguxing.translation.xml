@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Net Work Change" />
       <item value="ill satisfies the stated need." />
       <item value="capabilities" />
       <item value="on Capabilities Changed" />
@@ -54,7 +55,6 @@
       <item value="uninstall Apk" />
       <item value="PROCESS GAMEPAD" />
       <item value="Process Manager" />
-      <item value="restore Download Status" />
     </histories>
     <option name="languageScores">
       <map>
