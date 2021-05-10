@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="behaves" />
+      <item value="identically" />
+      <item value="satisfy" />
+      <item value="until either" />
       <item value="Since Android L, this always returns {@code true}, because the system only returns info for available networks." />
       <item value="airplane" />
       <item value="radio" />
@@ -51,10 +55,6 @@
       <item value="Where to deliver the result." />
       <item value="the affiliated profile owner" />
       <item value="the device owner" />
-      <item value="the current &quot;installer of record&quot; for the package" />
-      <item value="on Badging Changed" />
-      <item value="intervention" />
-      <item value="installer" />
     </histories>
     <option name="languageScores">
       <map>
