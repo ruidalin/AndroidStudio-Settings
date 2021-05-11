@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Delegate" />
+      <item value="Sets the system-wide night mode." />
       <item value="transactions" />
       <item value="KEY MODE SIMULATE" />
       <item value="JOYSTICK" />
@@ -36,7 +38,6 @@
       <item value="EXTRA FROM PROCESS" />
       <item value="destroy" />
       <item value="get Gear Mode" />
-      <item value="Sets the system-wide night mode." />
       <item value="privileged" />
       <item value="potentially" />
       <item value="and potentially an Activity lifecycle event)" />
@@ -54,7 +55,6 @@
       <item value="Valid UCS characters defined in RFC 3987. Excludes space characters." />
       <item value="Compares if this State is greater or equal to the given {@code state}." />
       <item value="Abandon audio focus. Causes the previous focus owner, if any, to receive focus." />
-      <item value="temporary" />
     </histories>
     <option name="languageScores">
       <map>
