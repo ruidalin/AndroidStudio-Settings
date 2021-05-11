@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="transactions" />
       <item value="KEY MODE SIMULATE" />
       <item value="JOYSTICK" />
       <item value="S" />
@@ -54,7 +55,6 @@
       <item value="Compares if this State is greater or equal to the given {@code state}." />
       <item value="Abandon audio focus. Causes the previous focus owner, if any, to receive focus." />
       <item value="temporary" />
-      <item value="focus Gain" />
     </histories>
     <option name="languageScores">
       <map>
