@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="API for interacting with &quot;application operation&quot; tracking. &lt;p&gt;This API is not generally intended for third party application developers; most features are only available to system applications." />
+      <item value="App Ops Manager" />
       <item value="inactive" />
       <item value="Returns whether the specified app is currently considered inactive" />
       <item value="currently" />
@@ -53,8 +55,6 @@
       <item value="EXTRA FROM PROCESS" />
       <item value="destroy" />
       <item value="get Gear Mode" />
-      <item value="privileged" />
-      <item value="potentially" />
     </histories>
     <option name="languageScores">
       <map>
