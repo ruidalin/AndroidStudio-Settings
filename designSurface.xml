@@ -5,6 +5,7 @@
         <entry key="..\:/Data/XM-Projects/Project-GameCenter/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Data/XM-Projects/Project-GameCenter/app/src/main/res/layout/activity_main_fragment.xml" value="0.1" />
         <entry key="..\:/Data/XM-Projects/Project-GameCenter/app/src/main/res/layout/item_avatar_edit.xml" value="0.1" />
+        <entry key="..\:/XM-Projects-Demo/XMDemo/game/src/main/res/layout/activity_main.xml" value="0.24895833333333334" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/drawable/list_cover_frame.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_brand_roadbook.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_base.xml" value="0.1" />
@@ -47,6 +48,7 @@
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/item_promo_gift_receive_2.xml" value="0.2375" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/item_publicity_game_video_item.xml" value="0.2375" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/layout_search_game.xml" value="1.0" />
+        <entry key="..\:/game/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>
