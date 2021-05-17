@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Have the system immediately kill all background processes associated with the given package. This is the same as the kernel killing those processes to reclaim memory; the system will take care of restarting these processes in the future as needed." />
+      <item value="associated" />
+      <item value="immediately" />
       <item value="delta" />
       <item value="enqueue Lazy Load" />
       <item value="had" />
@@ -52,9 +55,6 @@
       <item value="The device is on a network other than the home network" />
       <item value="coverage" />
       <item value="Always call this before attempting to perform data transactions." />
-      <item value="attempting" />
-      <item value="Indicates" />
-      <item value="set Enable Switch" />
     </histories>
     <option name="languageScores">
       <map>
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620716298835" />
+    <option name="lastTrimTime" value="1621253483256" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
