@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ring" />
       <item value="on Gear Mode Changed" />
       <item value="on Brake Changed" />
       <item value="Have the system immediately kill all background processes associated with the given package. This is the same as the kernel killing those processes to reclaim memory; the system will take care of restarting these processes in the future as needed." />
@@ -54,7 +55,6 @@
       <item value="radio" />
       <item value="roaming" />
       <item value="disabled" />
-      <item value="The device is on a network other than the home network" />
     </histories>
     <option name="languageScores">
       <map>
