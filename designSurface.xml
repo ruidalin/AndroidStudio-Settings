@@ -6,14 +6,27 @@
         <entry key="..\:/Data/XM-Projects/Project-GameCenter/app/src/main/res/layout/activity_main_fragment.xml" value="0.1" />
         <entry key="..\:/Data/XM-Projects/Project-GameCenter/app/src/main/res/layout/item_avatar_edit.xml" value="0.1" />
         <entry key="..\:/XM-Projects-Demo/XMDemo/game/src/main/res/layout/activity_main.xml" value="0.24895833333333334" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/drawable/journey_item_boundary.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/drawable/list_cover_frame.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_about_content.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_album.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_base.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_base_tab.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_brand_roadbook.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_nearby_poi.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_abs_road_book.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_base.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_copyright_content.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_event_detail.xml" value="0.37677053824362605" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_event_message.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_journey_content.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_journey_list.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_personal.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_protocol_privacy.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_road_book_summary.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/item_album.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/item_nearby.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/my_journey_item.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/road_book_item_view.xml" value="0.1" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night/bg_edit_search.xml" value="0.2760416666666667" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night/selector_game_type_item.xml" value="0.2760416666666667" />
