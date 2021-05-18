@@ -30,11 +30,16 @@
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/item_nearby.xml" value="0.2846715328467153" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/my_journey_item.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/road_book_item_view.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night-nodpi/selector_dialog_btn_full_22.xml" value="0.24739583333333334" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night-nodpi/selector_dialog_btn_left_22.xml" value="0.24739583333333334" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night-nodpi/selector_dialog_btn_right_22.xml" value="0.24739583333333334" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night-nodpi/shape_dialog_bg_24.xml" value="0.24739583333333334" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night/bg_edit_search.xml" value="0.2760416666666667" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night/selector_game_type_item.xml" value="0.2760416666666667" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night/shape_game_search.xml" value="0.26145833333333335" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night/shape_img_fail.xml" value="0.24895833333333334" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night/shape_toast.xml" value="0.2760416666666667" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/bg_vertical_scrollbar.xml" value="0.24739583333333334" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/progress_horizontal_holo.xml" value="0.23603603603603604" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/selector_game_type_item.xml" value="0.2760416666666667" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/shape_image_placeholder.xml" value="0.1" />
@@ -49,7 +54,7 @@
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/dialog_confirm.xml" value="0.2375" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/dialog_full_play_video.xml" value="0.225" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/dialog_promo_buy.xml" value="0.24427083333333333" />
-        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/fragment_game_bulletin.xml" value="0.11979166666666667" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/fragment_game_bulletin.xml" value="1.1" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/fragment_game_introduction.xml" value="0.24427083333333333" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/item_avatar_edit.xml" value="0.19583333333333333" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/item_bulletin_item.xml" value="0.14895833333333333" />
