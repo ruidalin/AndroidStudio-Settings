@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Steer" />
+      <item value="Game Steer Service" />
       <item value="ring" />
       <item value="on Gear Mode Changed" />
       <item value="on Brake Changed" />
@@ -53,8 +55,6 @@
       <item value="Since Android L, this always returns {@code true}, because the system only returns info for available networks." />
       <item value="airplane" />
       <item value="radio" />
-      <item value="roaming" />
-      <item value="disabled" />
     </histories>
     <option name="languageScores">
       <map>
