@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Protected Permissions" />
       <item value="init Gamepad Process Handle" />
       <item value="Long monitor contention with owner main (" />
       <item value="Long monitor contention with" />
@@ -54,7 +55,6 @@
       <item value="on Unavailable" />
       <item value="behaves" />
       <item value="identically" />
-      <item value="satisfy" />
     </histories>
     <option name="languageScores">
       <map>
