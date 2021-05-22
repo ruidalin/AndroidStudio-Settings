@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="freed" />
+      <item value="previously" />
       <item value="explanation" />
       <item value="detailed" />
       <item value="KEYCODE BUTTON MODE" />
@@ -53,8 +55,6 @@
       <item value="S" />
       <item value="hall" />
       <item value="on Net Work Change" />
-      <item value="ill satisfies the stated need." />
-      <item value="capabilities" />
     </histories>
     <option name="languageScores">
       <map>
