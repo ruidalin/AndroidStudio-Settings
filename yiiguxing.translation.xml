@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set User Visible Hint" />
       <item value="refresh Expandable View" />
       <item value="Local implementation is a no-op." />
       <item value="m Is Attached" />
@@ -54,7 +55,6 @@
       <item value="translucent" />
       <item value="SIGTRAP" />
       <item value="signal" />
-      <item value="Fatal" />
     </histories>
     <option name="languageScores">
       <map>
