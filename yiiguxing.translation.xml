@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Local implementation is a no-op." />
       <item value="m Is Attached" />
       <item value="Predicate" />
       <item value="creating" />
@@ -54,7 +55,6 @@
       <item value="signal" />
       <item value="Fatal" />
       <item value="Timestamp" />
-      <item value="Delegate" />
     </histories>
     <option name="languageScores">
       <map>
