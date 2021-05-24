@@ -101,6 +101,9 @@
         <entry key="..\:/XM-Projects/project-topic/app/src/main/res/drawable/progressbar_loading.xml" value="0.1" />
         <entry key="..\:/XM-Projects/project-topic/app/src/main/res/layout/state_loading_view.xml" value="0.1" />
         <entry key="..\:/game/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/game/demoA/src/main/res/drawable/ic_launcher_background.xml" value="0.36770833333333336" />
+        <entry key="..\:/game/demoA/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/game/demoB/src/main/res/layout/activity_main.xml" value="0.1828125" />
       </map>
     </option>
   </component>
