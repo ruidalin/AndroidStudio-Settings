@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="frozen" />
       <item value="m View" />
       <item value="mis" />
       <item value="set User Visible Hint" />
@@ -54,7 +55,6 @@
       <item value="is Valid" />
       <item value="entire" />
       <item value="window Swipe To Dismiss" />
-      <item value="translucent" />
     </histories>
     <option name="languageScores">
       <map>
