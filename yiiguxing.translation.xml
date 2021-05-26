@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="retain" />
+      <item value="Control whether a fragment instance is retained across Activity re-creation (such as from a configuration change). If set, the fragment lifecycle will be slightly different when an activity is recreated:" />
       <item value="frozen" />
       <item value="m View" />
       <item value="mis" />
@@ -53,8 +55,6 @@
       <item value="color Image Place Holder" />
       <item value="set Bandwidth Meter" />
       <item value="is Valid" />
-      <item value="entire" />
-      <item value="window Swipe To Dismiss" />
     </histories>
     <option name="languageScores">
       <map>
