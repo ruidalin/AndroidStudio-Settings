@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="m View" />
       <item value="mis" />
       <item value="set User Visible Hint" />
       <item value="refresh Expandable View" />
@@ -54,7 +55,6 @@
       <item value="entire" />
       <item value="window Swipe To Dismiss" />
       <item value="translucent" />
-      <item value="SIGTRAP" />
     </histories>
     <option name="languageScores">
       <map>
