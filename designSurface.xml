@@ -20,8 +20,11 @@
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_order_confirm.xml" value="0.29461756373937675" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_roadbook_product_detail.xml" value="0.29461756373937675" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_roadbook_setmeal_opt.xml" value="0.29461756373937675" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_search.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/city_item_root.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/event_space_item_view.xml" value="0.2846715328467153" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_abs_road_book.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_activity_result.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_base.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_copyright_content.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_event_detail.xml" value="0.37677053824362605" />
@@ -30,6 +33,7 @@
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_journey_list.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_personal.xml" value="0.27007299270072993" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_protocol_privacy.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_road_book_result.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_road_book_summary.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/item_album.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/item_detail_journey.xml" value="0.2846715328467153" />
