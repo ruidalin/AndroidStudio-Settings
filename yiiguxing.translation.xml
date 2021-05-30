@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Ruilin" />
       <item value="m Text Enter Game View" />
       <item value="使用须知" />
       <item value="retain" />
@@ -54,7 +55,6 @@
       <item value="currently" />
       <item value="considered" />
       <item value="color Image Placeholder" />
-      <item value="color Image Place Holder" />
     </histories>
     <option name="languageScores">
       <map>
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621753167817" />
+    <option name="lastTrimTime" value="1622346689361" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
