@@ -61,6 +61,7 @@
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night/shape_underline_4.xml" value="0.30520833333333336" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/bg_vertical_scrollbar.xml" value="0.30520833333333336" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/progress_horizontal_holo.xml" value="0.23603603603603604" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/selector_btn_2.xml" value="0.26927083333333335" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/selector_btn_cancel.xml" value="0.24739583333333334" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/selector_btn_confirm.xml" value="0.24739583333333334" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/selector_game_type_item.xml" value="0.2760416666666667" />
@@ -109,6 +110,7 @@
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/item_promo_gift_receive_2.xml" value="0.28125" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/item_promo_gift_receive_2_item.xml" value="0.40358744394618834" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/item_publicity_game_video_item.xml" value="0.28125" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/layout_net_retry.xml" value="1.1" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/layout_publicity_gift_code.xml" value="0.26875" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/layout_search_game.xml" value="0.67" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/toast_msg.xml" value="0.2578125" />
