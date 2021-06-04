@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Audi Tag" />
+      <item value="is Audio Tag" />
+      <item value="Destination" />
       <item value="Ruilin" />
       <item value="m Text Enter Game View" />
       <item value="使用须知" />
@@ -52,9 +55,6 @@
       <item value="App Ops Manager" />
       <item value="inactive" />
       <item value="Returns whether the specified app is currently considered inactive" />
-      <item value="currently" />
-      <item value="considered" />
-      <item value="color Image Placeholder" />
     </histories>
     <option name="languageScores">
       <map>
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622346689361" />
+    <option name="lastTrimTime" value="1622802341218" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
