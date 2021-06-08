@@ -22,6 +22,7 @@
       <mapping ext="7z" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="crc" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
     </extensionMap>
   </component>
