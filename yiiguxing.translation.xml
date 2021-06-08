@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="suppress" />
       <item value="Dispatch took" />
       <item value="Dispatch" />
       <item value="took" />
@@ -54,7 +55,6 @@
       <item value="had Lazy Loaded" />
       <item value="poll" />
       <item value="offer" />
-      <item value="API for interacting with &quot;application operation&quot; tracking. &lt;p&gt;This API is not generally intended for third party application developers; most features are only available to system applications." />
     </histories>
     <option name="languageScores">
       <map>
