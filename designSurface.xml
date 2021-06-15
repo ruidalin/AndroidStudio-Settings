@@ -66,15 +66,31 @@
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night/shape_toast.xml" value="0.2760416666666667" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night/shape_underline_4.xml" value="0.30520833333333336" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/bg_vertical_scrollbar.xml" value="0.30520833333333336" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/layer_anim_loading.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/layer_progress_star_24x24.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/layer_progress_star_64x64.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/layer_progress_update.xml" value="0.1" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/progress_horizontal_holo.xml" value="0.23603603603603604" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/selector_arrow_left.xml" value="0.1" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/selector_btn_2.xml" value="0.26927083333333335" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/selector_btn_cancel.xml" value="0.24739583333333334" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/selector_btn_comfirm_or_cancel.xml" value="0.1" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/selector_btn_confirm.xml" value="0.24739583333333334" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/selector_btn_confirm_1.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/selector_btn_i_rating.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/selector_cb_1.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/selector_cb_2.xml" value="0.1" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/selector_game_type_item.xml" value="0.2760416666666667" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/shape_corners_10.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/shape_corners_d9dadc.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/shape_corners_red.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/shape_edit_user_name.xml" value="0.1" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/shape_game_search.xml" value="0.28177083333333336" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/shape_image_placeholder.xml" value="0.30520833333333336" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/shape_img_fail.xml" value="0.36770833333333336" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/shape_selected_1.xml" value="0.30520833333333336" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/shape_toast.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/shape_underline.xml" value="0.1" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable/shape_underline_4.xml" value="0.30520833333333336" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/activity_game_detail.xml" value="0.2546875" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/layout/activity_main.xml" value="0.67" />
