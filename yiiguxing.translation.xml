@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="topic" />
       <item value="Corrected" />
       <item value="Activity Code" />
       <item value="Secret order" />
@@ -54,7 +55,6 @@
       <item value="init Gamepad Process Handle" />
       <item value="Long monitor contention with owner main (" />
       <item value="Long monitor contention with" />
-      <item value="if Switch Login" />
     </histories>
     <option name="languageScores">
       <map>
