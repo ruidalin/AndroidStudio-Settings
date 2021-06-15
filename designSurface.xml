@@ -53,6 +53,8 @@
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night-nodpi/shape_dialog_bg_24.xml" value="0.24739583333333334" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night/bg_edit_search.xml" value="1.0" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night/btn_game_type_check.xml" value="0.24739583333333334" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night/layer_anim_loading.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night/layer_progress_star_24x24.xml" value="0.2140625" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night/selector_btn_cancel.xml" value="0.24739583333333334" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night/selector_btn_confirm.xml" value="0.24739583333333334" />
         <entry key="..\:/XM-Projects/Project-GameCenter/app/src/main/res/drawable-night/selector_btn_confirm_1.xml" value="0.30520833333333336" />
