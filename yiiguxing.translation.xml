@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="adapt" />
+      <item value="adapt Position" />
       <item value="topic" />
       <item value="Corrected" />
       <item value="Activity Code" />
@@ -53,8 +55,6 @@
       <item value="KEYCODE GREET" />
       <item value="Protected Permissions" />
       <item value="init Gamepad Process Handle" />
-      <item value="Long monitor contention with owner main (" />
-      <item value="Long monitor contention with" />
     </histories>
     <option name="languageScores">
       <map>
