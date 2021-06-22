@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Built In" />
+      <item value="Built" />
+      <item value="set Built In Zoom Controls" />
+      <item value="automatically" />
+      <item value="managed" />
+      <item value="quota" />
       <item value="concrete" />
       <item value="set Block Network Image" />
       <item value="set Need Initial Focus" />
@@ -49,12 +55,6 @@
       <item value="creating" />
       <item value="&lt;!-- Describes the content of a view so that a autofill service can fill in the appropriate data. Multiple hints can be combined in a comma separated list or an array of strings to mean e.g. emailAddress or postalAddress. --&gt;" />
       <item value="&lt;!-- If set, the text view will include its current complete text inside of its frozen icicle in addition to meta-data such as the current cursor position. By default this is disabled; it can be useful when the contents of a text view is not stored in a persistent place such as a content provider. For {@link android.widget.EditText} it is always enabled, regardless of the value of the attribute. --&gt;" />
-      <item value="return an iterator with additions." />
-      <item value="iterator With Additions" />
-      <item value="freed" />
-      <item value="previously" />
-      <item value="explanation" />
-      <item value="detailed" />
     </histories>
     <option name="languageScores">
       <map>
