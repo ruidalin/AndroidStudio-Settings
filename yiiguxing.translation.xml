@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="if User Info Same" />
       <item value="Avatar Fragment" />
       <item value="Group Photo Fragment" />
       <item value="alt Src" />
@@ -54,7 +55,6 @@
       <item value="retain" />
       <item value="Control whether a fragment instance is retained across Activity re-creation (such as from a configuration change). If set, the fragment lifecycle will be slightly different when an activity is recreated:" />
       <item value="frozen" />
-      <item value="m View" />
     </histories>
     <option name="languageScores">
       <map>
