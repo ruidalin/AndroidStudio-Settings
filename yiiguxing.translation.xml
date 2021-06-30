@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="无效" />
+      <item value="w" />
+      <item value="xu" />
+      <item value="下" />
+      <item value="下架" />
+      <item value="下架&#10;" />
+      <item value="xiajia" />
       <item value="forbid Game" />
       <item value="if User Info Same" />
       <item value="Avatar Fragment" />
@@ -48,13 +55,6 @@
       <item value="Dispatch" />
       <item value="took" />
       <item value="is Audi Tag" />
-      <item value="is Audio Tag" />
-      <item value="Destination" />
-      <item value="Ruilin" />
-      <item value="m Text Enter Game View" />
-      <item value="使用须知" />
-      <item value="retain" />
-      <item value="Control whether a fragment instance is retained across Activity re-creation (such as from a configuration change). If set, the fragment lifecycle will be slightly different when an activity is recreated:" />
     </histories>
     <option name="languageScores">
       <map>
