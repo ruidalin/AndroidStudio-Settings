@@ -31,7 +31,7 @@
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_nearby_poi.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_order_confirm.xml" value="0.29461756373937675" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_roadbook_product_detail.xml" value="0.29461756373937675" />
-        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_roadbook_setmeal_opt.xml" value="0.33" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_roadbook_setmeal_opt.xml" value="0.67" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_search.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/city_item_root.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/event_detail_optional_view.xml" value="0.19475920679886685" />
@@ -51,6 +51,7 @@
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_road_book_result.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_road_book_summary.xml" value="0.24787535410764872" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/item_album.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/item_combo_detail.xml" value="0.24504249291784702" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/item_detail_journey.xml" value="0.2846715328467153" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/item_nearby.xml" value="0.2846715328467153" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/my_journey_item.xml" value="0.1" />
