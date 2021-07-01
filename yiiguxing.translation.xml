@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="spinners" />
+      <item value="spinners Shown" />
       <item value="legacy Layout" />
       <item value="无效" />
       <item value="w" />
@@ -53,8 +55,6 @@
       <item value="start Safe Drive" />
       <item value="suppress" />
       <item value="Dispatch took" />
-      <item value="Dispatch" />
-      <item value="took" />
     </histories>
     <option name="languageScores">
       <map>
