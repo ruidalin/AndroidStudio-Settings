@@ -27,6 +27,7 @@
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_base_tab.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_brand_roadbook.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_contact.xml" value="0.29461756373937675" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_date_pick.xml" value="0.25" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_help_protocol.xml" value="0.24787535410764872" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_journeys_map.xml" value="1.0" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_nearby_poi.xml" value="0.1" />
@@ -35,6 +36,7 @@
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_roadbook_setmeal_opt.xml" value="0.40658049353701525" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/activity_search.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/city_item_root.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/date_picker_legacy.xml" value="0.25" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/event_detail_optional_view.xml" value="0.19475920679886685" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/event_space_item_view.xml" value="0.2846715328467153" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_abs_event.xml" value="0.1" />
@@ -44,6 +46,7 @@
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_copyright_content.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_event_detail.xml" value="0.37677053824362605" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_event_message.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_history.xml" value="0.24504249291784702" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_journey_content.xml" value="0.3130311614730878" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_journey_list.xml" value="0.1" />
         <entry key="..\:/XM-Projects/AudiRoadBook/app/src/main/res/layout/fragment_my_order.xml" value="0.24787535410764872" />
@@ -160,6 +163,7 @@
         <entry key="..\:/XM-Projects/project-topic/app/src/main/res/layout/search_state_view.xml" value="0.34717948717948716" />
         <entry key="..\:/XM-Projects/project-topic/app/src/main/res/layout/state_loading_view.xml" value="0.34717948717948716" />
         <entry key="..\:/XM-Projects/project-topic/app/src/main/res/layout/state_view.xml" value="0.34717948717948716" />
+        <entry key="..\:/android-sdk-windows/platforms/android-28/data/res/layout/date_picker_legacy.xml" value="0.24504249291784702" />
         <entry key="..\:/android-sdk-windows/platforms/android-29/data/res/layout/simple_list_item_1.xml" value="0.2640625" />
         <entry key="..\:/game/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/game/demoA/src/main/res/drawable/ic_launcher_background.xml" value="0.36770833333333336" />
