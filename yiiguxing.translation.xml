@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="down Service Bundle" />
       <item value="次数&#10;" />
       <item value="cishu" />
       <item value="联系人&#10;" />
@@ -54,7 +55,6 @@
       <item value="capita" />
       <item value="Hotels nearby" />
       <item value="Surroundings" />
-      <item value="Bias" />
     </histories>
     <option name="languageScores">
       <map>
