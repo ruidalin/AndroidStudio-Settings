@@ -16,12 +16,12 @@
       <map>
         <entry key="Groovy" value="true" />
         <entry key="HTML" value="true" />
-        <entry key="JAVA" value="false" />
+        <entry key="JAVA" value="true" />
         <entry key="JSON" value="true" />
         <entry key="ObjectiveC" value="true" />
         <entry key="XHTML" value="true" />
         <entry key="XML" value="true" />
-        <entry key="kotlin" value="false" />
+        <entry key="kotlin" value="true" />
         <entry key="yaml" value="true" />
       </map>
     </option>
@@ -37,6 +37,11 @@
         <option value="JAVA.chain.hints" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="annotation.hints" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseConstructorGenericParameters" value="false" />
+    <option name="collapseLambdas" value="false" />
+    <option name="collapseOneLineMethods" value="false" />
   </component>
 </application>

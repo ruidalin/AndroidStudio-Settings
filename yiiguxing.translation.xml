@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fold" />
+      <item value="flo" />
       <item value="beard Index" />
       <item value="down Service Bundle" />
       <item value="次数&#10;" />
@@ -53,8 +55,6 @@
       <item value="introduction" />
       <item value="Captain" />
       <item value="Expenses" />
-      <item value="capita" />
-      <item value="Hotels nearby" />
     </histories>
     <option name="languageScores">
       <map>
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624949355705" />
+    <option name="lastTrimTime" value="1625459196126" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
