@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Surface" />
       <item value="半身" />
       <item value="半身&#10;" />
       <item value="ban" />
@@ -54,7 +55,6 @@
       <item value="adapt" />
       <item value="adapt Position" />
       <item value="topic" />
-      <item value="Corrected" />
     </histories>
     <option name="languageScores">
       <map>
