@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="半身" />
+      <item value="半身&#10;" />
+      <item value="ban" />
+      <item value="校验" />
+      <item value="jiaoyan" />
       <item value="fold" />
       <item value="flo" />
       <item value="beard Index" />
@@ -50,11 +55,6 @@
       <item value="adapt Position" />
       <item value="topic" />
       <item value="Corrected" />
-      <item value="Activity Code" />
-      <item value="Secret order" />
-      <item value="introduction" />
-      <item value="Captain" />
-      <item value="Expenses" />
     </histories>
     <option name="languageScores">
       <map>
