@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Download Serial Queue" />
       <item value="SNAPSHOT" />
       <item value="get External Storage Public Directory" />
       <item value="fu Set Output Resolution" />
@@ -54,7 +55,6 @@
       <item value="quota" />
       <item value="concrete" />
       <item value="set Block Network Image" />
-      <item value="set Need Initial Focus" />
     </histories>
     <option name="languageScores">
       <map>
