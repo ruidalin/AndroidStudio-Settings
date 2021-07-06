@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Clothes File" />
+      <item value="get Eyelash File" />
+      <item value="get Eyebrow File" />
+      <item value="on Single Tap Up" />
       <item value="gl Scissor" />
       <item value="Scissor" />
       <item value="STATE VPA view destroy" />
@@ -51,10 +55,6 @@
       <item value="brightness" />
       <item value="saturation" />
       <item value="Built In" />
-      <item value="Built" />
-      <item value="set Built In Zoom Controls" />
-      <item value="automatically" />
-      <item value="managed" />
     </histories>
     <option name="languageScores">
       <map>
