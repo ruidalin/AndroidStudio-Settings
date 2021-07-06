@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get External Storage Public Directory" />
       <item value="fu Set Output Resolution" />
       <item value="request Render" />
       <item value="Surface" />
@@ -54,7 +55,6 @@
       <item value="set Block Network Image" />
       <item value="set Need Initial Focus" />
       <item value="Display" />
-      <item value="adapt" />
     </histories>
     <option name="languageScores">
       <map>
