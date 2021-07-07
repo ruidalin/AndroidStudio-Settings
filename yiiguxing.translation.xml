@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="mutex" />
       <item value="Must be manually synched by user!" />
       <item value="set Scale Delta" />
       <item value="get Clothes File" />
@@ -54,7 +55,6 @@
       <item value="crossfade" />
       <item value="contrast" />
       <item value="warmth" />
-      <item value="brightness" />
     </histories>
     <option name="languageScores">
       <map>
