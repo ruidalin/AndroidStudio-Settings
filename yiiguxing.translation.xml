@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="@return Return true if you would like to have the service's {@link onRebind} method later called when new clients bind to it." />
       <item value="Determine the best service to handle for a given Intent." />
       <item value="resolve" />
       <item value="resolve Service" />
@@ -54,7 +55,6 @@
       <item value="xu" />
       <item value="下" />
       <item value="下架" />
-      <item value="下架&#10;" />
     </histories>
     <option name="languageScores">
       <map>
