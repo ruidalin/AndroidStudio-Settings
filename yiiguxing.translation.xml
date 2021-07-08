@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Method Invoke Stack" />
       <item value="mutex" />
       <item value="Must be manually synched by user!" />
       <item value="set Scale Delta" />
@@ -54,7 +55,6 @@
       <item value="overlay" />
       <item value="crossfade" />
       <item value="contrast" />
-      <item value="warmth" />
     </histories>
     <option name="languageScores">
       <map>
