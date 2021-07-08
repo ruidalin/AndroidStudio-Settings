@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Determine the best service to handle for a given Intent." />
+      <item value="resolve" />
+      <item value="resolve Service" />
       <item value="GET SHARED LIBRARY FILES" />
       <item value="GET RESOLVED FILTER" />
       <item value="FLAG FROM BACKGROUND" />
@@ -52,9 +55,6 @@
       <item value="下" />
       <item value="下架" />
       <item value="下架&#10;" />
-      <item value="xiajia" />
-      <item value="forbid Game" />
-      <item value="if User Info Same" />
     </histories>
     <option name="languageScores">
       <map>
