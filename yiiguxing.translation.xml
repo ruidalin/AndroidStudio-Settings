@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ensure Each" />
+      <item value="ensure" />
       <item value="should Show Request Permission Rationale" />
       <item value="Combined" />
       <item value="request Each Combined" />
@@ -53,8 +55,6 @@
       <item value="icon constact" />
       <item value="_" />
       <item value="spinners" />
-      <item value="spinners Shown" />
-      <item value="legacy Layout" />
     </histories>
     <option name="languageScores">
       <map>
