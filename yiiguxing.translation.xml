@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="should Show Request Permission Rationale" />
+      <item value="Combined" />
+      <item value="request Each Combined" />
       <item value="rationale" />
       <item value="Check to see if the object still exists." />
       <item value="@return Return true if you would like to have the service's {@link onRebind} method later called when new clients bind to it." />
@@ -52,9 +55,6 @@
       <item value="spinners" />
       <item value="spinners Shown" />
       <item value="legacy Layout" />
-      <item value="无效" />
-      <item value="w" />
-      <item value="xu" />
     </histories>
     <option name="languageScores">
       <map>
