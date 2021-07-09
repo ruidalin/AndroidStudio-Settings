@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="dlt" type="Native" />
       <mapping ext="game" type="Native" />
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
       <mapping pattern="anr_2021-04-30-12-29-15-925" type="PLAIN_TEXT" />
