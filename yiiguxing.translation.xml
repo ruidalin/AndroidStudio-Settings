@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="delete avatar line" />
       <item value="prepare And Launcher" />
       <item value="prepare And Launch" />
       <item value="Result Data" />
@@ -54,7 +55,6 @@
       <item value="半身" />
       <item value="半身&#10;" />
       <item value="ban" />
-      <item value="校验" />
     </histories>
     <option name="languageScores">
       <map>
