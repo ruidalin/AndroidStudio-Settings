@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="portrait" />
       <item value="set Neutral Button" />
       <item value="set Negative Button" />
       <item value="set Positive Button" />
@@ -54,7 +55,6 @@
       <item value="get External Storage Public Directory" />
       <item value="fu Set Output Resolution" />
       <item value="request Render" />
-      <item value="Surface" />
     </histories>
     <option name="languageScores">
       <map>
