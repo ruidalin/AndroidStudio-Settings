@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Back Pressed" />
       <item value="Identity Holder" />
       <item value="remain" />
       <item value="guarantees" />
@@ -54,7 +55,6 @@
       <item value="get Eyebrow File" />
       <item value="on Single Tap Up" />
       <item value="gl Scissor" />
-      <item value="Scissor" />
     </histories>
     <option name="languageScores">
       <map>
