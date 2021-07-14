@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="CAMERA FACING BACK" />
       <item value="landmarks" />
       <item value="clear Expression" />
       <item value="controller Item" />
@@ -54,7 +55,6 @@
       <item value="Must be manually synched by user!" />
       <item value="set Scale Delta" />
       <item value="get Clothes File" />
-      <item value="get Eyelash File" />
     </histories>
     <option name="languageScores">
       <map>
