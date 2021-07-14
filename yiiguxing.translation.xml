@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Landmarks Data" />
+      <item value="set Face Capture" />
       <item value="Count Down Latch" />
       <item value="CAMERA FACING BACK" />
       <item value="landmarks" />
@@ -53,8 +55,6 @@
       <item value="FLAG IGNORE EPHEMERAL" />
       <item value="Method Invoke Stack" />
       <item value="mutex" />
-      <item value="Must be manually synched by user!" />
-      <item value="set Scale Delta" />
     </histories>
     <option name="languageScores">
       <map>
