@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Count Down Latch" />
       <item value="CAMERA FACING BACK" />
       <item value="landmarks" />
       <item value="clear Expression" />
@@ -54,7 +55,6 @@
       <item value="mutex" />
       <item value="Must be manually synched by user!" />
       <item value="set Scale Delta" />
-      <item value="get Clothes File" />
     </histories>
     <option name="languageScores">
       <map>
