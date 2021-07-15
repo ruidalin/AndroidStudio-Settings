@@ -5,10 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Launches a new coroutine without blocking the current thread and returns a reference to the coroutine as a [Job]. The coroutine is cancelled when the resulting job is [cancelled][Job.cancel]." />
       <item value="剩" />
       <item value="剩余&#10;" />
       <item value="sheng" />
-      <item value="Launches a new coroutine without blocking the current thread and returns a reference to the coroutine as a [Job]. The coroutine is cancelled when the resulting job is [cancelled][Job.cancel]." />
       <item value="fetch User Figure" />
       <item value="start Figure Activity" />
       <item value="start Vap Empty Activity" />
