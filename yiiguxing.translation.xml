@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Negative Button" />
       <item value="translatable" />
       <item value="序号&#10;" />
       <item value="序号" />
@@ -33,7 +34,6 @@
       <item value="KEY map config json" />
       <item value="portrait" />
       <item value="set Neutral Button" />
-      <item value="set Negative Button" />
       <item value="set Positive Button" />
       <item value="delete avatar line" />
       <item value="prepare And Launcher" />
