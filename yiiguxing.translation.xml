@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Cancel" />
       <item value="set Negative Button" />
       <item value="translatable" />
       <item value="序号&#10;" />
@@ -54,7 +55,6 @@
       <item value="Combined" />
       <item value="request Each Combined" />
       <item value="rationale" />
-      <item value="Check to see if the object still exists." />
     </histories>
     <option name="languageScores">
       <map>
