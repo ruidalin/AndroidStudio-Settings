@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="translatable" />
       <item value="序号&#10;" />
       <item value="序号" />
       <item value="xu" />
@@ -54,7 +55,6 @@
       <item value="request Each Combined" />
       <item value="rationale" />
       <item value="Check to see if the object still exists." />
-      <item value="@return Return true if you would like to have the service's {@link onRebind} method later called when new clients bind to it." />
     </histories>
     <option name="languageScores">
       <map>
