@@ -180,7 +180,7 @@
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/drawable/main_item_select.xml" value="0.1" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/drawable/shape_audio_press.xml" value="0.1" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/drawable/shape_cicle_blue.xml" value="0.1" />
-        <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/drawable/shape_corner_4.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/drawable/shape_corner_4.xml" value="0.36205128205128206" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/drawable/shape_divider_1.xml" value="0.36205128205128206" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/drawable/shape_make_up_white.xml" value="0.1" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/drawable/sl_redo_right.xml" value="0.1" />
@@ -214,7 +214,7 @@
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/item_figure.xml" value="0.1" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/layout_loading_popup.xml" value="0.25833333333333336" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/layout_normal_dialog.xml" value="0.1" />
-        <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/layout_normal_dialog_2.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/layout_normal_dialog_2.xml" value="0.33055555555555555" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/layout_protocol_agree.xml" value="0.33055555555555555" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/layout_take_photo_popup.xml" value="0.3388888888888889" />
         <entry key="..\:/XM-Projects/project-chang-an-vpa/app/src/main/res/layout/act_floating.xml" value="0.19322916666666667" />
