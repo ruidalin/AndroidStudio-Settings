@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Track" />
+      <item value="&lt;!-- Inside the padding and inset. --&gt;" />
+      <item value="&lt;!-- Inside the padding and overlaid. --&gt;" />
+      <item value="outside Inset" />
+      <item value="outside Overlay" />
       <item value="tv Action Option" />
       <item value="ripple" />
       <item value="Option" />
@@ -50,11 +55,6 @@
       <item value="percent Decode" />
       <item value="executed" />
       <item value="send Vpato Car" />
-      <item value="URL Gateway" />
-      <item value="actual" />
-      <item value="on Never Ask" />
-      <item value="ensure Each" />
-      <item value="ensure" />
     </histories>
     <option name="languageScores">
       <map>
