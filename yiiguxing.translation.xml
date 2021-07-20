@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Unconfined" />
       <item value="Cancel" />
       <item value="set Negative Button" />
       <item value="translatable" />
@@ -54,7 +55,6 @@
       <item value="should Show Request Permission Rationale" />
       <item value="Combined" />
       <item value="request Each Combined" />
-      <item value="rationale" />
     </histories>
     <option name="languageScores">
       <map>
