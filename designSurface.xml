@@ -181,6 +181,7 @@
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/drawable/selector_button_major.xml" value="0.36205128205128206" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/drawable/selector_button_minor.xml" value="0.36205128205128206" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/drawable/selector_icon_back.xml" value="0.36205128205128206" />
+        <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/drawable/selector_settings_1.xml" value="0.36205128205128206" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/drawable/shape_audio_press.xml" value="0.1" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/drawable/shape_cicle_blue.xml" value="0.1" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/drawable/shape_corner_4.xml" value="0.36205128205128206" />
@@ -200,6 +201,7 @@
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/activity_main.xml" value="0.2740740740740741" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/activity_main_permission.xml" value="0.2833333333333333" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/activity_main_vpa.xml" value="0.2740740740740741" />
+        <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/activity_protocol.xml" value="0.22239583333333332" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/activity_protocol_content.xml" value="0.3388888888888889" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/activity_vpa_empty.xml" value="0.3351851851851852" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/fragment_avatar.xml" value="0.3351851851851852" />
@@ -215,6 +217,7 @@
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/fragment_take_photo.xml" value="0.3388888888888889" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/fragment_take_photo2.xml" value="0.32037037037037036" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/item_figure.xml" value="0.1" />
+        <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/layout_action_bar.xml" value="0.33" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/layout_loading_popup.xml" value="0.25833333333333336" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/layout_normal_dialog.xml" value="0.1" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/layout_normal_dialog_2.xml" value="0.33055555555555555" />
@@ -236,6 +239,8 @@
         <entry key="..\:/android-sdk-windows/platforms/android-28/data/res/layout/date_picker_legacy.xml" value="0.24504249291784702" />
         <entry key="..\:/android-sdk-windows/platforms/android-28/data/res/layout/number_picker.xml" value="0.33" />
         <entry key="..\:/android-sdk-windows/platforms/android-29/data/res/layout/simple_list_item_1.xml" value="0.2640625" />
+        <entry key="..\:/android-sdk-windows/platforms/android-30/data/res/drawable/btn_borderless_material.xml" value="0.36205128205128206" />
+        <entry key="..\:/android-sdk-windows/platforms/android-30/data/res/drawable/btn_default_mtrl_shape.xml" value="0.36205128205128206" />
         <entry key="..\:/game/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/game/demoA/src/main/res/drawable/ic_launcher_background.xml" value="0.36770833333333336" />
         <entry key="..\:/game/demoA/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
