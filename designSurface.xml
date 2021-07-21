@@ -228,6 +228,7 @@
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/fragment_avatar.xml" value="0.3351851851851852" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/fragment_edit_face.xml" value="0.3351851851851852" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/fragment_edit_face_glasses.xml" value="0.3351851851851852" />
+        <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/fragment_edit_face_make_up.xml" value="0.1736111111111111" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/fragment_edit_face_res.xml" value="0.3091324200913242" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/fragment_edit_face_tab.xml" value="0.30833333333333335" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/fragment_edit_face_v2.xml" value="0.30833333333333335" />
@@ -239,8 +240,9 @@
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/fragment_take_photo.xml" value="0.3388888888888889" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/fragment_take_photo2.xml" value="0.32037037037037036" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/fragment_take_photo_v2.xml" value="0.33" />
-        <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/item_figure.xml" value="0.9" />
+        <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/item_figure.xml" value="0.33" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/layout_action_bar.xml" value="0.3091324200913242" />
+        <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/layout_edit_face_make_up_item.xml" value="0.67" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/layout_loading_popup.xml" value="0.25833333333333336" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/layout_normal_dialog.xml" value="0.1" />
         <entry key="..\:/XM-Projects/project-ca-vpa-phone-android/sdk/src/main/res/layout/layout_normal_dialog_2.xml" value="0.33055555555555555" />
