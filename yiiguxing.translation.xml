@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="CHANGE TEXT TOASTS IN THE SYSTEM" />
       <item value="implies" />
       <item value="简介" />
       <item value="Audio Dialog Theme" />
@@ -54,7 +55,6 @@
       <item value="set Neutral Button" />
       <item value="set Positive Button" />
       <item value="delete avatar line" />
-      <item value="prepare And Launcher" />
     </histories>
     <option name="languageScores">
       <map>
