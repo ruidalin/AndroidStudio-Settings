@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="confirm Preview Figure" />
       <item value="pop Back Stack Immediate" />
       <item value="dest" />
       <item value="frag" />
@@ -54,7 +55,6 @@
       <item value="guarantees" />
       <item value="take Unless" />
       <item value="Coroutine Scope" />
-      <item value="KEY map config json" />
     </histories>
     <option name="languageScores">
       <map>
