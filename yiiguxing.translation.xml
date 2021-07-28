@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Identity" />
       <item value="get Domain" />
       <item value="is High Surrogate" />
       <item value="dismiss Loading" />
@@ -54,7 +55,6 @@
       <item value="outside Inset" />
       <item value="outside Overlay" />
       <item value="tv Action Option" />
-      <item value="ripple" />
     </histories>
     <option name="languageScores">
       <map>
