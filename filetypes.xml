@@ -19,8 +19,8 @@
       <mapping ext="http" type="PLAIN_TEXT" />
       <mapping ext="bundle" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="7z" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="crc" type="PLAIN_TEXT" />
