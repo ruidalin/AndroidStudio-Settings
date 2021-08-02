@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="also" />
       <item value="refresh Token" />
       <item value="fresh Token" />
       <item value="URL Host" />
@@ -54,7 +55,6 @@
       <item value="Custom toast views are deprecated" />
       <item value="Track" />
       <item value="&lt;!-- Inside the padding and inset. --&gt;" />
-      <item value="&lt;!-- Inside the padding and overlaid. --&gt;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627282220593" />
+    <option name="lastTrimTime" value="1627886682789" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
