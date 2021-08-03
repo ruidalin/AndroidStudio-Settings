@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="force Sys Web View" />
       <item value="is Visi Process" />
       <item value="Forground" />
       <item value="Displayed" />
@@ -54,7 +55,6 @@
       <item value="confirm Preview Figure" />
       <item value="pop Back Stack Immediate" />
       <item value="dest" />
-      <item value="frag" />
     </histories>
     <option name="languageScores">
       <map>
