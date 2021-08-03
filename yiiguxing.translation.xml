@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="network" />
       <item value="take Unless" />
       <item value="FROM HTML MODE LEGACY" />
       <item value="FROM HTML MODE COMPACT" />
@@ -54,7 +55,6 @@
       <item value="简介" />
       <item value="Audio Dialog Theme" />
       <item value="window Enable Split Touch" />
-      <item value="iv Preview Figure" />
     </histories>
     <option name="languageScores">
       <map>
