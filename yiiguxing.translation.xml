@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Launch Activity" />
       <item value="force Sys Web View" />
       <item value="is Visi Process" />
       <item value="Forground" />
@@ -54,7 +55,6 @@
       <item value="This scope will be canceled when ViewModel will be cleared, i.e [ViewModel.onCleared] is called" />
       <item value="confirm Preview Figure" />
       <item value="pop Back Stack Immediate" />
-      <item value="dest" />
     </histories>
     <option name="languageScores">
       <map>
