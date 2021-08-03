@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="@return {@code true} if this task was cancelled before it completed" />
+      <item value="may Interrupt If Running" />
       <item value="Launch Activity" />
       <item value="force Sys Web View" />
       <item value="is Visi Process" />
@@ -53,8 +55,6 @@
       <item value="sealed" />
       <item value="This scope is bound to [Dispatchers.Main.immediate][kotlinx.coroutines.MainCoroutineDispatcher.immediate]" />
       <item value="This scope will be canceled when ViewModel will be cleared, i.e [ViewModel.onCleared] is called" />
-      <item value="confirm Preview Figure" />
-      <item value="pop Back Stack Immediate" />
     </histories>
     <option name="languageScores">
       <map>
