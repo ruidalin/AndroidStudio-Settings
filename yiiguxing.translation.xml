@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="non-embedded" />
+      <item value="Will only take effect if this view is in a non-embedded activity. --&gt;" />
       <item value="Returns this value incremented by one." />
       <item value="inc" />
       <item value="inv" />
@@ -53,8 +55,6 @@
       <item value="Recycler View stack From End" />
       <item value="mouth" />
       <item value="nose" />
-      <item value="icon edit face eyebrows normal" />
-      <item value="eye" />
     </histories>
     <option name="languageScores">
       <map>
