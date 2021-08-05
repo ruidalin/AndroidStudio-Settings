@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns this value incremented by one." />
+      <item value="inc" />
+      <item value="inv" />
       <item value="DISPLAY CUTOUT" />
       <item value="TAPPABLE ELEMENT" />
       <item value="WINDOW DECOR" />
@@ -52,9 +55,6 @@
       <item value="nose" />
       <item value="icon edit face eyebrows normal" />
       <item value="eye" />
-      <item value="eyebrows" />
-      <item value="beard" />
-      <item value="hair" />
     </histories>
     <option name="languageScores">
       <map>
