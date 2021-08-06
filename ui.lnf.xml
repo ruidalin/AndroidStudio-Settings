@@ -13,5 +13,6 @@
     <option name="SHOW_DIRECTORY_FOR_NON_UNIQUE_FILENAMES" value="false" />
     <option name="SHOW_FILE_ICONS_IN_TABS" value="false" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
   </component>
 </application>
