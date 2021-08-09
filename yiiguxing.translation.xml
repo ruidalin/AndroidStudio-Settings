@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Probably Utf 8" />
       <item value="signt" />
       <item value="carbuyin" />
       <item value="Discouraged Private Api" />
@@ -54,7 +55,6 @@
       <item value="get Domain" />
       <item value="is High Surrogate" />
       <item value="dismiss Loading" />
-      <item value="action Intercept Back" />
     </histories>
     <option name="languageScores">
       <map>
