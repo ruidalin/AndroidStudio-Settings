@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="carbuyin" />
       <item value="Discouraged Private Api" />
       <item value="non-embedded" />
       <item value="Will only take effect if this view is in a non-embedded activity. --&gt;" />
@@ -54,7 +55,6 @@
       <item value="dismiss Loading" />
       <item value="action Intercept Back" />
       <item value="Recycler View stack From End" />
-      <item value="mouth" />
     </histories>
     <option name="languageScores">
       <map>
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627886682789" />
+    <option name="lastTrimTime" value="1628488109538" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
