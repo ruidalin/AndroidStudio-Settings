@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reset All Side" />
+      <item value="error Code" />
       <item value="abandon Custom Edit Face" />
       <item value="integration" />
       <item value="MAX FD CHARS" />
@@ -53,8 +55,6 @@
       <item value="action Figure Change" />
       <item value="also" />
       <item value="refresh Token" />
-      <item value="fresh Token" />
-      <item value="URL Host" />
     </histories>
     <option name="languageScores">
       <map>
