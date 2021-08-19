@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="query Current Destination By MIB" />
+      <item value="query Home Business By MIB" />
+      <item value="query Last Destinations By MIB" />
+      <item value="query Favorite Destinations By MIB" />
       <item value="peek" />
       <item value="get Underline Thickness" />
       <item value="manufacturer" />
@@ -51,10 +55,6 @@
       <item value="APPEARANCE LIGHT NAVIGATION BARS" />
       <item value="APPEARANCE LIGHT STATUS BARS" />
       <item value="APPEARANCE LOW PROFILE BARS" />
-      <item value="APPEARANCE OPAQUE NAVIGATION BARS" />
-      <item value="APPEARANCE OPAQUE STATUS BARS" />
-      <item value="caption Bar" />
-      <item value="window Translucent Status" />
     </histories>
     <option name="languageScores">
       <map>
