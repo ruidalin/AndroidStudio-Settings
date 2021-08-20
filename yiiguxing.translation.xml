@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="line Separator" />
       <item value="top Private Domain" />
       <item value="query Current Destination By MIB" />
       <item value="query Home Business By MIB" />
@@ -54,7 +55,6 @@
       <item value="SYSTEM UI FLAG IMMERSIVE STICKY" />
       <item value="SYSTEM UI FLAG IMMERSIVE" />
       <item value="APPEARANCE LIGHT NAVIGATION BARS" />
-      <item value="APPEARANCE LIGHT STATUS BARS" />
     </histories>
     <option name="languageScores">
       <map>
