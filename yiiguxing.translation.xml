@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Iat Time" />
+      <item value="Iat Time 1" />
       <item value="SUCCEED" />
       <item value="SUCCESS" />
       <item value="log" />
@@ -53,8 +55,6 @@
       <item value="inv" />
       <item value="DISPLAY CUTOUT" />
       <item value="TAPPABLE ELEMENT" />
-      <item value="WINDOW DECOR" />
-      <item value="CAPTION BAR" />
     </histories>
     <option name="languageScores">
       <map>
