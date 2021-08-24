@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="暂时无法进入此游戏" />
+      <item value="show Visitor Unplayfully View" />
       <item value="text Visitor Tips View" />
       <item value="没有最近玩过的游戏记录" />
       <item value="if Logout" />
@@ -53,8 +55,6 @@
       <item value="carbuyin" />
       <item value="Discouraged Private Api" />
       <item value="non-embedded" />
-      <item value="Will only take effect if this view is in a non-embedded activity. --&gt;" />
-      <item value="Returns this value incremented by one." />
     </histories>
     <option name="languageScores">
       <map>
