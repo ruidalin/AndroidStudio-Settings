@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Mine" />
+      <item value="show Visitor Mine View" />
       <item value="暂时无法进入此游戏" />
       <item value="show Visitor Unplayfully View" />
       <item value="text Visitor Tips View" />
@@ -53,8 +55,6 @@
       <item value="is Probably Utf 8" />
       <item value="signt" />
       <item value="carbuyin" />
-      <item value="Discouraged Private Api" />
-      <item value="non-embedded" />
     </histories>
     <option name="languageScores">
       <map>
