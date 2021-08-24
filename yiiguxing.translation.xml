@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="if Logout" />
       <item value="is JWT Token" />
       <item value="Iat Time" />
       <item value="Iat Time 1" />
@@ -54,7 +55,6 @@
       <item value="Returns this value incremented by one." />
       <item value="inc" />
       <item value="inv" />
-      <item value="DISPLAY CUTOUT" />
     </histories>
     <option name="languageScores">
       <map>
