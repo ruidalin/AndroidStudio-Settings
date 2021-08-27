@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ACTION NAVI INDUCUD" />
       <item value="Transmitter" />
       <item value="Absent" />
       <item value="set Tag If Absent" />
@@ -54,7 +55,6 @@
       <item value="error Code" />
       <item value="abandon Custom Edit Face" />
       <item value="integration" />
-      <item value="MAX FD CHARS" />
     </histories>
     <option name="languageScores">
       <map>
