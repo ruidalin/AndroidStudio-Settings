@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="deform Hair By Head" />
       <item value="unmarshalling" />
       <item value="set Extras Class Loader" />
       <item value="App name" />
@@ -49,7 +50,6 @@
       <item value="ANIM LOAD" />
       <item value="ANIM IDLE" />
       <item value="load Expression Bundle" />
-      <item value="deform Hair By Head" />
       <item value="Vpa" />
       <item value="figure Vpa" />
       <item value="fits" />
