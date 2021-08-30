@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Pose" />
       <item value="deform Hair By Head" />
       <item value="unmarshalling" />
       <item value="set Extras Class Loader" />
@@ -54,7 +55,6 @@
       <item value="figure Vpa" />
       <item value="fits" />
       <item value="fits System Windows" />
-      <item value="reset All Side" />
     </histories>
     <option name="languageScores">
       <map>
