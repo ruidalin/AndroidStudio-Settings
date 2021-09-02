@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="pta skin color" />
+      <item value="iris color" />
       <item value="sub" />
       <item value="RENDERMODE CONTINUOUSLY" />
       <item value="reset All Front" />
@@ -53,8 +55,6 @@
       <item value="ANIM BREATHE" />
       <item value="ANIM LOAD" />
       <item value="ANIM IDLE" />
-      <item value="load Expression Bundle" />
-      <item value="Vpa" />
     </histories>
     <option name="languageScores">
       <map>
