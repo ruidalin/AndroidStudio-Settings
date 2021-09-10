@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Login Reward Dialog" />
       <item value="Configure Gson to serialize null fields. By default, Gson omits all fields that are null during serialization." />
       <item value="blocking" />
       <item value="SECONDS" />
@@ -54,7 +55,6 @@
       <item value="get Underline Thickness" />
       <item value="manufacturer" />
       <item value="TRANSIT FRAGMENT OPEN" />
-      <item value="tv Version" />
     </histories>
     <option name="languageScores">
       <map>
