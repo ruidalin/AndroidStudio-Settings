@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Podcast" />
       <item value="Singer" />
       <item value="live Singer List Observable" />
       <item value="topic" />
@@ -54,7 +55,6 @@
       <item value="没有最近玩过的游戏记录" />
       <item value="if Logout" />
       <item value="is JWT Token" />
-      <item value="Iat Time" />
     </histories>
     <option name="languageScores">
       <map>
