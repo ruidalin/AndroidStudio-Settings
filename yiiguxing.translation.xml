@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="v Live Show Coin Area" />
+      <item value="Podcast Info" />
       <item value="phone" />
       <item value="mobile" />
       <item value="Podcast" />
@@ -53,8 +55,6 @@
       <item value="show Visitor Mine View" />
       <item value="暂时无法进入此游戏" />
       <item value="show Visitor Unplayfully View" />
-      <item value="text Visitor Tips View" />
-      <item value="没有最近玩过的游戏记录" />
     </histories>
     <option name="languageScores">
       <map>
