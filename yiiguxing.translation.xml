@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="verify Code" />
+      <item value="check Code" />
+      <item value="redo Check Code Action" />
       <item value="delegate" />
       <item value="mod Count" />
       <item value="Login Reward Dialog" />
@@ -52,9 +55,6 @@
       <item value="query Current Destination By MIB" />
       <item value="query Home Business By MIB" />
       <item value="query Last Destinations By MIB" />
-      <item value="query Favorite Destinations By MIB" />
-      <item value="peek" />
-      <item value="get Underline Thickness" />
     </histories>
     <option name="languageScores">
       <map>
