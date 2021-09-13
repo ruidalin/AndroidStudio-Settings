@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="delegate" />
       <item value="mod Count" />
       <item value="Login Reward Dialog" />
       <item value="Configure Gson to serialize null fields. By default, Gson omits all fields that are null during serialization." />
@@ -54,7 +55,6 @@
       <item value="query Favorite Destinations By MIB" />
       <item value="peek" />
       <item value="get Underline Thickness" />
-      <item value="manufacturer" />
     </histories>
     <option name="languageScores">
       <map>
