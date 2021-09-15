@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Podcast" />
+      <item value="Fragment Search Result Record Binding" />
       <item value="节目" />
       <item value="get Change Payload" />
       <item value="lives" />
@@ -19,7 +21,6 @@
       <item value="mobile" />
       <item value="v Live Show Coin Area" />
       <item value="phone" />
-      <item value="Podcast" />
       <item value="Singer" />
       <item value="live Singer List Observable" />
       <item value="topic" />
@@ -54,7 +55,6 @@
       <item value="is Pose" />
       <item value="deform Hair By Head" />
       <item value="unmarshalling" />
-      <item value="set Extras Class Loader" />
     </histories>
     <option name="languageScores">
       <map>
