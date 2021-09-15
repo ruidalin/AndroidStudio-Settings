@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reserve Live" />
       <item value="Podcast" />
       <item value="Fragment Search Result Record Binding" />
       <item value="节目" />
@@ -54,7 +55,6 @@
       <item value="reset All Front" />
       <item value="is Pose" />
       <item value="deform Hair By Head" />
-      <item value="unmarshalling" />
     </histories>
     <option name="languageScores">
       <map>
@@ -91,6 +91,7 @@
     <option name="foldOriginal" value="true" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
+    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6e2757bde9036761" />
