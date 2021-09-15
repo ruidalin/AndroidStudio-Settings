@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="tv Subscribe Count" />
+      <item value="btn Subscribe" />
       <item value="Podcast Room Activity" />
       <item value="reserve Live" />
       <item value="Podcast" />
@@ -53,8 +55,6 @@
       <item value="iris color" />
       <item value="sub" />
       <item value="RENDERMODE CONTINUOUSLY" />
-      <item value="reset All Front" />
-      <item value="is Pose" />
     </histories>
     <option name="languageScores">
       <map>
