@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="节目" />
       <item value="get Change Payload" />
       <item value="lives" />
       <item value="live List" />
@@ -54,7 +55,6 @@
       <item value="deform Hair By Head" />
       <item value="unmarshalling" />
       <item value="set Extras Class Loader" />
-      <item value="App name" />
     </histories>
     <option name="languageScores">
       <map>
