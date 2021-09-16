@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="btn Previous" />
+      <item value="tv Progress Total" />
       <item value="Coordinator Layout" />
       <item value="Rectangle" />
       <item value="Podcast Activity" />
@@ -53,8 +55,6 @@
       <item value="MINUTES" />
       <item value="dig" />
       <item value="infix" />
-      <item value="Internal" />
-      <item value="show Internal" />
     </histories>
     <option name="languageScores">
       <map>
