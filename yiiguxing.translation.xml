@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fetch Podcast Voices List" />
       <item value="GET PODCAST DETAIL" />
       <item value="voices Id" />
       <item value="Live Record" />
@@ -54,7 +55,6 @@
       <item value="Configure Gson to serialize null fields. By default, Gson omits all fields that are null during serialization." />
       <item value="blocking" />
       <item value="SECONDS" />
-      <item value="MINUTES" />
     </histories>
     <option name="languageScores">
       <map>
