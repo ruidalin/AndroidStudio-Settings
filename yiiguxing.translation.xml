@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="enter Live Room" />
       <item value="on Reserve Live Action" />
       <item value="reserve" />
       <item value="GET LIVE ANCHORS" />
@@ -54,7 +55,6 @@
       <item value="mobile" />
       <item value="v Live Show Coin Area" />
       <item value="phone" />
-      <item value="Singer" />
     </histories>
     <option name="languageScores">
       <map>
