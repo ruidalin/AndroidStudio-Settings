@@ -2,7 +2,9 @@
   <template name="logd" value="android.util.Log.d(TAG, &quot;#$METHOD_NAME$: $content$&quot;)" description="Log.d(TAG, String)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
   </template>
   <template name="logtconst" value="private const val TAG = &quot;$fileName$&quot;" description="A static logtag with your current filename" toReformat="true" toShortenFQNames="true">
     <variable name="fileName" expression="groovyScript(&quot;_1.take(Math.min(23, _1.length()));&quot;, fileNameWithoutExtension())" defaultValue="" alwaysStopAt="true" />
@@ -21,6 +23,10 @@
   </template>
   <template name="logt" value="private val TAG = &quot;${$className$::class.java.simpleName}@Tag&quot;" description="A static logtag with your current filename" toReformat="true" toShortenFQNames="true">
     <variable name="className" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
   </template>
 </templateSet>
