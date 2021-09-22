@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="action Reserve" />
+      <item value="reserve Live" />
+      <item value="appoint Lives" />
+      <item value="subscription Live" />
+      <item value="Repository" />
+      <item value="action Appoint" />
       <item value="FROM HTML SEPARATOR LINE BREAK LIST" />
       <item value="FROM HTML SEPARATOR LINE BREAK LIST ITEM" />
       <item value="FROM HTML SEPARATOR LINE BREAK HEADING" />
@@ -30,7 +36,6 @@
       <item value="tv Subscribe Count" />
       <item value="btn Subscribe" />
       <item value="Podcast Room Activity" />
-      <item value="reserve Live" />
       <item value="Podcast" />
       <item value="Fragment Search Result Record Binding" />
       <item value="节目" />
@@ -50,11 +55,6 @@
       <item value="live" />
       <item value="rec" />
       <item value="fetch Phone Verifty Code" />
-      <item value="Verifty" />
-      <item value="text Phonetic" />
-      <item value="Bind On Account Dialog" />
-      <item value="cancel Reckon" />
-      <item value="verify Code" />
     </histories>
     <option name="languageScores">
       <map>
