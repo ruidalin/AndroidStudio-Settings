@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="MICROSECONDS" />
       <item value="trigger Fetch Data" />
       <item value="play Pre" />
       <item value="play Prev" />
@@ -54,7 +55,6 @@
       <item value="get Change Payload" />
       <item value="lives" />
       <item value="live List" />
-      <item value="search Living" />
     </histories>
     <option name="languageScores">
       <map>
