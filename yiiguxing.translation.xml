@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fetch Reserve Status" />
       <item value="get Live Anchors" />
       <item value="enter Live Room" />
       <item value="on Reserve Live Action" />
@@ -54,7 +55,6 @@
       <item value="podcast Info" />
       <item value="Podcast Info" />
       <item value="mobile" />
-      <item value="v Live Show Coin Area" />
     </histories>
     <option name="languageScores">
       <map>
