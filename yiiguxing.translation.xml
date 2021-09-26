@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fetch Live Reserve Status" />
       <item value="supports Predictive Item Animations" />
       <item value="reserve Live" />
       <item value="prev Position" />
@@ -54,7 +55,6 @@
       <item value="tv Progress Total" />
       <item value="Coordinator Layout" />
       <item value="Rectangle" />
-      <item value="Podcast Activity" />
     </histories>
     <option name="languageScores">
       <map>
