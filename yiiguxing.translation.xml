@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reserve Live" />
       <item value="prev Position" />
       <item value="pre" />
       <item value="pre Position" />
@@ -21,7 +22,6 @@
       <item value="play Pre" />
       <item value="play Prev" />
       <item value="LIVES" />
-      <item value="reserve Live" />
       <item value="fetch Reserve Status" />
       <item value="get Live Anchors" />
       <item value="enter Live Room" />
