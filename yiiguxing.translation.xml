@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="prev Position" />
+      <item value="pre" />
+      <item value="pre Position" />
+      <item value="atomic" />
       <item value="has Next" />
       <item value="THRESHOLD" />
       <item value="interval" />
@@ -51,10 +55,6 @@
       <item value="Rectangle" />
       <item value="Podcast Activity" />
       <item value="Activity Podcast Binding" />
-      <item value="start Activity" />
-      <item value="payloads" />
-      <item value="tv Subscribe Count" />
-      <item value="btn Subscribe" />
     </histories>
     <option name="languageScores">
       <map>
