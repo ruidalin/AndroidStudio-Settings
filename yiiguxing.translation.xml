@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Invite Dialog Activity" />
       <item value="_UNSUBSCRIBE" />
       <item value="DIALOG TAG UNSUBSCRIBE" />
       <item value="fetch Live Reserve Status" />
@@ -54,7 +55,6 @@
       <item value="Live Subscription" />
       <item value="Live Reserve" />
       <item value="btn Previous" />
-      <item value="tv Progress Total" />
     </histories>
     <option name="languageScores">
       <map>
