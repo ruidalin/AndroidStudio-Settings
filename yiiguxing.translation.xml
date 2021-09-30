@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="track" />
       <item value="ALLOW USE DATA EXCHANGE" />
       <item value="Invite Dialog Activity" />
       <item value="_UNSUBSCRIBE" />
@@ -54,7 +55,6 @@
       <item value="voices Id" />
       <item value="Live Record" />
       <item value="Live Subscription" />
-      <item value="Live Reserve" />
     </histories>
     <option name="languageScores">
       <map>
