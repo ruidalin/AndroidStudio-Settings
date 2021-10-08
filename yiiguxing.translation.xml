@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Track" />
+      <item value="split" />
+      <item value="split Track" />
+      <item value="&lt;!-- Drawable displayed at each progress position on a seekbar. --&gt;" />
+      <item value="Whether to force the track's alpha to ?android:attrdisabledAlpha when disabled. This is required for Holo and Gingerbread, but should always be false for Material and beyond. @hide Developers shouldn't need to change this." />
+      <item value="use Disabled Alpha" />
+      <item value="&lt;!-- Whether to split the track and leave a gap for the thumb drawable. --&gt;" />
+      <item value="&lt;!-- An offset for the thumb that allows it to extend out of the range of the track. --&gt;" />
+      <item value="multiply" />
       <item value="on Stop Tracking Touch" />
       <item value="on Start Tracking Touch" />
       <item value="track" />
@@ -46,15 +55,6 @@
       <item value="action Appoint" />
       <item value="FROM HTML SEPARATOR LINE BREAK LIST" />
       <item value="FROM HTML SEPARATOR LINE BREAK LIST ITEM" />
-      <item value="FROM HTML SEPARATOR LINE BREAK HEADING" />
-      <item value="FROM HTML SEPARATOR LINE BREAK PARAGRAPH" />
-      <item value="center Inside" />
-      <item value="convert" />
-      <item value="Podcast Relation" />
-      <item value="listen To The Voices" />
-      <item value="fetch Podcast Voices List" />
-      <item value="GET PODCAST DETAIL" />
-      <item value="voices Id" />
     </histories>
     <option name="languageScores">
       <map>
