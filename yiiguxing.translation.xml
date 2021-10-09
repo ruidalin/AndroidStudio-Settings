@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="TRIGGER" />
       <item value="ACCESS FINE LOCATION" />
       <item value="ACCESS COARSE LOCATION" />
       <item value="on Permission Show Rationale" />
@@ -54,7 +55,6 @@
       <item value="action Reserve" />
       <item value="appoint Lives" />
       <item value="subscription Live" />
-      <item value="Repository" />
     </histories>
     <option name="languageScores">
       <map>
