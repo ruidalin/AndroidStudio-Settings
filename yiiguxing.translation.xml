@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Chips Layout Manager" />
       <item value="TRIGGER" />
       <item value="ACCESS FINE LOCATION" />
       <item value="ACCESS COARSE LOCATION" />
@@ -54,7 +55,6 @@
       <item value="reserve Lives Observable" />
       <item value="action Reserve" />
       <item value="appoint Lives" />
-      <item value="subscription Live" />
     </histories>
     <option name="languageScores">
       <map>
