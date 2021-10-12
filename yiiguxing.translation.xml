@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="if Granted Location Permission" />
+      <item value="is Granted Location Permission" />
       <item value="开关" />
       <item value="granted" />
       <item value="Chips Layout Manager" />
@@ -53,8 +55,6 @@
       <item value="on Reserve Live Action" />
       <item value="reserve" />
       <item value="GET LIVE ANCHORS" />
-      <item value="reserve Lives" />
-      <item value="reserve Lives Observable" />
     </histories>
     <option name="languageScores">
       <map>
