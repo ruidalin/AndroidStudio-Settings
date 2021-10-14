@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Road Book List Need User Login" />
       <item value="on Force Denied Permission" />
       <item value="拒绝&#10;" />
       <item value="拒绝" />
@@ -54,7 +55,6 @@
       <item value="trigger Fetch Data" />
       <item value="Podcast Lives" />
       <item value="excess Nanos" />
-      <item value="to Minutes" />
     </histories>
     <option name="languageScores">
       <map>
