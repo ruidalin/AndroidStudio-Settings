@@ -1,6 +1,14 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="Lock0" type="AUTO_DETECTED" />
+      <mapping pattern="TD_AES_DATA_LOCK" type="AUTO_DETECTED" />
+      <mapping pattern="TD_AES_SALT_LOCK" type="AUTO_DETECTED" />
+      <mapping pattern="1f374183466133191c1ac31e87a456d5" type="AUTO_DETECTED" />
+      <mapping pattern="1634545344540_22175" type="AUTO_DETECTED" />
+      <mapping pattern="TD__App_Synchronous_Lock__" type="AUTO_DETECTED" />
+      <mapping pattern="Lock7" type="AUTO_DETECTED" />
+      <mapping pattern="TDCustom_Device_Id_Lock_File" type="AUTO_DETECTED" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="dlt" type="Native" />
       <mapping ext="game" type="Native" />
@@ -17,7 +25,9 @@
       <mapping pattern="TD_AES_IV_LOCK" type="PLAIN_TEXT" />
       <mapping ext="http" type="PLAIN_TEXT" />
       <mapping ext="bundle" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="7z" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
