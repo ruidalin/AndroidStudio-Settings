@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="welt" />
+      <item value="Welt" />
+      <item value="Grid Welt Layout Manager" />
+      <item value="贴边" />
       <item value="column" />
       <item value="raw" />
       <item value="cow" />
@@ -51,18 +55,14 @@
       <item value="TRIGGER" />
       <item value="ACCESS FINE LOCATION" />
       <item value="ACCESS COARSE LOCATION" />
-      <item value="on Permission Show Rationale" />
-      <item value="Track" />
-      <item value="split" />
-      <item value="split Track" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2227" />
+        <entry key="CHINESE" value="2228" />
         <entry key="ENGLISH" value="2228" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
-        <entry key="GERMAN" value="5" />
+        <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="10" />
         <entry key="GUJARATI" value="1" />
         <entry key="DUTCH" value="3" />
