@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="supports Predictive Item Animations" />
+      <item value="No Predictive Animations GridLayoutManager" />
+      <item value="Npa" />
       <item value="welt" />
       <item value="Welt" />
       <item value="Grid Welt Layout Manager" />
@@ -30,8 +33,6 @@
       <item value="skip Memory Cache" />
       <item value="detect Moves" />
       <item value="Disable predictive animations. There is a bug in RecyclerView which causes views that are being reloaded to pull invalid ViewHolders from the internal recycler stack if the adapter size has decreased since the ViewHolder was recycled." />
-      <item value="supports Predictive Item Animations" />
-      <item value="No Predictive Animations GridLayoutManager" />
       <item value="Npa Grid Layout Manager" />
       <item value="monospace" />
       <item value="serif" />
@@ -54,12 +55,11 @@
       <item value="Chips Layout Manager" />
       <item value="TRIGGER" />
       <item value="ACCESS FINE LOCATION" />
-      <item value="ACCESS COARSE LOCATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2228" />
-        <entry key="ENGLISH" value="2228" />
+        <entry key="CHINESE" value="2229" />
+        <entry key="ENGLISH" value="2230" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="8" />
@@ -78,7 +78,7 @@
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="ITALIAN" value="3" />
-        <entry key="HINDI" value="4" />
+        <entry key="HINDI" value="5" />
         <entry key="INDONESIAN" value="3" />
         <entry key="VIETNAMESE" value="4" />
       </map>
