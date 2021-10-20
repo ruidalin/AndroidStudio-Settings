@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="anchor" />
+      <item value="This case relates to" />
+      <item value="relates" />
+      <item value="resolve Should Layout Reverse" />
+      <item value="m Pending Scroll Position" />
+      <item value="scroll to fulfill requirements like stack from bottom. create layout state" />
+      <item value="fill towards end, stacking from top" />
+      <item value="fill towards start, stacking from bottom" />
+      <item value="by checking children and other variables, find an anchor coordinate and an anchor item position." />
+      <item value="algorithm" />
+      <item value="completely Visible" />
+      <item value="accept Partially Visible" />
       <item value="intersects" />
       <item value="contains" />
       <item value="has" />
@@ -43,23 +55,11 @@
       <item value="sans" />
       <item value="get Road Book List Need User Login" />
       <item value="on Force Denied Permission" />
-      <item value="拒绝&#10;" />
-      <item value="拒绝" />
-      <item value="juju" />
-      <item value="loc" />
-      <item value="自动" />
-      <item value="zidong" />
-      <item value="AO ALL" />
-      <item value="AO None" />
-      <item value="AO ONLY COLLECT" />
-      <item value="if Granted Location Permission" />
-      <item value="is Granted Location Permission" />
-      <item value="开关" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2233" />
-        <entry key="ENGLISH" value="2234" />
+        <entry key="CHINESE" value="2248" />
+        <entry key="ENGLISH" value="2249" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="8" />
