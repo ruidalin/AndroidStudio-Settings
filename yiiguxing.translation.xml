@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="column" />
+      <item value="raw" />
+      <item value="cow" />
+      <item value="列" />
+      <item value="li" />
+      <item value="row" />
+      <item value="vertical Space" />
+      <item value="get Right Decoration Width" />
       <item value="空隙" />
       <item value="空隙&#10;" />
       <item value="ong" />
@@ -47,19 +55,11 @@
       <item value="Track" />
       <item value="split" />
       <item value="split Track" />
-      <item value="&lt;!-- Drawable displayed at each progress position on a seekbar. --&gt;" />
-      <item value="Whether to force the track's alpha to ?android:attrdisabledAlpha when disabled. This is required for Holo and Gingerbread, but should always be false for Material and beyond. @hide Developers shouldn't need to change this." />
-      <item value="use Disabled Alpha" />
-      <item value="&lt;!-- Whether to split the track and leave a gap for the thumb drawable. --&gt;" />
-      <item value="&lt;!-- An offset for the thumb that allows it to extend out of the range of the track. --&gt;" />
-      <item value="multiply" />
-      <item value="on Stop Tracking Touch" />
-      <item value="on Start Tracking Touch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2213" />
-        <entry key="ENGLISH" value="2213" />
+        <entry key="CHINESE" value="2227" />
+        <entry key="ENGLISH" value="2228" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
