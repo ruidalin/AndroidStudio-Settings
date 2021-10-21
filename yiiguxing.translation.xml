@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fetch Reward Info" />
+      <item value="update Indicator" />
       <item value="anchor" />
       <item value="This case relates to" />
       <item value="relates" />
@@ -53,13 +55,11 @@
       <item value="monospace" />
       <item value="serif" />
       <item value="sans" />
-      <item value="get Road Book List Need User Login" />
-      <item value="on Force Denied Permission" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2248" />
-        <entry key="ENGLISH" value="2249" />
+        <entry key="CHINESE" value="2250" />
+        <entry key="ENGLISH" value="2251" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="8" />
