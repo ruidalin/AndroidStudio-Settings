@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ensure Fragment" />
+      <item value="Detach the given fragment from the UI. This is the same state as when it is put on the back stack: the fragment is removed from the UI, however its state is still being actively managed by the fragment manager. When going into this state its view hierarchy is destroyed." />
       <item value="Stub" />
       <item value="Tracker Manager" />
       <item value="is Visi" />
@@ -53,13 +55,11 @@
       <item value="ong" />
       <item value="cap" />
       <item value="scap" />
-      <item value="scrap" />
-      <item value="detach And Scrap Attached Views" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2258" />
-        <entry key="ENGLISH" value="2259" />
+        <entry key="CHINESE" value="2260" />
+        <entry key="ENGLISH" value="2261" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="8" />
