@@ -5,6 +5,20 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="indicate" />
+      <item value="OFFSCREEN PAGE LIMIT DEFAULT" />
+      <item value="Only do custom prefetching of offscreen pages if requested" />
+      <item value="visited" />
+      <item value="associated" />
+      <item value="to hold on to much" />
+      <item value="to much less memory" />
+      <item value="much less" />
+      <item value="entire" />
+      <item value="Subclasses" />
+      <item value="Implementation of {@link PagerAdapter} that represents each page as a {@link Fragment} that is persistently kept in the fragment manager as long as the user can return to the page. &lt;p&gt;This version of the pager is best for use when there are a handful of typically more static fragments to be paged through, such as a set of tabs. The fragment of each page the user visits will be kept in memory, though its view hierarchy may be destroyed when not visible. This can result in using a significant amount of memory since fragment instances can hold on to an arbitrary amount of state. For larger sets of pages, consider {@link FragmentStatePagerAdapter}." />
+      <item value="visits" />
+      <item value="represents" />
+      <item value="persistently" />
       <item value="ensure Fragment" />
       <item value="Detach the given fragment from the UI. This is the same state as when it is put on the back stack: the fragment is removed from the UI, however its state is still being actively managed by the fragment manager. When going into this state its view hierarchy is destroyed." />
       <item value="Stub" />
@@ -41,25 +55,11 @@
       <item value="welt" />
       <item value="Welt" />
       <item value="Grid Welt Layout Manager" />
-      <item value="贴边" />
-      <item value="column" />
-      <item value="raw" />
-      <item value="cow" />
-      <item value="列" />
-      <item value="li" />
-      <item value="row" />
-      <item value="vertical Space" />
-      <item value="get Right Decoration Width" />
-      <item value="空隙" />
-      <item value="空隙&#10;" />
-      <item value="ong" />
-      <item value="cap" />
-      <item value="scap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2260" />
-        <entry key="ENGLISH" value="2261" />
+        <entry key="CHINESE" value="2278" />
+        <entry key="ENGLISH" value="2279" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="8" />
