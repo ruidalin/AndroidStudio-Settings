@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="CLEAR" />
+      <item value="CLEARTEXT" />
+      <item value="MODERN TLS" />
+      <item value="DEFAULT CONNECTION SPECS" />
       <item value="all Enabled Cipher Suites" />
       <item value="expected" />
       <item value="effect" />
@@ -51,15 +55,11 @@
       <item value="completely Visible" />
       <item value="accept Partially Visible" />
       <item value="intersects" />
-      <item value="contains" />
-      <item value="has" />
-      <item value="Returns the item View which has or contains focus." />
-      <item value="supports Predictive Item Animations" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2283" />
-        <entry key="ENGLISH" value="2284" />
+        <entry key="CHINESE" value="2288" />
+        <entry key="ENGLISH" value="2289" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="8" />
