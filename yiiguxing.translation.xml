@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="record And Increment" />
+      <item value="get And Increment" />
       <item value="心跳" />
       <item value="xint" />
       <item value="is Process Resume" />
@@ -53,13 +55,11 @@
       <item value="fetch Reward Info" />
       <item value="update Indicator" />
       <item value="anchor" />
-      <item value="This case relates to" />
-      <item value="relates" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2311" />
-        <entry key="ENGLISH" value="2312" />
+        <entry key="CHINESE" value="2313" />
+        <entry key="ENGLISH" value="2314" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="8" />
