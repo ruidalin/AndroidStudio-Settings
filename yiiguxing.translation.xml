@@ -5,13 +5,13 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Record Time" />
       <item value="已完成" />
       <item value="未完成" />
       <item value="Stamp" />
       <item value="record Stamp" />
       <item value="Tracker Manager" />
       <item value="Must be manually synched by user" />
-      <item value="on Record Time" />
       <item value="APPLICATION TIME" />
       <item value="ONLINE TIME" />
       <item value="时长" />
@@ -59,7 +59,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2341" />
-        <entry key="ENGLISH" value="2341" />
+        <entry key="ENGLISH" value="2342" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="8" />
