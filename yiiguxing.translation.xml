@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="已完成" />
+      <item value="未完成" />
       <item value="Stamp" />
       <item value="record Stamp" />
       <item value="Tracker Manager" />
@@ -53,13 +55,11 @@
       <item value="represents" />
       <item value="persistently" />
       <item value="ensure Fragment" />
-      <item value="Detach the given fragment from the UI. This is the same state as when it is put on the back stack: the fragment is removed from the UI, however its state is still being actively managed by the fragment manager. When going into this state its view hierarchy is destroyed." />
-      <item value="Stub" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2338" />
-        <entry key="ENGLISH" value="2339" />
+        <entry key="CHINESE" value="2341" />
+        <entry key="ENGLISH" value="2341" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="8" />
