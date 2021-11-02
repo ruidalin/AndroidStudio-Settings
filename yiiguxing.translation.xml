@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reference" />
+      <item value="from" />
+      <item value="laijhjjjjjjjjjj" />
+      <item value="laijhjjjj" />
+      <item value="laijhjjj" />
+      <item value="laijhj" />
+      <item value="laijh" />
+      <item value="lai" />
+      <item value="laiy" />
       <item value="on Track Intro Duration" />
       <item value="Track Activity Label" />
       <item value="trackerlog" />
@@ -46,20 +55,11 @@
       <item value="expected" />
       <item value="effect" />
       <item value="unnecessary" />
-      <item value="supports Tls Extensions" />
-      <item value="indicate" />
-      <item value="OFFSCREEN PAGE LIMIT DEFAULT" />
-      <item value="Only do custom prefetching of offscreen pages if requested" />
-      <item value="visited" />
-      <item value="associated" />
-      <item value="to hold on to much" />
-      <item value="to much less memory" />
-      <item value="much less" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2348" />
-        <entry key="ENGLISH" value="2349" />
+        <entry key="CHINESE" value="2355" />
+        <entry key="ENGLISH" value="2356" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="8" />
