@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="detail Game Promo" />
       <item value="game Type Tab" />
       <item value="turn ON" />
       <item value="reference" />
@@ -54,12 +55,11 @@
       <item value="MODERN TLS" />
       <item value="DEFAULT CONNECTION SPECS" />
       <item value="all Enabled Cipher Suites" />
-      <item value="expected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2357" />
-        <entry key="ENGLISH" value="2358" />
+        <entry key="CHINESE" value="2358" />
+        <entry key="ENGLISH" value="2359" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="8" />
