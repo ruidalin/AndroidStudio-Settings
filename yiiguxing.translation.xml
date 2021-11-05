@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="no-op" />
+      <item value="Local implementation is a no-op." />
       <item value="Pixel offset where layout should start" />
       <item value="consumed" />
       <item value="delta" />
@@ -53,20 +55,18 @@
       <item value="时长" />
       <item value="shichang" />
       <item value="skip Record" />
-      <item value="跳过" />
-      <item value="tiao" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2373" />
-        <entry key="ENGLISH" value="2374" />
+        <entry key="CHINESE" value="2375" />
+        <entry key="ENGLISH" value="2375" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="10" />
         <entry key="GUJARATI" value="1" />
-        <entry key="DUTCH" value="3" />
+        <entry key="DUTCH" value="4" />
         <entry key="CATALAN" value="6" />
         <entry key="CZECH" value="1" />
         <entry key="KANNADA" value="1" />
