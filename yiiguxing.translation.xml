@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Page Commit Visible" />
+      <item value="on Render Process Gone" />
+      <item value="遮罩" />
+      <item value="遮罩&#10;" />
+      <item value="zhe" />
       <item value="MEDIA PREPARED" />
       <item value="MEDIA PLAYBACK COMPLETE" />
       <item value="text Clean View" />
@@ -50,16 +55,11 @@
       <item value="laijhjjj" />
       <item value="laijhj" />
       <item value="laijh" />
-      <item value="lai" />
-      <item value="laiy" />
-      <item value="on Track Intro Duration" />
-      <item value="Track Activity Label" />
-      <item value="trackerlog" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2391" />
-        <entry key="ENGLISH" value="2392" />
+        <entry key="CHINESE" value="2401" />
+        <entry key="ENGLISH" value="2402" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="1" />
