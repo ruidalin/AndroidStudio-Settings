@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="car VIN" />
+      <item value="vehicle Type" />
       <item value="on Page Commit Visible" />
       <item value="on Render Process Gone" />
       <item value="遮罩" />
@@ -44,7 +46,6 @@
       <item value="unmodifiable List" />
       <item value="existing" />
       <item value="throw If Fatal" />
-      <item value="vehicle Type" />
       <item value="detail Game Promo" />
       <item value="game Type Tab" />
       <item value="turn ON" />
@@ -54,17 +55,16 @@
       <item value="laijhjjjj" />
       <item value="laijhjjj" />
       <item value="laijhj" />
-      <item value="laijh" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2401" />
-        <entry key="ENGLISH" value="2402" />
+        <entry key="CHINESE" value="2403" />
+        <entry key="ENGLISH" value="2403" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="8" />
-        <entry key="FRENCH" value="10" />
+        <entry key="FRENCH" value="11" />
         <entry key="GUJARATI" value="1" />
         <entry key="DUTCH" value="4" />
         <entry key="CATALAN" value="6" />
