@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Device Brand Model" />
+      <item value="mock If Mock Gear Mode" />
+      <item value="mock If Apply Gear Mode" />
       <item value="Night Mode" />
       <item value="nightmode" />
       <item value="is Service Bound" />
@@ -52,14 +55,11 @@
       <item value="unmodifiable List" />
       <item value="existing" />
       <item value="throw If Fatal" />
-      <item value="detail Game Promo" />
-      <item value="game Type Tab" />
-      <item value="turn ON" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2414" />
-        <entry key="ENGLISH" value="2415" />
+        <entry key="CHINESE" value="2417" />
+        <entry key="ENGLISH" value="2418" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="1" />
