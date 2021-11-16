@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Flag for a window in local focus mode. Window in local focus mode can control focus independent of window manager using {@link WindowsetLocalFocus(boolean, boolean)}. Usually window in this mode will not get touchkey events from window manager, but will get events only via local injection using {@link WindowinjectInputEvent(InputEvent)}." />
+      <item value="TRANSLUCENT NAVIGATION" />
+      <item value="TRANSLUCENT STATUS" />
       <item value="Settings View Model" />
       <item value="Settings Model" />
       <item value="observe Live Data" />
@@ -52,14 +55,11 @@
       <item value="no-op" />
       <item value="Local implementation is a no-op." />
       <item value="Pixel offset where layout should start" />
-      <item value="consumed" />
-      <item value="delta" />
-      <item value="Closest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2428" />
-        <entry key="ENGLISH" value="2429" />
+        <entry key="CHINESE" value="2433" />
+        <entry key="ENGLISH" value="2434" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="1" />
