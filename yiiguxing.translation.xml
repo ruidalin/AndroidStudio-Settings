@@ -93,7 +93,6 @@
     <option name="foldOriginal" value="true" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
-    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6e2757bde9036761" />
