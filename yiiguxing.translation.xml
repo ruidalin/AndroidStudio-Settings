@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="unused" />
       <item value="field" />
       <item value="ignore" />
       <item value="ingore" />
@@ -54,7 +55,6 @@
       <item value="actioned" />
       <item value="forever" />
       <item value="This callback can be used to know that this LiveData is being used thus should be kept up to date." />
-      <item value="on Inactive" />
     </histories>
     <option name="languageScores">
       <map>
