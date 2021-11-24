@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Logcat Callback Wrapper" />
       <item value="unused" />
       <item value="field" />
       <item value="ignore" />
@@ -54,12 +55,11 @@
       <item value="on Forever" />
       <item value="actioned" />
       <item value="forever" />
-      <item value="This callback can be used to know that this LiveData is being used thus should be kept up to date." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2483" />
-        <entry key="ENGLISH" value="2484" />
+        <entry key="CHINESE" value="2484" />
+        <entry key="ENGLISH" value="2485" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="AFRIKAANS" value="1" />
