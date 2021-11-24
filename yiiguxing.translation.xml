@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="drive Sate" />
+      <item value="counts" />
       <item value="Logcat Callback Wrapper" />
       <item value="unused" />
       <item value="field" />
@@ -53,13 +55,11 @@
       <item value="utable" />
       <item value="Mutable Live Data" />
       <item value="on Forever" />
-      <item value="actioned" />
-      <item value="forever" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2484" />
-        <entry key="ENGLISH" value="2485" />
+        <entry key="CHINESE" value="2486" />
+        <entry key="ENGLISH" value="2487" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="AFRIKAANS" value="1" />
