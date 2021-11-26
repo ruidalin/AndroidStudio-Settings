@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="has Been Download Apk" />
+      <item value="if Had Download" />
       <item value="obtain Holder State" />
       <item value="apply Holder State" />
       <item value="datum" />
@@ -53,13 +55,11 @@
       <item value="Unable" />
       <item value="show On Visitor Game View Live Data" />
       <item value="on Once" />
-      <item value="on Onces" />
-      <item value="onced" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2492" />
-        <entry key="ENGLISH" value="2493" />
+        <entry key="CHINESE" value="2494" />
+        <entry key="ENGLISH" value="2495" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="AFRIKAANS" value="1" />
