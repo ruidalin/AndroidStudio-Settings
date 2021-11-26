@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="action none" />
       <item value="length" />
       <item value="total" />
       <item value="progress" />
@@ -54,12 +55,11 @@
       <item value="SIGNAL KILL" />
       <item value="SIGNAL QUIT" />
       <item value="m If Overflow Intro Expand" />
-      <item value="overflow Intro" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2507" />
-        <entry key="ENGLISH" value="2508" />
+        <entry key="CHINESE" value="2508" />
+        <entry key="ENGLISH" value="2509" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="AFRIKAANS" value="1" />
