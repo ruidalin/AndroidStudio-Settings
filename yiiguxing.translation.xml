@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="obtain Holder State" />
+      <item value="apply Holder State" />
       <item value="datum" />
       <item value="probably" />
       <item value="confusing" />
@@ -53,13 +55,11 @@
       <item value="on Once" />
       <item value="on Onces" />
       <item value="onced" />
-      <item value="action loading" />
-      <item value="action success" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2491" />
-        <entry key="ENGLISH" value="2491" />
+        <entry key="CHINESE" value="2492" />
+        <entry key="ENGLISH" value="2493" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="AFRIKAANS" value="1" />
