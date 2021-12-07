@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="trampoline" />
       <item value="acting" />
       <item value="RB ORDER FINISH" />
       <item value="RB ORDER CONFIRMED" />
@@ -54,12 +55,11 @@
       <item value="drive Sate" />
       <item value="counts" />
       <item value="Logcat Callback Wrapper" />
-      <item value="unused" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2533" />
-        <entry key="ENGLISH" value="2534" />
+        <entry key="CHINESE" value="2534" />
+        <entry key="ENGLISH" value="2535" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="AFRIKAANS" value="1" />
@@ -89,7 +89,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638157228438" />
+    <option name="lastTrimTime" value="1638843330403" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
