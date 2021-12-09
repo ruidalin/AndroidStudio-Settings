@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Intrinsic Width" />
       <item value="in Just Decode Bounds" />
       <item value="LOCATION MODE SENSORS ONLY" />
       <item value="LOCATION MODE BATTERY SAVING" />
@@ -54,12 +55,11 @@
       <item value="if Had Download" />
       <item value="obtain Holder State" />
       <item value="apply Holder State" />
-      <item value="datum" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2544" />
-        <entry key="ENGLISH" value="2545" />
+        <entry key="CHINESE" value="2545" />
+        <entry key="ENGLISH" value="2546" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="AFRIKAANS" value="1" />
