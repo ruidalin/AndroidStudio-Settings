@@ -1,6 +1,7 @@
 <application>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="compactTreeIndents" value="true" />
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
     <option name="EDITOR_TAB_LIMIT" value="100" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="8" />
@@ -14,5 +15,6 @@
     <option name="SHOW_FILE_ICONS_IN_TABS" value="false" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
   </component>
 </application>
