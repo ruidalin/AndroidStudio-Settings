@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="consisting" />
       <item value="Additional" />
       <item value="Desired values for any bits set in" />
       <item value="executed" />
@@ -54,12 +55,11 @@
       <item value="if Installed Apk" />
       <item value="Game Detail Activity" />
       <item value="get Downloading Task Count" />
-      <item value="Contract" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2570" />
-        <entry key="ENGLISH" value="2571" />
+        <entry key="CHINESE" value="2571" />
+        <entry key="ENGLISH" value="2572" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="AFRIKAANS" value="1" />
