@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="66(4MB) LOS objects" />
+      <item value="LOS objects" />
+      <item value="AllocSpace objects" />
+      <item value="LOS" />
+      <item value="Alloc Space" />
+      <item value="concurrent" />
+      <item value="Explicit" />
       <item value="Holder" />
       <item value="Owner" />
       <item value="save Owner Location" />
@@ -48,18 +55,11 @@
       <item value="acting" />
       <item value="RB ORDER FINISH" />
       <item value="RB ORDER CONFIRMED" />
-      <item value="RB ORDER WAITING CONFIRM" />
-      <item value="prev Position" />
-      <item value="Posit" />
-      <item value="prev Posit" />
-      <item value="Pos" />
-      <item value="prev Pos" />
-      <item value="Can be combined with &lt;var&gt;number&lt;var&gt; and its other options to allow a signed number." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2576" />
-        <entry key="ENGLISH" value="2577" />
+        <entry key="CHINESE" value="2581" />
+        <entry key="ENGLISH" value="2581" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="AFRIKAANS" value="1" />
@@ -80,7 +80,7 @@
         <entry key="NORWEGIAN" value="3" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
-        <entry key="SPANISH" value="3" />
+        <entry key="SPANISH" value="6" />
         <entry key="ITALIAN" value="3" />
         <entry key="HINDI" value="5" />
         <entry key="INDONESIAN" value="5" />
