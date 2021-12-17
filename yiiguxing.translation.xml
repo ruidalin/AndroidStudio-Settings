@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="in place of" />
+      <item value="Encoderdecoder flag bit to indicate using the &quot;URL and filename safe&quot; variant of Base64 (see RFC 3548 section 4) where {@code -} and {@code _} are used in place of {@code +} and {@code }." />
       <item value="明文" />
       <item value="密文" />
       <item value="encrypt Pri" />
@@ -53,13 +55,11 @@
       <item value="item" />
       <item value="floor" />
       <item value="ceil" />
-      <item value="percent" />
-      <item value="real Position" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2591" />
-        <entry key="ENGLISH" value="2591" />
+        <entry key="CHINESE" value="2593" />
+        <entry key="ENGLISH" value="2594" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="AFRIKAANS" value="1" />
