@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Random Factory" />
+      <item value="generate Random" />
+      <item value="Fetch Public Key Factory" />
       <item value="verify Certificate Info" />
       <item value="encrypt By Public Key" />
       <item value="encrypt By Pub Key" />
@@ -52,14 +55,11 @@
       <item value="Intent Sender" />
       <item value="as if you had called the regular" />
       <item value="start Intent Sender" />
-      <item value="sticky" />
-      <item value="pos" />
-      <item value="in Sample Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2599" />
-        <entry key="ENGLISH" value="2600" />
+        <entry key="CHINESE" value="2602" />
+        <entry key="ENGLISH" value="2603" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="AFRIKAANS" value="1" />
