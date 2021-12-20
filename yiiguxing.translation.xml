@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="spread inside" />
+      <item value="spread" />
       <item value="WRONG TAG" />
       <item value="certificates" />
       <item value="cleartext Traffic Permitted" />
@@ -53,13 +55,11 @@
       <item value="Additional" />
       <item value="Desired values for any bits set in" />
       <item value="executed" />
-      <item value="associated" />
-      <item value="as if" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2610" />
-        <entry key="ENGLISH" value="2611" />
+        <entry key="CHINESE" value="2612" />
+        <entry key="ENGLISH" value="2613" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="AFRIKAANS" value="1" />
