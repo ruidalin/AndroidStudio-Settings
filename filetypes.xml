@@ -32,6 +32,7 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="crc" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
