@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="check Certificate Validity" />
       <item value="raw" />
       <item value="except" />
       <item value="tear" />
@@ -54,12 +55,11 @@
       <item value="WRITE" />
       <item value="ELIDE" />
       <item value="_ELIDE" />
-      <item value="PARCELABLE ELIDE DUPLICATES" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2632" />
-        <entry key="ENGLISH" value="2633" />
+        <entry key="CHINESE" value="2633" />
+        <entry key="ENGLISH" value="2634" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="AFRIKAANS" value="1" />
