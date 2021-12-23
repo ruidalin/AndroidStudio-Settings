@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="invalid" />
+      <item value="Valid" />
+      <item value="expired" />
       <item value="download Cert If Needed" />
       <item value="download Cert If Need" />
       <item value="Needed" />
@@ -52,14 +55,11 @@
       <item value="Certificate Not Yet Valid Exception" />
       <item value="spread inside" />
       <item value="spread" />
-      <item value="WRONG TAG" />
-      <item value="certificates" />
-      <item value="cleartext Traffic Permitted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2666" />
-        <entry key="ENGLISH" value="2667" />
+        <entry key="CHINESE" value="2669" />
+        <entry key="ENGLISH" value="2670" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="AFRIKAANS" value="1" />
