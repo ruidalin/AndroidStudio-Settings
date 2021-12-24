@@ -1,42 +1,43 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="1634545344540_22175" type="AUTO_DETECTED" />
       <mapping pattern="Lock0" type="AUTO_DETECTED" />
       <mapping pattern="TD_AES_DATA_LOCK" type="AUTO_DETECTED" />
-      <mapping pattern="TD_AES_SALT_LOCK" type="AUTO_DETECTED" />
-      <mapping pattern="1f374183466133191c1ac31e87a456d5" type="AUTO_DETECTED" />
-      <mapping pattern="1634545344540_22175" type="AUTO_DETECTED" />
       <mapping pattern="TD__App_Synchronous_Lock__" type="AUTO_DETECTED" />
+      <mapping pattern="TD_AES_SALT_LOCK" type="AUTO_DETECTED" />
       <mapping pattern="Lock7" type="AUTO_DETECTED" />
       <mapping pattern="TDCustom_Device_Id_Lock_File" type="AUTO_DETECTED" />
+      <mapping pattern="1f374183466133191c1ac31e87a456d5" type="AUTO_DETECTED" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="dlt" type="Native" />
       <mapping ext="game" type="Native" />
-      <mapping pattern="xposed_init" type="PLAIN_TEXT" />
-      <mapping pattern="anr_2021-04-30-12-29-15-925" type="PLAIN_TEXT" />
-      <mapping pattern="init" type="PLAIN_TEXT" />
-      <mapping pattern="granted" type="PLAIN_TEXT" />
-      <mapping pattern="core_info" type="PLAIN_TEXT" />
-      <mapping pattern="X5Cookies" type="PLAIN_TEXT" />
-      <mapping pattern="CleanData" type="PLAIN_TEXT" />
-      <mapping pattern="anr_2021-04-30-12-26-03-448" type="PLAIN_TEXT" />
-      <mapping pattern="anr_2021-04-30-12-11-59-380" type="PLAIN_TEXT" />
-      <mapping pattern="dfasdf" type="PLAIN_TEXT" />
-      <mapping pattern="TD_AES_IV_LOCK" type="PLAIN_TEXT" />
-      <mapping ext="http" type="PLAIN_TEXT" />
-      <mapping ext="bundle" type="PLAIN_TEXT" />
-      <mapping ext="data" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="0" type="PLAIN_TEXT" />
-      <mapping ext="7z" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="cer" type="PLAIN_TEXT" />
-      <mapping ext="crc" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
+      <removed_mapping ext="0" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="7z" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="bundle" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cer" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="crc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="data" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="http" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="jks" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="lock" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="CleanData" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="TD_AES_IV_LOCK" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="X5Cookies" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="anr_2021-04-30-12-11-59-380" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="anr_2021-04-30-12-26-03-448" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="anr_2021-04-30-12-29-15-925" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="core_info" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="dfasdf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="granted" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="init" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="xposed_init" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
