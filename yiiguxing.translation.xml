@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="refactor:Digest instead of MD5" />
+      <item value="instead" />
+      <item value="instance of" />
+      <item value="Digest instance of MD5" />
+      <item value="refactor:Digest instance of MD5" />
+      <item value="Because Aead key types depend on com.google.crypto.tink.Mac key types, this method also registers all Mac catalogues and key managers." />
+      <item value="register" />
       <item value="Digest" />
       <item value="described" />
       <item value="decrypt Pri" />
@@ -48,18 +55,11 @@
       <item value="verify" />
       <item value="response is not eligible for a body and must not be closed" />
       <item value="a" />
-      <item value="verify File MD 5" />
-      <item value="digest" />
-      <item value="Message Digest" />
-      <item value="convert Hex" />
-      <item value="certificate" />
-      <item value="SSL Handshake Exception" />
-      <item value="revoked" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2689" />
-        <entry key="ENGLISH" value="2690" />
+        <entry key="CHINESE" value="2696" />
+        <entry key="ENGLISH" value="2697" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
