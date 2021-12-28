@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Digest" />
       <item value="described" />
       <item value="decrypt Pri" />
       <item value="pri" />
@@ -50,7 +51,6 @@
       <item value="verify File MD 5" />
       <item value="digest" />
       <item value="Message Digest" />
-      <item value="Digest" />
       <item value="convert Hex" />
       <item value="certificate" />
       <item value="SSL Handshake Exception" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2688" />
-        <entry key="ENGLISH" value="2689" />
+        <entry key="CHINESE" value="2689" />
+        <entry key="ENGLISH" value="2690" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
