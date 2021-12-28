@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="actual" />
       <item value="Preferences" />
       <item value="Encrypted Shared Preferences" />
       <item value="initialize" />
@@ -54,12 +55,11 @@
       <item value="validity" />
       <item value="cross" />
       <item value="raw" />
-      <item value="except" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2684" />
-        <entry key="ENGLISH" value="2685" />
+        <entry key="CHINESE" value="2686" />
+        <entry key="ENGLISH" value="2687" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="AFRIKAANS" value="1" />
