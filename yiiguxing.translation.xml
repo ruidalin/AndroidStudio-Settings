@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="communication" />
       <item value="get Primitive" />
       <item value="TINK" />
       <item value="ENABLED" />
@@ -54,12 +55,11 @@
       <item value="add Suppressed" />
       <item value="LOG ID SYSTEM" />
       <item value="LOG ID EVENTS" />
-      <item value="LOG ID RADIO" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2700" />
-        <entry key="ENGLISH" value="2701" />
+        <entry key="CHINESE" value="2701" />
+        <entry key="ENGLISH" value="2702" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
