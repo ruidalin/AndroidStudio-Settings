@@ -5,6 +5,17 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="General Security Exception" />
+      <item value="ALGORITHM CONSTRAINED" />
+      <item value="INVALID SIGNATURE" />
+      <item value="UNDETERMINED REVOCATION STATUS" />
+      <item value="REVOKED" />
+      <item value="NOT YET VALID" />
+      <item value="EXPIRED" />
+      <item value="UNSPECIFIED" />
+      <item value="validating" />
+      <item value="variety" />
+      <item value="indicating" />
       <item value="targeting" />
       <item value="Weird" />
       <item value="include Subdomains" />
@@ -44,22 +55,11 @@
       <item value="verify MD5 invalid" />
       <item value="coerce At Most" />
       <item value="on Success Internal" />
-      <item value="invalid" />
-      <item value="Valid" />
-      <item value="expired" />
-      <item value="download Cert If Needed" />
-      <item value="download Cert If Need" />
-      <item value="Needed" />
-      <item value="origin" />
-      <item value="certificate Validity Factory" />
-      <item value="invoke when gc" />
-      <item value="invoke" />
-      <item value="close Quietly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2704" />
-        <entry key="ENGLISH" value="2705" />
+        <entry key="CHINESE" value="2717" />
+        <entry key="ENGLISH" value="2718" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
