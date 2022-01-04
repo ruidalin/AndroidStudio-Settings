@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="keepattributes" />
+      <item value="dontpreverify" />
+      <item value="dontoptimize" />
+      <item value="verbose" />
+      <item value="dontskipnonpubliclibraryclasses" />
+      <item value="dontusemixedcaseclassnames" />
       <item value="promote" />
       <item value="promote Calls" />
       <item value="chunked" />
@@ -49,17 +55,11 @@
       <item value="pri" />
       <item value="decrypt" />
       <item value="actual" />
-      <item value="Preferences" />
-      <item value="Encrypted Shared Preferences" />
-      <item value="initialize" />
-      <item value="is greater than" />
-      <item value="add fun to interface" />
-      <item value="dd fun to interfac" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2728" />
-        <entry key="ENGLISH" value="2729" />
+        <entry key="CHINESE" value="2736" />
+        <entry key="ENGLISH" value="2737" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
