@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Agent Option" />
       <item value="cities" />
       <item value="citys" />
       <item value="minify" />
@@ -54,12 +55,11 @@
       <item value="Weird" />
       <item value="include Subdomains" />
       <item value="communication" />
-      <item value="get Primitive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2756" />
-        <entry key="ENGLISH" value="2757" />
+        <entry key="CHINESE" value="2757" />
+        <entry key="ENGLISH" value="2758" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
