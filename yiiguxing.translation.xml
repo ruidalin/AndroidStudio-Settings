@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="so each of these methods must also handle this case." />
+      <item value="ever" />
+      <item value="up-to-date" />
+      <item value="Compat" />
       <item value="初始化" />
       <item value="初始 " />
       <item value="初始" />
@@ -51,15 +55,11 @@
       <item value="youth" />
       <item value="Cancels the request, if possible. Requests that are already complete cannot be canceled." />
       <item value="digest" />
-      <item value="digest Algorithm" />
-      <item value="General Security Exception" />
-      <item value="ALGORITHM CONSTRAINED" />
-      <item value="INVALID SIGNATURE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2773" />
-        <entry key="ENGLISH" value="2773" />
+        <entry key="CHINESE" value="2776" />
+        <entry key="ENGLISH" value="2777" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
