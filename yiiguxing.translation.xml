@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="bound" />
       <item value="so each of these methods must also handle this case." />
       <item value="ever" />
       <item value="up-to-date" />
@@ -54,12 +55,11 @@
       <item value="recover" />
       <item value="youth" />
       <item value="Cancels the request, if possible. Requests that are already complete cannot be canceled." />
-      <item value="digest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2776" />
-        <entry key="ENGLISH" value="2777" />
+        <entry key="CHINESE" value="2777" />
+        <entry key="ENGLISH" value="2778" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
