@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="初始化" />
+      <item value="初始 " />
+      <item value="初始" />
+      <item value="初始的" />
+      <item value="初始化的" />
+      <item value="的" />
+      <item value="chushidd d dd d dd " />
+      <item value="chushidd d d" />
+      <item value="chushi" />
+      <item value="chu" />
       <item value="consumer" />
       <item value="proguard" />
       <item value="set Agent Option" />
@@ -45,21 +55,11 @@
       <item value="General Security Exception" />
       <item value="ALGORITHM CONSTRAINED" />
       <item value="INVALID SIGNATURE" />
-      <item value="UNDETERMINED REVOCATION STATUS" />
-      <item value="REVOKED" />
-      <item value="NOT YET VALID" />
-      <item value="EXPIRED" />
-      <item value="UNSPECIFIED" />
-      <item value="validating" />
-      <item value="variety" />
-      <item value="indicating" />
-      <item value="targeting" />
-      <item value="Weird" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2760" />
-        <entry key="ENGLISH" value="2761" />
+        <entry key="CHINESE" value="2773" />
+        <entry key="ENGLISH" value="2773" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
