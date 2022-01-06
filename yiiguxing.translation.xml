@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="consumer" />
+      <item value="proguard" />
       <item value="set Agent Option" />
       <item value="cities" />
       <item value="citys" />
@@ -53,13 +55,11 @@
       <item value="indicating" />
       <item value="targeting" />
       <item value="Weird" />
-      <item value="include Subdomains" />
-      <item value="communication" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2757" />
-        <entry key="ENGLISH" value="2758" />
+        <entry key="CHINESE" value="2760" />
+        <entry key="ENGLISH" value="2761" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
@@ -88,7 +88,7 @@
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="6" />
         <entry key="INDONESIAN" value="6" />
-        <entry key="VIETNAMESE" value="4" />
+        <entry key="VIETNAMESE" value="5" />
       </map>
     </option>
   </component>
