@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="m Js String Cache" />
+      <item value="apply Safe Settings" />
       <item value="bound" />
       <item value="so each of these methods must also handle this case." />
       <item value="ever" />
@@ -53,13 +55,11 @@
       <item value="via" />
       <item value="attempt" />
       <item value="recover" />
-      <item value="youth" />
-      <item value="Cancels the request, if possible. Requests that are already complete cannot be canceled." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2777" />
-        <entry key="ENGLISH" value="2778" />
+        <entry key="CHINESE" value="2779" />
+        <entry key="ENGLISH" value="2780" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
