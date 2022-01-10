@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="apply Safe Settings" />
       <item value="existed" />
       <item value="injected" />
       <item value="inject" />
@@ -26,7 +27,6 @@
       <item value="is Needed Inject Javascript Interface Code" />
       <item value="intercept JS Interface" />
       <item value="m Js String Cache" />
-      <item value="apply Safe Settings" />
       <item value="bound" />
       <item value="so each of these methods must also handle this case." />
       <item value="ever" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2800" />
-        <entry key="ENGLISH" value="2801" />
+        <entry key="CHINESE" value="2801" />
+        <entry key="ENGLISH" value="2802" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
