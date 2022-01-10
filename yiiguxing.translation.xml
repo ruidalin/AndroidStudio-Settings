@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="existed" />
+      <item value="injected" />
+      <item value="inject" />
+      <item value="function" />
       <item value="JS Bridge" />
       <item value="bridge" />
       <item value="If Need" />
@@ -51,15 +55,11 @@
       <item value="Source File" />
       <item value="Deprecated" />
       <item value="Signature" />
-      <item value="Inner Classes" />
-      <item value="Exceptions" />
-      <item value="-renamesourcefileattribute SourceFile -keepattributes Exceptions,InnerClasses,Signature,Deprecated,SourceFile,LineNumberTable,EnclosingMethod -keepattributes Annotation Explicitly preserve all serialization members. The Serializable interface is only a marker interface, so it wouldn't save them. You can comment this out if your library doesn't use serialization. If your code contains serializable classes that have to be backward compatible, please refer to the manual. -keepclassmembers class implements java.io.Serializable { static final long serialVersionUID; static final java.io.ObjectStreamField[] serialPersistentFields; private void writeObject(java.io.ObjectOutputStream); private void readObject(java.io.ObjectInputStream); java.lang.Object writeReplace(); java.lang.Object readResolve(); }" />
-      <item value="serialization" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2796" />
-        <entry key="ENGLISH" value="2797" />
+        <entry key="CHINESE" value="2800" />
+        <entry key="ENGLISH" value="2801" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
