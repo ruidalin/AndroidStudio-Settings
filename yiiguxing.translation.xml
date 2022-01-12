@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Can request only one set of permissions at a time" />
       <item value="UX RESTRICTIONS BASELINE" />
       <item value="safe Mode" />
       <item value="apply Safe Settings" />
@@ -54,12 +55,11 @@
       <item value="renamesourcefileattribute" />
       <item value="Enclosing Method" />
       <item value="Line Number Table" />
-      <item value="Source File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2803" />
-        <entry key="ENGLISH" value="2804" />
+        <entry key="CHINESE" value="2804" />
+        <entry key="ENGLISH" value="2805" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
