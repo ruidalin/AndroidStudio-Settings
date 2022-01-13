@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="if Rationale Permission" />
       <item value="is Dynamic Permission" />
       <item value="start App Settings Activity For Result" />
       <item value="if Granted Permission" />
@@ -54,12 +55,11 @@
       <item value="up-to-date" />
       <item value="Compat" />
       <item value="初始化" />
-      <item value="初始 " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2826" />
-        <entry key="ENGLISH" value="2827" />
+        <entry key="CHINESE" value="2827" />
+        <entry key="ENGLISH" value="2828" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
