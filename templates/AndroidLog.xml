@@ -42,8 +42,8 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="logtag" value="private static final String TAG = $ClassName$.class.getSimpleName() + &quot;@TAG&quot;;" description="public static final String TAG" toReformat="true" toShortenFQNames="true">
-    <variable name="ClassName" expression="qualifiedClassName()" defaultValue="" alwaysStopAt="true" />
+  <template name="logtag" value="private static final String TAG = &quot;$ClassName$@TAG&quot;;" description="public static final String TAG" toReformat="true" toShortenFQNames="true">
+    <variable name="ClassName" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GROOVY_DECLARATION" value="true" />
       <option name="JAVA_DECLARATION" value="true" />

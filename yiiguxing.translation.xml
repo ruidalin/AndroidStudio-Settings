@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="instant" />
+      <item value="various" />
+      <item value="associated" />
+      <item value="closely" />
+      <item value="via" />
       <item value="Prior to JELLY_BEAN, Resources.getDrawable() would not correctly retrieve the final configuration density when the resource ID is a reference another Drawable resource. As a workaround, try to resolve the drawable reference manually." />
       <item value="get Granted Permissions" />
       <item value="show Rationale" />
@@ -50,16 +55,11 @@
       <item value="chushi" />
       <item value="chu" />
       <item value="consumer" />
-      <item value="proguard" />
-      <item value="set Agent Option" />
-      <item value="cities" />
-      <item value="citys" />
-      <item value="minify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2808" />
-        <entry key="ENGLISH" value="2809" />
+        <entry key="CHINESE" value="2813" />
+        <entry key="ENGLISH" value="2814" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
