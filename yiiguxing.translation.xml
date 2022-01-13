@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="dispatch Permissions Granted Callback" />
       <item value="fragment" />
       <item value="separate" />
       <item value="instant" />
@@ -54,12 +55,11 @@
       <item value="的" />
       <item value="chushidd d dd d dd " />
       <item value="chushidd d d" />
-      <item value="chushi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2815" />
-        <entry key="ENGLISH" value="2816" />
+        <entry key="CHINESE" value="2818" />
+        <entry key="ENGLISH" value="2819" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
