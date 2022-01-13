@@ -214,6 +214,7 @@
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="CALL_PARAMETERS_WRAP" value="0" />
     <option name="EXTENDS_LIST_WRAP" value="5" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
     <option name="ASSIGNMENT_WRAP" value="0" />
