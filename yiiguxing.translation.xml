@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="guaranteed" />
+      <item value="consistency" />
+      <item value="Nullable" />
       <item value="if Granted Permission" />
       <item value="granted" />
       <item value="grant" />
@@ -52,14 +55,11 @@
       <item value="intercept JS Interface" />
       <item value="m Js String Cache" />
       <item value="bound" />
-      <item value="so each of these methods must also handle this case." />
-      <item value="ever" />
-      <item value="up-to-date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2830" />
-        <entry key="ENGLISH" value="2831" />
+        <entry key="CHINESE" value="2833" />
+        <entry key="ENGLISH" value="2834" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
