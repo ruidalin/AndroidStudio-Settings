@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="rationale" />
       <item value="never Ask" />
       <item value="aks" />
       <item value="ask" />
@@ -41,7 +42,6 @@
       <item value="Prior to JELLY_BEAN, Resources.getDrawable() would not correctly retrieve the final configuration density when the resource ID is a reference another Drawable resource. As a workaround, try to resolve the drawable reference manually." />
       <item value="get Granted Permissions" />
       <item value="show Rationale" />
-      <item value="rationale" />
       <item value="Can request only one set of permissions at a time" />
       <item value="UX RESTRICTIONS BASELINE" />
       <item value="safe Mode" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2844" />
-        <entry key="ENGLISH" value="2845" />
+        <entry key="CHINESE" value="2845" />
+        <entry key="ENGLISH" value="2846" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
