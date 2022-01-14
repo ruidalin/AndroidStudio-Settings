@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Daemon" />
       <item value="Request Permission Notifier" />
       <item value="asynchronous" />
       <item value="immediately" />
@@ -54,12 +55,11 @@
       <item value="build Javascript Interface Code" />
       <item value="gen Javascript Interface Code" />
       <item value="intercept" />
-      <item value="remove Unsafe Javascript Impl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2841" />
-        <entry key="ENGLISH" value="2842" />
+        <entry key="CHINESE" value="2842" />
+        <entry key="ENGLISH" value="2843" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
