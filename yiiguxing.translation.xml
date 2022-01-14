@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="the denied permissions is all never permissions" />
+      <item value="aks" />
+      <item value="the denied permissions is all never aks request" />
+      <item value="reuqest" />
+      <item value="never Permissions" />
+      <item value="never" />
       <item value="guaranteed" />
       <item value="consistency" />
       <item value="Nullable" />
@@ -49,17 +55,12 @@
       <item value="is Safe Javascript Interface" />
       <item value="if Need Inject Javascript Interface Code" />
       <item value="is Need Inject Javascript Interface Code" />
-      <item value="if Needed Inject Javascript Interface Code" />
-      <item value="is Needed" />
-      <item value="is Needed Inject Javascript Interface Code" />
-      <item value="intercept JS Interface" />
-      <item value="m Js String Cache" />
-      <item value="bound" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2833" />
-        <entry key="ENGLISH" value="2834" />
+        <entry key="CHINESE" value="2837" />
+        <entry key="ENGLISH" value="2838" />
+        <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
@@ -84,6 +85,7 @@
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="TURKISH" value="1" />
+        <entry key="UZBEK" value="1" />
         <entry key="SPANISH" value="6" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="6" />
