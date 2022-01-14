@@ -5,13 +5,15 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="never Ask" />
+      <item value="aks" />
+      <item value="ask" />
       <item value="is Daemon" />
       <item value="Request Permission Notifier" />
       <item value="asynchronous" />
       <item value="immediately" />
       <item value="get Intent Being Broadcast" />
       <item value="the denied permissions is all never permissions" />
-      <item value="aks" />
       <item value="the denied permissions is all never aks request" />
       <item value="reuqest" />
       <item value="never Permissions" />
@@ -53,13 +55,11 @@
       <item value="If Need" />
       <item value="inject Javascript Interfaces If Needed" />
       <item value="build Javascript Interface Code" />
-      <item value="gen Javascript Interface Code" />
-      <item value="intercept" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2842" />
-        <entry key="ENGLISH" value="2843" />
+        <entry key="CHINESE" value="2844" />
+        <entry key="ENGLISH" value="2845" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -85,7 +85,7 @@
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="TURKISH" value="1" />
-        <entry key="UZBEK" value="1" />
+        <entry key="UZBEK" value="2" />
         <entry key="SPANISH" value="6" />
         <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="6" />
