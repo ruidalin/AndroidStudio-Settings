@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Request Permission Notifier" />
       <item value="asynchronous" />
       <item value="immediately" />
       <item value="get Intent Being Broadcast" />
@@ -54,12 +55,11 @@
       <item value="gen Javascript Interface Code" />
       <item value="intercept" />
       <item value="remove Unsafe Javascript Impl" />
-      <item value="unsafe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2840" />
-        <entry key="ENGLISH" value="2841" />
+        <entry key="CHINESE" value="2841" />
+        <entry key="ENGLISH" value="2842" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
