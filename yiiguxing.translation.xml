@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Project" />
+      <item value="XM Module" />
       <item value="requestPermissions cost millis" />
       <item value="logcat Invoke Millis" />
       <item value="millis" />
@@ -53,13 +55,11 @@
       <item value="safe Mode" />
       <item value="apply Safe Settings" />
       <item value="existed" />
-      <item value="injected" />
-      <item value="inject" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2850" />
-        <entry key="ENGLISH" value="2851" />
+        <entry key="CHINESE" value="2852" />
+        <entry key="ENGLISH" value="2853" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -95,7 +95,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641782867418" />
+    <option name="lastTrimTime" value="1642386032959" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
