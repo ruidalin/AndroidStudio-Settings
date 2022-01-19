@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="prefixed" />
       <item value="occur" />
       <item value="descriptor" />
       <item value="Only one user of this interface can use this function at a time. This is a heuristic to detect if two different users in the same process use this function." />
@@ -54,12 +55,11 @@
       <item value="validate Request Permissions Request Code" />
       <item value="Notify Request Permissions Bus" />
       <item value="dispatch Permissions Granted Callback" />
-      <item value="fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2864" />
-        <entry key="ENGLISH" value="2865" />
+        <entry key="CHINESE" value="2865" />
+        <entry key="ENGLISH" value="2866" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
