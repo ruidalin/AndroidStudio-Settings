@@ -270,6 +270,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.fbs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="io.github.stefansjs.flatbuffersplugin" />
+              <option name="myPluginName" value="Flatbuffers Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.fs">
           <value>
             <plugin>
