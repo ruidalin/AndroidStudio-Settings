@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="value" />
+      <item value="arr value" />
       <item value="BB Value" />
       <item value="line Separator" />
       <item value="Conflict" />
@@ -53,13 +55,11 @@
       <item value="grant" />
       <item value="if Rationale Permission" />
       <item value="is Dynamic Permission" />
-      <item value="start App Settings Activity For Result" />
-      <item value="if Denied Permission" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2868" />
-        <entry key="ENGLISH" value="2869" />
+        <entry key="CHINESE" value="2870" />
+        <entry key="ENGLISH" value="2871" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
