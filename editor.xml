@@ -32,6 +32,7 @@
   <component name="InlayHintsSettings">
     <option name="disabledHintProviderIds">
       <set>
+        <option value="Groovy.groovy.parameters.hints" />
         <option value="JAVA.JavaLens" />
         <option value="JAVA.annotation.hints" />
         <option value="JAVA.chain.hints" />
@@ -39,7 +40,7 @@
         <option value="kotlin.KotlinReferencesTypeHintsProvider" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="groovy.parameters.hints" />
     <settingsMapElement>
       <kotlin.KotlinReferencesTypeHintsProvider>
         <Settings>
