@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="FAIL ON PROJECT REPOS" />
       <item value="after Evaluate" />
       <item value="is Incremental" />
       <item value="prefer" />
@@ -54,12 +55,11 @@
       <item value="the denied permissions is all never aks request" />
       <item value="reuqest" />
       <item value="never Permissions" />
-      <item value="never" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2878" />
-        <entry key="ENGLISH" value="2879" />
+        <entry key="CHINESE" value="2879" />
+        <entry key="ENGLISH" value="2880" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
