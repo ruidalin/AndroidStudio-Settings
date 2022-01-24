@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="register Transform" />
       <item value="flat" />
       <item value="Generic File System" />
       <item value="android" />
@@ -54,12 +55,11 @@
       <item value="Request Permission Notifier" />
       <item value="asynchronous" />
       <item value="immediately" />
-      <item value="get Intent Being Broadcast" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2883" />
-        <entry key="ENGLISH" value="2884" />
+        <entry key="CHINESE" value="2884" />
+        <entry key="ENGLISH" value="2885" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
