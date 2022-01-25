@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Experimental Unsigned Types" />
       <item value="cmder" />
       <item value="Executor" />
       <item value="Execable" />
@@ -54,12 +55,11 @@
       <item value="Cost" />
       <item value="print Invoke Cost Logcat" />
       <item value="rationale" />
-      <item value="never Ask" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2888" />
-        <entry key="ENGLISH" value="2889" />
+        <entry key="CHINESE" value="2889" />
+        <entry key="ENGLISH" value="2890" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
