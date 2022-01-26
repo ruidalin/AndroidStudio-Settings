@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Handshake" />
+      <item value="handshake" />
+      <item value="start Handshake" />
+      <item value="establish Protocol" />
+      <item value="n android 8.0, socket.connect throws a ClassCastException due to a bug" />
+      <item value="due" />
+      <item value="This explicit check avoids activating in Android Studio with Android specific classes available when running plugins inside the IDE." />
+      <item value="Exchange" />
+      <item value="exactly" />
       <item value="allow Insecure Protocol" />
       <item value="configured" />
       <item value="Used guide" />
@@ -46,20 +55,11 @@
       <item value="decrypt" />
       <item value="ciphertext File" />
       <item value="length" />
-      <item value="读取加密文件cleartext" />
-      <item value="cleartext File" />
-      <item value="decrypt File" />
-      <item value="cleartext" />
-      <item value="Project" />
-      <item value="XM Module" />
-      <item value="requestPermissions cost millis" />
-      <item value="logcat Invoke Millis" />
-      <item value="millis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2893" />
-        <entry key="ENGLISH" value="2894" />
+        <entry key="CHINESE" value="2909" />
+        <entry key="ENGLISH" value="2910" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
