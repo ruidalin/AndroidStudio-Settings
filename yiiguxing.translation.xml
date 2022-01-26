@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="new Fixed Length Source" />
+      <item value="promises Body" />
+      <item value="is Chunked" />
+      <item value="Duplex" />
+      <item value="is Duplex" />
       <item value="receive Headers" />
       <item value="chunked" />
       <item value="Handshake" />
@@ -50,16 +55,11 @@
       <item value="occur" />
       <item value="descriptor" />
       <item value="Only one user of this interface can use this function at a time. This is a heuristic to detect if two different users in the same process use this function." />
-      <item value="heuristic" />
-      <item value="DESCRIPTOR" />
-      <item value="Parcel" />
-      <item value="crossinline" />
-      <item value="decrypt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2911" />
-        <entry key="ENGLISH" value="2912" />
+        <entry key="CHINESE" value="2916" />
+        <entry key="ENGLISH" value="2917" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
