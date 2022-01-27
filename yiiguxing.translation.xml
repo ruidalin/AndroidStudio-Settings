@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="1" />
       <item value="equal" />
       <item value="It is backed by a shared pool of threads on JVM." />
       <item value="reified" />
@@ -54,11 +55,10 @@
       <item value="BB Value" />
       <item value="line Separator" />
       <item value="Conflict" />
-      <item value="prefixed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2919" />
+        <entry key="CHINESE" value="2921" />
         <entry key="ENGLISH" value="2920" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
