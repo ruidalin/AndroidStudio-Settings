@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Quoted" />
+      <item value="print Quoted" />
+      <item value="sealed" />
       <item value="It is backed by a shared pool of threads on JVM. By default, the maximal level of parallelism used by this dispatcher is equal to the number of CPU cores, but is at least two. Level of parallelism X guarantees that no more than X tasks can be executed in this dispatcher in parallel." />
       <item value="Trim" />
       <item value="Trim M" />
@@ -52,14 +55,11 @@
       <item value="FAIL ON PROJECT REPOS" />
       <item value="after Evaluate" />
       <item value="is Incremental" />
-      <item value="prefer" />
-      <item value="Shuttle" />
-      <item value="socketpair" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2926" />
-        <entry key="ENGLISH" value="2927" />
+        <entry key="CHINESE" value="2929" />
+        <entry key="ENGLISH" value="2930" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
