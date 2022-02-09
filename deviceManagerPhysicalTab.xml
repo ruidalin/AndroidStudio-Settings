@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="520022208ddc1663" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-09T12:49:30.848311300Z" />
+        <name value="samsung SM-T580" />
+        <target value="Android 8.1" />
+        <api value="27" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
