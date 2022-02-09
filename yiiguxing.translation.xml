@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Decoration" />
       <item value="Quoted" />
       <item value="print Quoted" />
       <item value="sealed" />
@@ -54,12 +55,11 @@
       <item value="recursive" />
       <item value="FAIL ON PROJECT REPOS" />
       <item value="after Evaluate" />
-      <item value="is Incremental" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2929" />
-        <entry key="ENGLISH" value="2930" />
+        <entry key="CHINESE" value="2930" />
+        <entry key="ENGLISH" value="2931" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
