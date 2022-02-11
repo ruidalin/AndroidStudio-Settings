@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="editting Pair" />
       <item value="charge" />
       <item value="mouth" />
       <item value="nose" />
@@ -54,11 +55,10 @@
       <item value="on Trim Memory" />
       <item value="resources" />
       <item value="integrate" />
-      <item value="immediate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2975" />
+        <entry key="CHINESE" value="2976" />
         <entry key="ENGLISH" value="2976" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
@@ -89,7 +89,7 @@
         <entry key="UZBEK" value="2" />
         <entry key="SPANISH" value="7" />
         <entry key="ITALIAN" value="5" />
-        <entry key="HINDI" value="6" />
+        <entry key="HINDI" value="7" />
         <entry key="INDONESIAN" value="7" />
         <entry key="VIETNAMESE" value="5" />
       </map>
