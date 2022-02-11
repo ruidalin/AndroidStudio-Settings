@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="mouth" />
+      <item value="nose" />
       <item value="distance Y" />
       <item value="distance" />
       <item value="triggered" />
@@ -39,8 +41,6 @@
       <item value="edit Points" />
       <item value="face" />
       <item value="eye" />
-      <item value="mouth" />
-      <item value="nose" />
       <item value="reverse" />
       <item value="operate" />
       <item value="set Param Face Shape" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2973" />
-        <entry key="ENGLISH" value="2973" />
+        <entry key="CHINESE" value="2974" />
+        <entry key="ENGLISH" value="2975" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
