@@ -5,9 +5,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="DIRTY" />
       <item value="READ" />
       <item value="CLEAN" />
-      <item value="DIRTY" />
       <item value="editting Pair" />
       <item value="charge" />
       <item value="mouth" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2978" />
-        <entry key="ENGLISH" value="2979" />
+        <entry key="CHINESE" value="2980" />
+        <entry key="ENGLISH" value="2981" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
