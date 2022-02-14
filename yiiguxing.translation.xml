@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="coordinates" />
+      <item value="Computes" />
       <item value="trim Memory" />
       <item value="acquired" />
       <item value="Preconditions" />
@@ -53,13 +55,11 @@
       <item value="set Param Face Shape" />
       <item value="set Decoration" />
       <item value="Quoted" />
-      <item value="print Quoted" />
-      <item value="sealed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2983" />
-        <entry key="ENGLISH" value="2984" />
+        <entry key="CHINESE" value="2985" />
+        <entry key="ENGLISH" value="2986" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
