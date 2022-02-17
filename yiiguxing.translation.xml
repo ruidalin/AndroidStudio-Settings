@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Anticipate Interpolator" />
+      <item value="Overshoot Interpolator" />
+      <item value="tension" />
+      <item value="Cycle Interpolator" />
+      <item value="cycles" />
+      <item value="set Fill After" />
+      <item value="Accelerate Interpolator" />
       <item value="m Hint View List" />
       <item value="KEY TAG HINT VIEW" />
       <item value="KEY TAG EDIT VIEW" />
@@ -48,18 +55,11 @@
       <item value="jaw M_narrow" />
       <item value="cheek wide" />
       <item value="cheekbone narrow" />
-      <item value="abandon Custom Edit Face" />
-      <item value="negative Value" />
-      <item value="positive Value" />
-      <item value="negative Key" />
-      <item value="layer Edit Face" />
-      <item value="layer" />
-      <item value="bg Edit Dimension" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3002" />
-        <entry key="ENGLISH" value="3003" />
+        <entry key="CHINESE" value="3009" />
+        <entry key="ENGLISH" value="3010" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
