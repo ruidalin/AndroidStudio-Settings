@@ -5,6 +5,20 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="m Edit Touch View" />
+      <item value="touching" />
+      <item value="point Padding" />
+      <item value="touch Size" />
+      <item value="notify Touch Editing View" />
+      <item value="is Operate" />
+      <item value="notify Touch Edit View" />
+      <item value="update Moving View" />
+      <item value="notify Direction View" />
+      <item value="add Rule" />
+      <item value="notify Hint View" />
+      <item value="notiyf Hint View" />
+      <item value="noityf Hint View" />
+      <item value="notify Edit Point View" />
       <item value="apply Hint Animation" />
       <item value="Anticipate Interpolator" />
       <item value="Overshoot Interpolator" />
@@ -28,7 +42,6 @@
       <item value="occurs" />
       <item value="tap" />
       <item value="on Single Tap Up" />
-      <item value="is Operate" />
       <item value="coordinates" />
       <item value="Computes" />
       <item value="trim Memory" />
@@ -42,24 +55,11 @@
       <item value="mouth" />
       <item value="nose" />
       <item value="distance Y" />
-      <item value="distance" />
-      <item value="triggered" />
-      <item value="jaw" />
-      <item value="j" />
-      <item value="key" />
-      <item value="new Negative Value" />
-      <item value="tall" />
-      <item value="low" />
-      <item value="shrink" />
-      <item value="wide" />
-      <item value="narrow" />
-      <item value="jaw M_narrow" />
-      <item value="cheek wide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3010" />
-        <entry key="ENGLISH" value="3011" />
+        <entry key="CHINESE" value="3024" />
+        <entry key="ENGLISH" value="3025" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
