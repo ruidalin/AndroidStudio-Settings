@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="apply Hint Animation" />
       <item value="Anticipate Interpolator" />
       <item value="Overshoot Interpolator" />
       <item value="tension" />
@@ -54,12 +55,11 @@
       <item value="narrow" />
       <item value="jaw M_narrow" />
       <item value="cheek wide" />
-      <item value="cheekbone narrow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3009" />
-        <entry key="ENGLISH" value="3010" />
+        <entry key="CHINESE" value="3010" />
+        <entry key="ENGLISH" value="3011" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
