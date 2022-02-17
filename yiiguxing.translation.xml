@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="m Hint View List" />
       <item value="KEY TAG HINT VIEW" />
       <item value="KEY TAG EDIT VIEW" />
       <item value="KEY TAG mask" />
@@ -54,12 +55,11 @@
       <item value="layer Edit Face" />
       <item value="layer" />
       <item value="bg Edit Dimension" />
-      <item value="set Expression" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3001" />
-        <entry key="ENGLISH" value="3002" />
+        <entry key="CHINESE" value="3002" />
+        <entry key="ENGLISH" value="3003" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
