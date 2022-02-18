@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="positive Key" />
+      <item value="negative Key" />
+      <item value="If you cancel an animation manually, you must call {@link reset()} before starting the animation again." />
+      <item value="Cancel the animation. Cancelling an animation invokes the animation listener, if set, to notify the end of the animation." />
+      <item value="fire Animation End" />
+      <item value="On Scroll Listener" />
       <item value="content Intercept" />
       <item value="set Pose" />
       <item value="m Edit Touch View" />
@@ -49,17 +55,11 @@
       <item value="trim Memory" />
       <item value="acquired" />
       <item value="Preconditions" />
-      <item value="DIRTY" />
-      <item value="READ" />
-      <item value="CLEAN" />
-      <item value="editting Pair" />
-      <item value="charge" />
-      <item value="mouth" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3026" />
-        <entry key="ENGLISH" value="3027" />
+        <entry key="CHINESE" value="3032" />
+        <entry key="ENGLISH" value="3033" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
