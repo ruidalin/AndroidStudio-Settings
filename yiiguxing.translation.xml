@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="directly" />
+      <item value="set Need Face PU" />
       <item value="positive Key" />
       <item value="negative Key" />
       <item value="If you cancel an animation manually, you must call {@link reset()} before starting the animation again." />
@@ -53,13 +55,11 @@
       <item value="coordinates" />
       <item value="Computes" />
       <item value="trim Memory" />
-      <item value="acquired" />
-      <item value="Preconditions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3032" />
-        <entry key="ENGLISH" value="3033" />
+        <entry key="CHINESE" value="3034" />
+        <entry key="ENGLISH" value="3035" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -96,7 +96,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644809873670" />
+    <option name="lastTrimTime" value="1645243216555" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
