@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="load Skeleton" />
       <item value="TITLE EYE INDEX" />
       <item value="TITLE FACE INDEX" />
       <item value="TITLE" />
@@ -54,12 +55,11 @@
       <item value="seek" />
       <item value="tv Seek Dimension" />
       <item value="in Range Of View" />
-      <item value="occurs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3040" />
-        <entry key="ENGLISH" value="3041" />
+        <entry key="CHINESE" value="3041" />
+        <entry key="ENGLISH" value="3042" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
