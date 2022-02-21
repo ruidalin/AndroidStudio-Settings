@@ -7,5 +7,6 @@
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <action id="Git.Fetch" icon="$USER_HOME$/Desktop/5555.png" />
   </component>
 </application>
