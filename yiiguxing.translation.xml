@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Pose" />
       <item value="元素" />
       <item value="ele" />
       <item value="vehicle Platform" />
@@ -26,7 +27,6 @@
       <item value="fire Animation End" />
       <item value="On Scroll Listener" />
       <item value="content Intercept" />
-      <item value="set Pose" />
       <item value="m Edit Touch View" />
       <item value="touching" />
       <item value="point Padding" />
@@ -59,7 +59,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3048" />
-        <entry key="ENGLISH" value="3048" />
+        <entry key="ENGLISH" value="3049" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
