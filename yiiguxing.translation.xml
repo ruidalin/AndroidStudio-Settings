@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="param Type" />
+      <item value="reified" />
       <item value="action Edit Face Custom Back" />
       <item value="set Pose" />
       <item value="元素" />
@@ -53,13 +55,11 @@
       <item value="m Hint View List" />
       <item value="KEY TAG HINT VIEW" />
       <item value="KEY TAG EDIT VIEW" />
-      <item value="KEY TAG mask" />
-      <item value="of Mouth" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3049" />
-        <entry key="ENGLISH" value="3050" />
+        <entry key="CHINESE" value="3051" />
+        <entry key="ENGLISH" value="3052" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
