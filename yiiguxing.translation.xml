@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="m Process Kill Requested" />
       <item value="float To Raw Int Bits" />
       <item value="jumpsuit" />
       <item value="suit" />
@@ -54,12 +55,11 @@
       <item value="is Operate" />
       <item value="notify Touch Edit View" />
       <item value="update Moving View" />
-      <item value="notify Direction View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3066" />
-        <entry key="ENGLISH" value="3067" />
+        <entry key="CHINESE" value="3068" />
+        <entry key="ENGLISH" value="3068" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
