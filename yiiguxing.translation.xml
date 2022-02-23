@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Facade" />
+      <item value="侧脸" />
+      <item value="Side" />
+      <item value="set Figure Facade" />
       <item value="disallow Add To Back Stack" />
       <item value="eyebrow" />
       <item value="eyebrows" />
@@ -51,15 +55,11 @@
       <item value="apply Hint Animation" />
       <item value="Anticipate Interpolator" />
       <item value="Overshoot Interpolator" />
-      <item value="tension" />
-      <item value="Cycle Interpolator" />
-      <item value="cycles" />
-      <item value="set Fill After" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3056" />
-        <entry key="ENGLISH" value="3057" />
+        <entry key="CHINESE" value="3060" />
+        <entry key="ENGLISH" value="3061" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
