@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Expose" />
       <item value="Registering an InstanceCreator with Gson for this type may fix this problem" />
       <item value="observable" />
       <item value="set Skip Launch Screen Ads" />
@@ -54,12 +55,11 @@
       <item value="m Edit Touch View" />
       <item value="touching" />
       <item value="point Padding" />
-      <item value="touch Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3071" />
-        <entry key="ENGLISH" value="3072" />
+        <entry key="CHINESE" value="3072" />
+        <entry key="ENGLISH" value="3073" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
