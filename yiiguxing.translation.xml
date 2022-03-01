@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="sweep Angle" />
+      <item value="start Angle" />
+      <item value="oval" />
+      <item value="arc To" />
       <item value="force Dark Allowed" />
       <item value="window Enable Split Touch" />
       <item value="split Motion Events" />
@@ -51,15 +55,11 @@
       <item value="TITLE EYE INDEX" />
       <item value="TITLE FACE INDEX" />
       <item value="TITLE" />
-      <item value="jawbone Wide" />
-      <item value="get Figure Goods" />
-      <item value="directly" />
-      <item value="set Need Face PU" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3082" />
-        <entry key="ENGLISH" value="3083" />
+        <entry key="CHINESE" value="3086" />
+        <entry key="ENGLISH" value="3087" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
