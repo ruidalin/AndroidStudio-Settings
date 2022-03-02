@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Circular Reveal Card View" />
+      <item value="View Flipper" />
+      <item value="Stack View" />
+      <item value="opaque" />
+      <item value="represents" />
+      <item value="Inline Content View" />
+      <item value="A transparent overlay for gesture input that can be placed on top of other widgets or contain other widgets." />
+      <item value="Corner Round View" />
       <item value="sweep Angle" />
       <item value="start Angle" />
       <item value="oval" />
@@ -13,7 +21,6 @@
       <item value="window Enable Split Touch" />
       <item value="split Motion Events" />
       <item value="consider" />
-      <item value="opaque" />
       <item value="chatty" />
       <item value="fault" />
       <item value="Segmentation" />
@@ -48,18 +55,11 @@
       <item value="元素" />
       <item value="ele" />
       <item value="vehicle Platform" />
-      <item value="SECONDS" />
-      <item value="EYEBROWS" />
-      <item value="EYELASH" />
-      <item value="load Skeleton" />
-      <item value="TITLE EYE INDEX" />
-      <item value="TITLE FACE INDEX" />
-      <item value="TITLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3086" />
-        <entry key="ENGLISH" value="3087" />
+        <entry key="CHINESE" value="3095" />
+        <entry key="ENGLISH" value="3096" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
