@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="actual Draw" />
+      <item value="Circular Reveal Frame Layout" />
+      <item value="draw Round Rect" />
+      <item value="set Clip To Outline" />
       <item value="card Prevent Corner Overlap" />
       <item value="Circular Reveal Card View" />
       <item value="View Flipper" />
@@ -51,15 +55,11 @@
       <item value="check Radix" />
       <item value="param Type" />
       <item value="reified" />
-      <item value="action Edit Face Custom Back" />
-      <item value="set Pose" />
-      <item value="元素" />
-      <item value="ele" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3096" />
-        <entry key="ENGLISH" value="3097" />
+        <entry key="CHINESE" value="3100" />
+        <entry key="ENGLISH" value="3101" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
