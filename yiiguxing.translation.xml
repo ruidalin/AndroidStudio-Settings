@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="translate" />
       <item value="actual Draw" />
       <item value="Circular Reveal Frame Layout" />
       <item value="draw Round Rect" />
@@ -54,12 +55,11 @@
       <item value="eyebrows" />
       <item value="check Radix" />
       <item value="param Type" />
-      <item value="reified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3100" />
-        <entry key="ENGLISH" value="3101" />
+        <entry key="CHINESE" value="3101" />
+        <entry key="ENGLISH" value="3102" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
