@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="can Append Figure Url" />
+      <item value="get Apparel Res Goods Url" />
+      <item value="get Apparel Res Url" />
+      <item value="get Figure Clothing Types" />
+      <item value="get Figure Apparel Url" />
+      <item value="装饰" />
+      <item value="get Head Res Type Goods Url" />
+      <item value="头部装饰商品" />
+      <item value="append Figure Url" />
       <item value="translate" />
       <item value="actual Draw" />
       <item value="Circular Reveal Frame Layout" />
@@ -46,20 +55,11 @@
       <item value="CLOTHES SUIT" />
       <item value="HAT" />
       <item value="HEAD WEAR" />
-      <item value="Facade" />
-      <item value="侧脸" />
-      <item value="Side" />
-      <item value="set Figure Facade" />
-      <item value="disallow Add To Back Stack" />
-      <item value="eyebrow" />
-      <item value="eyebrows" />
-      <item value="check Radix" />
-      <item value="param Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3101" />
-        <entry key="ENGLISH" value="3102" />
+        <entry key="CHINESE" value="3109" />
+        <entry key="ENGLISH" value="3110" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
