@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="query Generate Figure Result" />
+      <item value="create Figure Url" />
+      <item value="generate Figure" />
       <item value="single" />
       <item value="Http Core" />
       <item value="Corer" />
@@ -52,14 +55,11 @@
       <item value="Segmentation" />
       <item value="Segmentation fault" />
       <item value="Is Window Translucent" />
-      <item value="Expose" />
-      <item value="Registering an InstanceCreator with Gson for this type may fix this problem" />
-      <item value="observable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3120" />
-        <entry key="ENGLISH" value="3121" />
+        <entry key="CHINESE" value="3123" />
+        <entry key="ENGLISH" value="3124" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
