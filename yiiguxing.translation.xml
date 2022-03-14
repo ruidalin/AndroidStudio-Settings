@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="remove All Decoration" />
       <item value="dig" />
       <item value="on Active Illumination Profile Received" />
       <item value="on Contour Light Received" />
@@ -54,12 +55,11 @@
       <item value="draw Round Rect" />
       <item value="set Clip To Outline" />
       <item value="card Prevent Corner Overlap" />
-      <item value="Circular Reveal Card View" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3144" />
-        <entry key="ENGLISH" value="3144" />
+        <entry key="ENGLISH" value="3145" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646623993343" />
+    <option name="lastTrimTime" value="1647239894488" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
