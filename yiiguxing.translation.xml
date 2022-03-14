@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns true if this LiveData has active observers." />
+      <item value="has Active Observers" />
       <item value="skeleton" />
       <item value="remove All Decoration" />
       <item value="dig" />
@@ -53,13 +55,11 @@
       <item value="translate" />
       <item value="actual Draw" />
       <item value="Circular Reveal Frame Layout" />
-      <item value="draw Round Rect" />
-      <item value="set Clip To Outline" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3145" />
-        <entry key="ENGLISH" value="3146" />
+        <entry key="CHINESE" value="3147" />
+        <entry key="ENGLISH" value="3148" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
