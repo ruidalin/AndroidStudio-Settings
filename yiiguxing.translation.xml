@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Semaphore" />
       <item value="disable Resource Validation" />
       <item value="The CoroutineDispatcher that is designed for offloading blocking IO tasks to a shared pool of threads." />
       <item value="Unconfined" />
@@ -54,12 +55,11 @@
       <item value="get Figure Clothing Types" />
       <item value="get Figure Apparel Url" />
       <item value="装饰" />
-      <item value="get Head Res Type Goods Url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3152" />
-        <entry key="ENGLISH" value="3153" />
+        <entry key="CHINESE" value="3154" />
+        <entry key="ENGLISH" value="3155" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
