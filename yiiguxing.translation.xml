@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Supervisor Job" />
+      <item value="suspend Coroutine Unintercepted Or Return" />
       <item value="auto Size Preset Sizes" />
       <item value="auto Size Step Granularity" />
       <item value="EYE" />
@@ -53,13 +55,11 @@
       <item value="upload Face Photo File" />
       <item value="upload Face Photo Url" />
       <item value="Picture" />
-      <item value="upload Face Picture Url" />
-      <item value="upload Face Image Url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3163" />
-        <entry key="ENGLISH" value="3164" />
+        <entry key="CHINESE" value="3165" />
+        <entry key="ENGLISH" value="3166" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
