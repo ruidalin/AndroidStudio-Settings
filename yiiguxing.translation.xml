@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="yebrowupper" />
+      <item value="eyebrow" />
+      <item value="lips Length Long" />
+      <item value="eye Spacing" />
+      <item value="chin" />
       <item value="via" />
       <item value="supervisor" />
       <item value="Supervisor Job" />
@@ -50,16 +55,11 @@
       <item value="create Figure Url" />
       <item value="generate Figure" />
       <item value="single" />
-      <item value="Http Core" />
-      <item value="Corer" />
-      <item value="http Corer" />
-      <item value="embed" />
-      <item value="upload Face Photo File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3169" />
-        <entry key="ENGLISH" value="3170" />
+        <entry key="CHINESE" value="3174" />
+        <entry key="ENGLISH" value="3175" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
