@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="存储空间不足" />
+      <item value="not Engouth Space" />
       <item value="yebrowupper" />
       <item value="eyebrow" />
       <item value="lips Length Long" />
@@ -53,13 +55,11 @@
       <item value="relative path" />
       <item value="query Generate Figure Result" />
       <item value="create Figure Url" />
-      <item value="generate Figure" />
-      <item value="single" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3174" />
-        <entry key="ENGLISH" value="3175" />
+        <entry key="CHINESE" value="3176" />
+        <entry key="ENGLISH" value="3176" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
