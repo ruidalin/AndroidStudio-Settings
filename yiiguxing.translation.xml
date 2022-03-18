@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is bound to" />
+      <item value="bound" />
       <item value="存储空间不足" />
       <item value="not Engouth Space" />
       <item value="yebrowupper" />
@@ -53,13 +55,11 @@
       <item value="date expires" />
       <item value="date modified" />
       <item value="relative path" />
-      <item value="query Generate Figure Result" />
-      <item value="create Figure Url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3176" />
-        <entry key="ENGLISH" value="3176" />
+        <entry key="CHINESE" value="3177" />
+        <entry key="ENGLISH" value="3178" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
