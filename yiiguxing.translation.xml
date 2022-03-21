@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="bg color figure sync" />
       <item value="handle Face Item Temporary" />
       <item value="face Round" />
       <item value="face Square" />
@@ -54,12 +55,11 @@
       <item value="overflow Back" />
       <item value="reset State" />
       <item value="apparel Camera" />
-      <item value="bucket" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3183" />
-        <entry key="ENGLISH" value="3184" />
+        <entry key="CHINESE" value="3184" />
+        <entry key="ENGLISH" value="3185" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
