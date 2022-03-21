@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="face Round" />
+      <item value="face Square" />
+      <item value="face Fat" />
+      <item value="face Thin" />
+      <item value="combine Figure Res" />
       <item value="is bound to" />
       <item value="bound" />
       <item value="存储空间不足" />
@@ -50,16 +55,11 @@
       <item value="apparel Camera" />
       <item value="bucket" />
       <item value="BUCKET DISPLAY NAME" />
-      <item value="resolution" />
-      <item value="date added" />
-      <item value="date expires" />
-      <item value="date modified" />
-      <item value="relative path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3177" />
-        <entry key="ENGLISH" value="3178" />
+        <entry key="CHINESE" value="3182" />
+        <entry key="ENGLISH" value="3183" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647239894488" />
+    <option name="lastTrimTime" value="1647830516055" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
