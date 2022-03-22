@@ -5,8 +5,15 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="transition" />
+      <item value="subtracting" />
+      <item value="get Real Size" />
+      <item value="out Largest Size" />
+      <item value="out Smallest Size" />
+      <item value="rectangle" />
+      <item value="decor" />
       <item value="represent" />
+      <item value="necessarily" />
+      <item value="transition" />
       <item value="stable" />
       <item value="floating" />
       <item value="caption Bar" />
@@ -48,18 +55,11 @@
       <item value="Returns true if this LiveData has active observers." />
       <item value="has Active Observers" />
       <item value="skeleton" />
-      <item value="remove All Decoration" />
-      <item value="dig" />
-      <item value="on Active Illumination Profile Received" />
-      <item value="on Contour Light Received" />
-      <item value="on Ambient Light Capability Received" />
-      <item value="on Contour Light Capability Received" />
-      <item value="on Active Ambient Light Changed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3191" />
-        <entry key="ENGLISH" value="3192" />
+        <entry key="CHINESE" value="3200" />
+        <entry key="ENGLISH" value="3201" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
