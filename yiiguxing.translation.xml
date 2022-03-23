@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Undelivered Element" />
       <item value="subtracting" />
       <item value="get Real Size" />
       <item value="out Largest Size" />
@@ -54,12 +55,11 @@
       <item value="but is at least two" />
       <item value="Returns true if this LiveData has active observers." />
       <item value="has Active Observers" />
-      <item value="skeleton" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3200" />
-        <entry key="ENGLISH" value="3201" />
+        <entry key="CHINESE" value="3201" />
+        <entry key="ENGLISH" value="3202" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
