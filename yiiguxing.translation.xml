@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="combine Figure Res" />
       <item value="on Undelivered Element" />
       <item value="subtracting" />
       <item value="get Real Size" />
@@ -26,7 +27,6 @@
       <item value="face Square" />
       <item value="face Fat" />
       <item value="face Thin" />
-      <item value="combine Figure Res" />
       <item value="is bound to" />
       <item value="bound" />
       <item value="存储空间不足" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3201" />
-        <entry key="ENGLISH" value="3202" />
+        <entry key="CHINESE" value="3202" />
+        <entry key="ENGLISH" value="3203" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
