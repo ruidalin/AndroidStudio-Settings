@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Actual" />
+      <item value="uninstall Figure Actual" />
       <item value="load Basic Apparel Suspend" />
       <item value="suit Path" />
       <item value="fence" />
@@ -53,13 +55,11 @@
       <item value="auto Size Preset Sizes" />
       <item value="auto Size Step Granularity" />
       <item value="EYE" />
-      <item value="EYEBROWS" />
-      <item value="of Eyebrows" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3213" />
-        <entry key="ENGLISH" value="3214" />
+        <entry key="CHINESE" value="3215" />
+        <entry key="ENGLISH" value="3216" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
