@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="rest" />
       <item value="Portrait" />
       <item value="sensor Portrait" />
       <item value="Actual" />
@@ -54,12 +55,11 @@
       <item value="supervisor" />
       <item value="Supervisor Job" />
       <item value="suspend Coroutine Unintercepted Or Return" />
-      <item value="auto Size Preset Sizes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3217" />
-        <entry key="ENGLISH" value="3218" />
+        <entry key="CHINESE" value="3218" />
+        <entry key="ENGLISH" value="3219" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
