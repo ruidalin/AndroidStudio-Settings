@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Portrait" />
+      <item value="sensor Portrait" />
       <item value="Actual" />
       <item value="uninstall Figure Actual" />
       <item value="load Basic Apparel Suspend" />
@@ -53,13 +55,11 @@
       <item value="Supervisor Job" />
       <item value="suspend Coroutine Unintercepted Or Return" />
       <item value="auto Size Preset Sizes" />
-      <item value="auto Size Step Granularity" />
-      <item value="EYE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3215" />
-        <entry key="ENGLISH" value="3216" />
+        <entry key="CHINESE" value="3217" />
+        <entry key="ENGLISH" value="3218" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647830516055" />
+    <option name="lastTrimTime" value="1648437702231" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
