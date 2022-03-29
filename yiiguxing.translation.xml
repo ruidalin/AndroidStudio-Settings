@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="iv Primp Figure" />
       <item value="edit Face" />
       <item value="unsupport" />
       <item value="support" />
@@ -54,12 +55,11 @@
       <item value="存储空间不足" />
       <item value="not Engouth Space" />
       <item value="yebrowupper" />
-      <item value="eyebrow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3224" />
-        <entry key="ENGLISH" value="3225" />
+        <entry key="CHINESE" value="3225" />
+        <entry key="ENGLISH" value="3226" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
